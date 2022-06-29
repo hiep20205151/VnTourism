@@ -1,0 +1,14 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Saigon_Zoo_and_Botanical_Gardens
+        rdfs:comment          "The Saigon Zoo and Botanical Gardens, established in 1865, is Vietnam's largest zoo and botanical garden. Located on Nguyen Binh Khiem Street in District 1, T.P. in Ho Chi Minh City, it is home to over a hundred species of mammals, reptiles and birds, as well as many rare orchids and ornamental plants. Also within the grounds is the Museum of Vietnamese History, housing some 25,000 artifacts of history, culture and ethnography of South Vietnam. The grounds also include a temple to the Hung Kings (formerly a monument to Indochinese soldiers who died for France during World War I). Other parts of the zoo are divided into animal and plant conservation areas, an orchid garden, and an amusement park."@en ;
+        rdfs:label            "Saigon Zoo and Botanical Gardens"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Botanical_gardens_in_Vietnam .
+
+dbr:List_of_botanical_gardens_in_Vietnam
+        rdfs:comment          "Botanical gardens in Vietnam have collections consisting entirely of Vietnam native and endemic species; most have a collection that include plants from around the world. There are botanical gardens and arboreta in all states and territories of Vietnam, most are administered by local governments, some are privately owned. \n* Saigon Zoo and Botanical Gardens \n* Da lat botanical garden \n* Bach Thao Park or Hanoi Botanical Garden"@en ;
+        rdfs:label            "List of botanical gardens in Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Botanical_gardens_in_Vietnam .

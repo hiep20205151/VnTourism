@@ -1,0 +1,31 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Sông_Mã_Range  rdfs:comment  "Song Ma Range (Vietnamese: Dãy núi Sông Mã) is a mountain range in Northwest Vietnam. It extends approximately 500 km along the border between Laos and Vietnam. Some high points of the range are above 1,800 m. The range is named after the Ma River (sông Mã)."@en ;
+        rdfs:label            "Sông Mã Range"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Mountain_ranges_of_Vietnam .
+
+dbr:Bảy_Núi  rdfs:comment     "Bảy Núi (Vietnamese: [ɓa᷉ːj nǔj], seven mountains), also known by the Sino-Vietnamese version Thất Sơn (Vietnamese: [tʰə́k ʂəːŋ]), is a range of small mountains located in the Tri Tôn and Tịnh Biên districts in Vietnam's An Giang Province, very close to the Cambodian border. The 710-metre Thiên Cấm Sơn (the Cấm Mountains) is the highest among the mountainous region of Thất Sơn and it is the highest peak in the whole Mekong Delta region. Endowed with such spectacular mountainous terrain, Núi Cấm is known as the \"Đà Lạt of the Mekong Delta\"."@en ;
+        rdfs:label            "Bảy Núi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Mountain_ranges_of_Vietnam .
+
+<http://dbpedia.org/resource/Marble_Mountains_(Vietnam)>
+        rdfs:comment          "Marble Mountains (Vietnamese: Ngũ Hành Sơn; lit. \"five elements mountains\") is a cluster of five marble and limestone hills located in Ngũ Hành Sơn District, south of Da Nang city in Vietnam. The five mountains are named after the five elements: Kim (metal), Thuy (water), Moc (wood), Hoa (fire) and Tho (earth). All of the mountains have cave entrances and numerous tunnels, and it is possible to climb to the summit of Mount Thuy. Several Buddhist sanctuaries can also be found within the mountains, making this a tourist destination."@en ;
+        rdfs:label            "Marble Mountains (Vietnam)"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Mountain_ranges_of_Vietnam .
+
+dbr:Mây_Tào_Mountains
+        rdfs:comment          "The Mây Tào Mountains are a set of tortoise shaped mountains 45 kilometres north east of Nui Dat and was primarily located in Bình Tuy Province and partly with the Phước Tuy Province and Long Khánh Province. Nui Mây Tào was the topographical junction point for the Long Khánh, Bình Tuy and Phước Tuy provinces."@en ;
+        rdfs:label            "Mây Tào Mountains"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Mountain_ranges_of_Vietnam .
+
+dbr:Annamite_Range  rdfs:comment  "The Annamite Range or the Annamese Mountains (French: Chaîne annamitique; Lao: ພູ ຫລວງ Phou Luang; Vietnamese: Dãy (núi) Trường Sơn) is a major mountain range of eastern Indochina, extending approximately 1,100 km (680 mi) through Laos, Vietnam, and a small area in northeast Cambodia. The mountain range is also referred to variously as Annamese Range, Annamese Mountains, Annamese Cordillera, Annamite Mountains and Annamite Cordillera. The name \"Annam\" is the Vietnamese pronunciation and terminology of Chinese: 安南 (Pinyin: Ān Nán), meaning \"to pacify the south\" referring to Vietnam. The French adopted the word and used \"Annamese\" or \"Annamite\" to refer to the Vietnamese."@en ;
+        rdfs:label            "Annamite Range"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Mountain_ranges_of_Vietnam .
+
+dbr:Ba_Vì_mountain_range
+        rdfs:comment          "The Ba Vì mountain range (tên nôm: Núi Ba Vì, tên chữ:Núi Tản Viên) is a soil-limestone mountain range in Vietnam. It covers an area of about 50 km2 in , and Kỳ Sơn districts. The Ba Vì mountain range is called \"the lord of mountains\" (núi chúa) in the Vietnamese spirit though it is not the highest mountain range in Vietnam. At the western foot of the Ba Vì mountain range is the Đà river, while at the eastern edge is an artificial lake called Suối Hai, which is 7 km in length and 4 km in width. The Ba Vì mountain range is a well-known ecological tourism region in northern Vietnam."@en ;
+        rdfs:label            "Ba Vì mountain range"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Mountain_ranges_of_Vietnam .

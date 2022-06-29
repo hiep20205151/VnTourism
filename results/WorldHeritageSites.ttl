@@ -1,0 +1,50 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/resource/Phong_Nha_–_Kẻ_Bàng_National_Park>
+        rdfs:comment          "Phong Nha-Kẻ Bàng (Vietnamese: Vườn quốc gia Phong Nha-Kẻ Bàng) is a national park and UNESCO World Heritage Site in the Bố Trạch and Minh Hóa districts of central Quảng Bình Province in the North Central Coast region of Vietnam, about 500 km south of Hanoi. The park borders the Hin Namno National Park in Khammouane Province, Laos to the west and 42 km east of the South China Sea from its borderline point. Phong Nha-Kẻ Bàng National Park is in a limestone zone of 2,000 km2 in Vietnamese territory and borders another limestone zone of 2,000 km2 of Hin Namno in Laotian territory. The core zone of this national park covers 857.54 km2 and a buffer zone of 1,954 km2."@en ;
+        rdfs:label            "Phong Nha – Kẻ Bàng National Park"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:List_of_World_Heritage_Sites_in_Vietnam
+        rdfs:comment          "The United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Sites are places of importance to cultural or natural heritage as described in the UNESCO World Heritage Convention, established in 1972. Vietnam accepted the convention on 19 October 1987, making its natural and cultural sites eligible for inclusion on the list. As of 2021, there are eight World Heritage Sites in Vietnam, including five cultural sites, two natural sites, and one mixed. Vietnam holds the second-highest number of World Heritage Sites in Southeast Asia, after Indonesia with nine sites."@en ;
+        rdfs:label            "List of World Heritage Sites in Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:Mỹ_Sơn  rdfs:comment      "Mỹ Sơn (Vietnamese pronunciation: [mǐˀ səːn]) is a cluster of abandoned and partially ruined Hindu temples in central Vietnam, constructed between the 4th and the 14th century by the Kings of Champa, an Indianized kingdom of the Cham people. The temples are dedicated to the worship of the god Shiva, known under various local names, the most important of which is Bhadreshvara. Mỹ Sơn is perhaps the longest inhabited archaeological site in Indochina, but a large majority of its architecture was destroyed by US bombing during a single week of the Vietnam War."@en ;
+        rdfs:label            "Mỹ Sơn"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:The_Road_of_Heritage_Sites_in_Central_Vietnam
+        rdfs:comment          "The Road of Heritage Sites in Central Vietnam is a tourism program initiated by the Administration of Tourism of Vietnam. This road will link World Heritage Sites in the Middle of Vietnam, namely: Phong Nha-Ke Bang National Park (Quang Binh province), ancient capital of Huế, ancient trade port city of Hoi An (Quang Nam province) and My Son Champa ancient capital. This road will also link other World Heritage points of Angkor Wat (Cambodia) and Luang Prabang (Laos) in another tourism program called \"Vietnam - Laos - Cambodia, 3 countries, one destination\"."@en ;
+        rdfs:label            "The Road of Heritage Sites in Central Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:Huế  rdfs:comment         "Huế (Vietnamese: [hwě]) is the capital of Thừa Thiên Huế Province in central Vietnam and was the capital of Đàng Trong from 1738 to 1775 and of Vietnam during the Nguyễn Dynasty from 1802 to 1945. The city served as the administrative capital for the Nguyễn dynasty, and later functioned as the administrative capital of the protectorate of Annam during the French Indochina period."@en ;
+        rdfs:label            "Huế"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:Tràng_An_Scenic_Landscape_Complex
+        rdfs:comment          "Tràng An is a scenic area near Ninh Bình, Vietnam renowned for its boat cave tours.On 23 June 2014, at the 38th session of the World Heritage Committee in Doha, the Trang An Scenic Landscape Complex was inscribed as a UNESCO World Heritage Site. The Trang An Scenic Landscape Complex includes Hoa Lư, Tam Cốc/Bích Động, and Bai Dinh Temple."@en ;
+        rdfs:label            "Tràng An Scenic Landscape Complex"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:Citadel_of_the_Hồ_Dynasty
+        rdfs:comment          "Citadel of the Hồ Dynasty (Vietnamese: Thành nhà Hồ, Hán Nôm: 城家胡; also called Tây Đô castle or Tây Giai castle) is a 15th century stone fortress in Thanh Hóa, Vietnam. It served as the Western Capital of the Hồ Dynasty (1400-1407). It is located in Tây Giai commune, Vĩnh Lộc District, in Thanh Hóa Province, in Vietnam's North Central Coast region. The castle was constructed from stone blocks, each of which is 2×1×0.7 m (6.6×3.3×2.3 ft) size on average. Except for its gates, the castle is mostly ruined. The Citadel was inscribed on UNESCO World Heritage Sites on June 27, 2011."@en ;
+        rdfs:label            "Citadel of the Hồ Dynasty"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:Imperial_Citadel_of_Thăng_Long
+        rdfs:comment          "The Imperial Citadel of Thăng Long (Vietnamese: Hoàng thành Thăng Long; Hán-Nôm: 皇城昇龍) is a complex of historic imperial buildings located in the centre of Hanoi, Vietnam. It was first constructed in 1011 under the reign of Emperor Lý Thái Tổ of Lý dynasty."@en ;
+        rdfs:label            "Imperial Citadel of Thăng Long"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:Hội_An  rdfs:comment      "Hội An (Vietnamese: [hôjˀ aːn]), formerly known as Fai-Fo or Faifoo, is a city with a population of approximately 120,000 in Vietnam's Quảng Nam Province and is noted as a UNESCO World Heritage Site since 1999. Along with the Cu Lao Cham archipelago, it is part of the Cu Lao Cham-Hoi An Biosphere Reserve, designated in 2009."@en ;
+        rdfs:label            "Hội An"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:Hạ_Long_Bay  rdfs:comment  "Hạ Long Bay or Halong Bay (Vietnamese: Vịnh Hạ Long, IPA: [vînˀ hâːˀ lawŋm]) is a UNESCO World Heritage Site and popular travel destination in Quảng Ninh Province, Vietnam. The name Hạ Long means \"descending dragon\". Administratively, the bay belongs to Hạ Long city, Cẩm Phả city, and is a part of Vân Đồn District. The bay features thousands of limestone karsts and isles in various shapes and sizes. Ha Long Bay is a center of a larger zone which includes Bai Tu Long Bay to the northeast, and Cát Bà Island to the southwest. These larger zones share a similar geological, geographical, geomorphological, climate, and cultural characters."@en ;
+        rdfs:label            "Hạ Long Bay"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .

@@ -1,0 +1,62 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Hanoi_Contemporary_Arts_Centre
+        rdfs:comment          "The Contemporary Arts Centre is located in Hanoi, Vietnam that showcases modern Vietnamese art."@en ;
+        rdfs:label            "Hanoi Contemporary Arts Centre"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+<http://dbpedia.org/resource/Vietnam_People's_Air_Force_Museum,_Hanoi>
+        rdfs:comment          "The Vietnam People's Air Force Museum, Hanoi or Bảo Tàng Phòng Không - Không Quân is located on Truong Chinh Street in the Bach Mai District of Hanoi. The museum is on the edge of the disused Bach Mai Airfield. The museum is open Mon.-Thurs. and Sat.-Sun. from 08:00 to 11:00 and 13:00 to 16:00. Entry fee is 20,000 VND"@en ;
+        rdfs:label            "Vietnam People's Air Force Museum, Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+dbr:Ho_Chi_Minh_Museum
+        rdfs:comment          "The Ho Chi Minh Museum is located in Hanoi, Vietnam. Constructed in the 1990s, it is dedicated to the late Vietnamese leader Ho Chi Minh and Vietnam's revolutionary struggle against foreign powers. Ho Chi Minh museum is located in the Ho Chi Minh complex. The museum documents Ho Chi Minh's life, with 8 chronological exhibitions. The first one, from 1890 to 1910 modeled after his upbringing, hometown and youth. The second exhibit concerns the next ten years of his life, when Ho Chi Minh travelled the world seeking a means of freeing Vietnam from the restraints of colonialism."@en ;
+        rdfs:label            "Ho Chi Minh Museum"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+dbr:Vietnam_National_Museum_of_Fine_Arts
+        rdfs:comment          "The Vietnam National Museum of Fine Arts (Vietnamese: Viện Bảo tàng Mỹ thuật Việt Nam; Hán tự: 院寶藏美術越南) is located in Hanoi, Vietnam. It is a museum showcasing Vietnam's fine arts from a range of historical periods. It is the country's primary art museum, the second being the smaller Ho Chi Minh City Museum of Fine Arts. The museum presents a small collection of late 20th and early 21st Century painting, including works by artists exploring abstraction and abstract impressionism, giving greater attention to the individualist artist."@en ;
+        rdfs:label            "Vietnam National Museum of Fine Arts"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+dbr:Vietnam_Military_History_Museum
+        rdfs:comment          "The Vietnam Military History Museum, set up on 17 July 1956, is one of seven national museums in Vietnam. It covers 12,800 m2. It is situated in central Hanoi, opposite the Lenin Park and near the Ho Chi Minh Mausoleum. The Flag Tower of Hanoi is located inside of the museum grounds."@en ;
+        rdfs:label            "Vietnam Military History Museum"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+dbr:Vietnam_Museum_of_Revolution
+        rdfs:comment          "The Vietnam Museum of Revolution (Vietnamese: Viện Bảo tàng Cách mạng Việt Nam; Hán tự: 院寶藏革命越南) was a museum in Hanoi, Vietnam. Located in the area of the city, it was established in August 1959 in a two-story building, formerly used by the Trade Department of Vietnam. It was redesigned into 30 galleries, and as of 2008 contains in excess of 40,000 historical exhibits."@en ;
+        rdfs:label            "Vietnam Museum of Revolution"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+dbr:Hỏa_Lò_Prison  rdfs:comment  "Hỏa Lò Prison (Vietnamese: [hwa᷉ː lɔ̂]) was a prison used by the French colonists in French Indochina for political prisoners, and later by North Vietnam for U.S. prisoners of war during the Vietnam War. During this later period it was known to American POWs as the \"Hanoi Hilton\". The prison was demolished during the 1990s, although the gatehouse remains as a museum."@en ;
+        rdfs:label            "Hỏa Lò Prison"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+dbr:Hanoi_Museum  rdfs:comment  "The Museum of Hanoi (Vietnamese: Bảo tàng Hà Nội) is located in Nam Từ Liêm district of Hanoi, Vietnam. The museum displays artifacts from Hanoi's 1000-year history and the history, culture, heritage, and architecture of Vietnam. It showcases over 50,000 artifacts in a total area of nearly 54,000 square meters. The Hanoi museum was opened in 2010 for the Millennial Anniversary of Hanoi. The building has an overall design of an inverted Pyramid."@en ;
+        rdfs:label            "Hanoi Museum"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+<http://dbpedia.org/resource/Vietnamese_Women's_Museum>
+        rdfs:comment          "Established and operated by the Vietnam Women’s Union, the Vietnamese Women’s Museum officially opened its doors to public in 1995. The four-storey building is in Hanoi, Ly Thuong Kiet Street, situated along the central Hoan Kiem Lake and old quarter. It underwent renovation between 2006 and 2010. It functions as a gender museum and research centre that provides knowledge on the historical and cultural heritage of Vietnamese women among the nation’s 54 ethnic communities. By featuring women as its central theme, it illuminates the significant roles and contributions of Vietnamese women in the historical and cultural development of Vietnam. The museum also provides a platform for intercultural exchanges to occur between women in Vietnam and global societies, with the goal of fostering “equa"@en ;
+        rdfs:label            "Vietnamese Women's Museum"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+dbr:Vietnam_Museum_of_Ethnology
+        rdfs:comment          "The Vietnam Museum of Ethnology (Vietnamese: Bảo tàng Dân tộc học Việt Nam) is a museum in Hanoi, Vietnam, which focuses on the 54 officially recognised ethnic groups in Vietnam. It is located on a 43,799-square-metre (10.823-acre) property in the Cầu Giấy District, about 8 km from the city center. The Museum is a member of the Vietnam Academy of Social Sciences - an academic institution of the Vietnamese Government. A second exhibition building was open in 2013 and has a focus on Southeast Asian cultures and peoples."@en ;
+        rdfs:label            "Vietnam Museum of Ethnology"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+dbr:Vietnam_National_Museum_of_History
+        rdfs:comment          "The Vietnam National Museum of History (Vietnamese: Viện Bảo tàng Lịch sử Việt Nam) is in the Hoan Kiem district of Hanoi, Vietnam. The museum building was an archaeological research institution of the French School of the Far East under French colonial rule (Louis Finot École française d'Extrême-Orient EFEO) of 1910, was extensively refurbished in 1920. It was redesigned between 1926 and 1932 by architect Ernest Hébrard. The museum was acquired by the Government of Vietnam in 1958 and then the artifact collections were expanded to cover eastern arts and national history."@en ;
+        rdfs:label            "Vietnam National Museum of History"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .
+
+<http://dbpedia.org/resource/B-52_Victory_Museum,_Hanoi>
+        rdfs:comment          "The B-52 Victory Museum, Hanoi or Bảo Tàng Chiến Thắng B.52 is located at 157 Đội Cấn, Ba Đình district, Hanoi. The museum comprises one main building with displays on the history of the Vietnamese revolution, the First Indochina War, the Vietnam War, Operations Rolling Thunder, Linebacker and Linebacker II and the air defense of Hanoi. The outdoor displays include the wreckage of a B-52D or G Stratofortress apparently shot down during Operation Linebacker II (although no specific details are provided) and various air defense equipment."@en ;
+        rdfs:label            "B-52 Victory Museum, Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Museums_in_Hanoi .

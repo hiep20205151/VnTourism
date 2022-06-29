@@ -1,0 +1,44 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/resource/Vietnam_People's_Air_Force_Museum,_Hanoi>
+        rdfs:comment          "The Vietnam People's Air Force Museum, Hanoi or Bảo Tàng Phòng Không - Không Quân is located on Truong Chinh Street in the Bach Mai District of Hanoi. The museum is on the edge of the disused Bach Mai Airfield. The museum is open Mon.-Thurs. and Sat.-Sun. from 08:00 to 11:00 and 13:00 to 16:00. Entry fee is 20,000 VND"@en ;
+        rdfs:label            "Vietnam People's Air Force Museum, Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Military_and_war_museums_in_Vietnam .
+
+dbr:List_of_war_museums_and_monuments_in_Vietnam
+        rdfs:comment          "There are numerous war museums, memorials and monuments in Vietnam, this page presents a partial list of museums and monuments located in Vietnam relating to the First Indochina War and the Second Indochina War. This list is organized by location."@en ;
+        rdfs:label            "List of war museums and monuments in Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Military_and_war_museums_in_Vietnam .
+
+dbr:Vietnam_Military_History_Museum
+        rdfs:comment          "The Vietnam Military History Museum, set up on 17 July 1956, is one of seven national museums in Vietnam. It covers 12,800 m2. It is situated in central Hanoi, opposite the Lenin Park and near the Ho Chi Minh Mausoleum. The Flag Tower of Hanoi is located inside of the museum grounds."@en ;
+        rdfs:label            "Vietnam Military History Museum"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Military_and_war_museums_in_Vietnam .
+
+dbr:War_Remnants_Museum
+        rdfs:comment          "The War Remnants Museum (Vietnamese: Bảo tàng chứng tích chiến tranh) is a war museum at 28 Vo Van Tan, in District 3, Ho Chi Minh City (Saigon), Vietnam. It contains exhibits relating to the First Indochina War and the Vietnam War."@en ;
+        rdfs:label            "War Remnants Museum"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Military_and_war_museums_in_Vietnam .
+
+<http://dbpedia.org/resource/Vietnam_People's_Air_Force_Museum,_Ho_Chi_Minh_City>
+        rdfs:comment          "The Vietnam People's Air Force Museum, Saigon or Bảo Tàng Phòng Không - Không Quân is located on Duong Thang Long (Thang Long Street) in the Phuong 4 District of Ho Chi Minh City. The museum is near to Tan Son Nhat International Airport and adjacent to the gate to Tan Son Nhut Air Base. The museum is open Tuesday-Thursday and weekends from 07:30 to 11:00 and 13:30 to 17:00. Admission is free."@en ;
+        rdfs:label            "Vietnam People's Air Force Museum, Ho Chi Minh City"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Military_and_war_museums_in_Vietnam .
+
+dbr:Southeastern_Armed_Forces_Museum_Military_Zone_7
+        rdfs:comment          "The Southeastern Armed Forces Museum Military Zone 7 is a military museum located at 247 Hoang Van Thu Street, Tan Banh District, Ho Chi Minh City, Vietnam. It covers all Vietnamese resistance to foreign occupation from the Chinese occupation, the First Indochina War and the Vietnam War and the Cambodian–Vietnamese War. The Museum's opening hours are from 07:30 to 11:30 and from 13:00 to 16:30 daily except Monday. Admission is free for Vietnamese and 40,000 VND for non-Vietnamese, plus VND 10,000 to take photos."@en ;
+        rdfs:label            "Southeastern Armed Forces Museum Military Zone 7"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Military_and_war_museums_in_Vietnam .
+
+<http://dbpedia.org/resource/B-52_Victory_Museum,_Hanoi>
+        rdfs:comment          "The B-52 Victory Museum, Hanoi or Bảo Tàng Chiến Thắng B.52 is located at 157 Đội Cấn, Ba Đình district, Hanoi. The museum comprises one main building with displays on the history of the Vietnamese revolution, the First Indochina War, the Vietnam War, Operations Rolling Thunder, Linebacker and Linebacker II and the air defense of Hanoi. The outdoor displays include the wreckage of a B-52D or G Stratofortress apparently shot down during Operation Linebacker II (although no specific details are provided) and various air defense equipment."@en ;
+        rdfs:label            "B-52 Victory Museum, Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Military_and_war_museums_in_Vietnam .
+
+<http://dbpedia.org/resource/Zone_5_Military_Museum,_Danang>
+        rdfs:comment          "The Zone 5 Military Museum (Bao Tang Khu 5) is a military museum located at 3 Duy Tân, Da Nang, Vietnam. It covers all Vietnamese resistance to foreign occupation from the Chinese occupation, the First Indochina War with the French, the Vietnam War and the current standoff with China over the Spratly Islands and the Paracel Islands. The Museum's opening hours are from 07:30 to 10:30 and from 13:30 to 16:30 daily except Monday. Admission is free for Vietnamese and VND 60,000 for non-Vietnamese, plus VND 10,000 to take photos."@en ;
+        rdfs:label            "Zone 5 Military Museum, Danang"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Military_and_war_museums_in_Vietnam .

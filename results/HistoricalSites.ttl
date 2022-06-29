@@ -1,0 +1,76 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Presidential_Palace_Historical_Site
+        rdfs:comment          "Presidential Palace Historical Site (Vietnamese: Khu di tích Phủ Chủ tịch), which is located in Hanoi, Vietnam, is the place where Ho Chi Minh lived and worked in most of his revolutionary life (from December 19, 1954, to September 2, 1969). This site was listed by the Ministry of Culture and Information of Vietnam in 1975."@en ;
+        rdfs:label            "Presidential Palace Historical Site"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+<http://dbpedia.org/resource/Temple_of_Literature,_Hanoi>
+        rdfs:comment          "Văn Miếu (Vietnamese: Văn Miếu, Hán tự: 文廟) is a temple dedicated to Confucius in Hanoi, northern Vietnam. The temple also hosts the Imperial Academy (Quốc Tử Giám, 國子監), Vietnam's first national university. The temple was built in 1070 at the time of Emperor Lý Thánh Tông. It is one of several temples in Vietnam which is dedicated to Confucius, sages and scholars. The temple is located to the south of the Imperial Citadel of Thăng Long. The various pavilions, halls, statues and stelae of doctors are places where offering ceremonies, study sessions and the strict exams of the Đại Việt took place. The temple is featured on the back of the 100,000 Vietnamese đồng banknote. Just before the Vietnamese New Year celebration Tết, calligraphists will assemble outside the temple and write wishes in"@en ;
+        rdfs:label            "Temple of Literature, Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Cổ_Loa_Citadel  rdfs:comment  "Cổ Loa Citadel (Vietnamese: Cổ Loa thành) is an important fortified settlement and archaeological site in present-day Hanoi's Dong Anh district, roughly 17 kilometers north of present-day Hanoi, in the upper plain north of the Hong River. Various relics of the Bronze Age Phung Nguyen culture and Dong Son culture have been found in Cổ Loa, although it was later established as the capital of Âu Lạc Kingdom during the 3rd century BCE (about 257 BCE). It might be the first political center of the Vietnamese civilization. The settlement’s concentric walls resemble a snail’s shell; it had an outer embankment covering 600 hectares."@en ;
+        rdfs:label            "Cổ Loa Citadel"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Sơn_Tây_prison_camp
+        rdfs:comment          "The Sơn Tây prison camp was a POW camp operated by North Vietnam near Sơn Tây and approximately 23 miles (37 km) west of Hanoi in the late 1960s through late 1970 and again in 1975. About 65 US prisoners of war were held there during the middle of the Vietnam War. It was later used to house foreigners captured in South Vietnam during the 1975 Spring Offensive."@en ;
+        rdfs:label            "Sơn Tây prison camp"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+<http://dbpedia.org/resource/Grand_Palais_(Hanoi)>
+        rdfs:comment          "The Grand Palais or Grand Palais de l'Exposition (Vietnamese: Nhà Đấu xảo) was an exhibition and trade fair complex in Hanoi, Vietnam. It was built for the 1902 Hanoi Exhibition world trade fair, as the city became the capital of French Indochina. It was completely destroyed by American airstrikes in World War II."@en ;
+        rdfs:label            "Grand Palais (Hanoi)"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Ho_Chi_Minh_Mausoleum
+        rdfs:comment          "The President Ho Chi Minh Mausoleum (Vietnamese: Lăng Chủ tịch Hồ Chí Minh) is a mausoleum which serves as the resting place of Vietnamese Revolutionary leader and President Ho Chi Minh in Hanoi, Vietnam. It is a large building located in the center of Ba Dinh Square, where Ho, Chairman of the Workers' Party of Vietnam from 1951 until his death in 1969, read the Declaration of Independence on 2 September 1945, establishing the Democratic Republic of Vietnam. It is open to the public."@en ;
+        rdfs:label            "Ho Chi Minh Mausoleum"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Flag_Tower_of_Hanoi
+        rdfs:comment          "The Flag Tower of Hanoi (Vietnamese: Cột cờ Hà Nội) is a tower in Hanoi, Vietnam, which is one of the symbols of the city and once a part of the Hanoi Citadel, a World Heritage Site. Its height is 33.4 m (41 m with the flag)."@en ;
+        rdfs:label            "Flag Tower of Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+<http://dbpedia.org/resource/Presidential_Palace,_Hanoi>
+        rdfs:comment          "The Presidential Palace of Vietnam (Vietnamese: Phủ Chủ tịch) located in the city of Hanoi, was built between 1900 and 1906 to house the French Governor-General of Indochina."@en ;
+        rdfs:label            "Presidential Palace, Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Láng_Pagoda  rdfs:comment  "Láng Pagoda (Vietnamese: Chùa Láng, Chinese: 昭禪寺) is a Buddhist temple in Láng village, Đống Đa District, Hanoi, Vietnam. It is known in French as Pagode des Dames (Pagoda of the Ladies). It worships Buddhist monk Từ Đạo Hạnh and was built by king Lý Anh Tông."@en ;
+        rdfs:label            "Láng Pagoda"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Imperial_Citadel_of_Thăng_Long
+        rdfs:comment          "The Imperial Citadel of Thăng Long (Vietnamese: Hoàng thành Thăng Long; Hán-Nôm: 皇城昇龍) is a complex of historic imperial buildings located in the centre of Hanoi, Vietnam. It was first constructed in 1011 under the reign of Emperor Lý Thái Tổ of Lý dynasty."@en ;
+        rdfs:label            "Imperial Citadel of Thăng Long"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Turtle_Tower  rdfs:comment  "Turtle Tower (Vietnamese: Tháp Rùa / 塔𪛇), also called Tortoise Tower is a small tower in the middle of Hoan Kiem Lake (Sword Lake) in central Hanoi, Vietnam."@en ;
+        rdfs:label            "Turtle Tower"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+<http://dbpedia.org/resource/State_Guest_House_(Vietnam)>
+        rdfs:comment          "The State Guest House (Vietnamese: Nhà khách Chính phủ) is a historical monument in Hoàn Kiếm District, Hanoi, Vietnam. It is presently used as a state guest house. The building is representative of French Colonial architecture in French Indochina. It formerly was the residential palace of the Tonkin Governor (French: Le Palais du Résident Supérieur du Tonkin, Vietnamese: Dinh Thống Sứ Bắc Kỳ), built between 1918 and 1919 to house the French Governor of Tonkin. It was later renamed the Tonkin Palace (Vietnamese: Bắc Bộ Phủ) when the Viet Minh took over northern Vietnam."@en ;
+        rdfs:label            "State Guest House (Vietnam)"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Quán_Thánh_Temple
+        rdfs:comment          "Quán Thánh Temple (Vietnamese: Đền Quán Thánh), formerly known as Trấn Vũ Temple (Hán Việt: Trấn Vũ Quán, Hán tự: 真武觀), is a Taoist temple in Hanoi, Vietnam. Dated to the 11th century, the temple was dedicated to Xuan Wu, or Trấn Vũ in Vietnamese, one of the principal deities in Taoism. As one of the of the capital, Quan Thánh Temple is located near West Lake in a ward of the same name: Quán Thánh Ward; and is one of the leading tourist attractions in Hanoi. The temple's name means Place (alternatively shop/restaurant) of the Gods. The name of the long street running by the temple is also called 'Quán Thánh' street."@en ;
+        rdfs:label            "Quán Thánh Temple"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Hanoi_Opera_House
+        rdfs:comment          "The Hanoi Opera House (French: Opéra de Hanoï), or the Grand Opera House (Vietnamese: Nhà hát lớn Hà Nội, French: Grand Opéra) is an opera house in central Hanoi, Vietnam. It was erected by the French colonial administration between 1901 and 1911. Hanoi Opera House is one of three opera houses that the French built during their time in Indochina, the others are Haiphong Opera House and Municipal Theatre in Ho Chi Minh city."@en ;
+        rdfs:label            "Hanoi Opera House"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+dbr:Hanoi_Ceramic_Mosaic_Mural
+        rdfs:comment          "Hanoi Ceramic Mosaic Mural, or Hanoi Ceramic Road (Vietnamese: Con đường Gốm sứ), is a ceramic mosaic mural along the walls of the Red River dike system in the city of Hanoi, northern Vietnam. With a length of about 6.5 kilometres (4.0 mi), the 'Ceramic Road' is one of the major projects that were developed on the occasion of the Millennial Anniversary of Hanoi."@en ;
+        rdfs:label            "Hanoi Ceramic Mosaic Mural"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
