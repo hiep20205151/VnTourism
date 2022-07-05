@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class Main {
 	public static void main(String[] args) {
 		ArrayList<Topic> topics = new ArrayList<Topic>();
-		Topic lake = new Lake();
+		Topic lake = new Lake();		//polymorphism
 		topics.add(lake);
 //		topics.add(new AmusementParks());
 //		topics.add(new Beaches());
