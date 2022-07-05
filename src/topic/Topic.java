@@ -28,10 +28,6 @@ public abstract class Topic {
 	public void setFolder(String folder) {
 		this.folder = folder;
 	}
-
-	public Topic() {
-		super();
-	}
 	
 	public String getInput() {
 		return input;
