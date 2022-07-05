@@ -15,7 +15,7 @@ import org.apache.jena.query.ParameterizedSparqlString;
 import org.apache.jena.query.QueryExecution;
 import org.apache.jena.rdf.model.Model;
 
-public class Topic {
+public abstract class Topic {
 	private String input;
 	private String output;
 	private String folder = "C:\\Users\\hiep4\\Documents\\eclipse-workspace\\VnTourismProject2\\results";
