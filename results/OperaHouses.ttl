@@ -3,6 +3,11 @@
 @prefix dbr:  <http://dbpedia.org/resource/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
+<http://dbpedia.org/resource/Municipal_Theatre,_Ho_Chi_Minh_City>
+        rdfs:comment          "The Municipal Theatre of Ho Chi Minh City, also known as Saigon Municipal Opera House (Vietnamese: Nhà hát Thành phố Hồ Chí Minh), is an opera house in Ho Chi Minh City, Vietnam. It is an example of French Colonial architecture in Vietnam."@en ;
+        rdfs:label            "Municipal Theatre, Ho Chi Minh City"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Opera_houses_in_Vietnam .
+
 dbr:Haiphong_Opera_House
         rdfs:comment          "Haiphong Opera House (Vietnamese Nhà hát lớn Hải Phòng) is a French-built neoclassical opera house on Opera Square (Quảng trường Nhà hát lớn) in Hai Phong, which was opened in 1912."@en ;
         rdfs:label            "Haiphong Opera House"@en ;
@@ -11,9 +16,4 @@ dbr:Haiphong_Opera_House
 dbr:Hanoi_Opera_House
         rdfs:comment          "The Hanoi Opera House (French: Opéra de Hanoï), or the Grand Opera House (Vietnamese: Nhà hát lớn Hà Nội, French: Grand Opéra) is an opera house in central Hanoi, Vietnam. It was erected by the French colonial administration between 1901 and 1911. Hanoi Opera House is one of three opera houses that the French built during their time in Indochina, the others are Haiphong Opera House and Municipal Theatre in Ho Chi Minh city."@en ;
         rdfs:label            "Hanoi Opera House"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Opera_houses_in_Vietnam .
-
-<http://dbpedia.org/resource/Municipal_Theatre,_Ho_Chi_Minh_City>
-        rdfs:comment          "The Municipal Theatre of Ho Chi Minh City, also known as Saigon Municipal Opera House (Vietnamese: Nhà hát Thành phố Hồ Chí Minh), is an opera house in Ho Chi Minh City, Vietnam. It is an example of French Colonial architecture in Vietnam."@en ;
-        rdfs:label            "Municipal Theatre, Ho Chi Minh City"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Opera_houses_in_Vietnam .

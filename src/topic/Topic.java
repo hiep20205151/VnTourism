@@ -18,7 +18,7 @@ import org.apache.jena.rdf.model.Model;
 public abstract class Topic {
 	private String input;
 	private String output;
-	private String folder = "C:\\Users\\hiep4\\Documents\\eclipse-workspace\\VnTourismProject2\\results";
+	private String folder = "results";
 	
 
 	public String getFolder() {
