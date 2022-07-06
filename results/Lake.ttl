@@ -24,36 +24,36 @@ dbr:List_of_lakes_of_Vietnam
         rdfs:label            "List of lakes of Vietnam"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
 
-dbr:Hoàn_Kiếm_Lake  rdfs:comment  "Hoàn Kiếm Lake (Vietnamese: Hồ Hoàn Kiếm, Hán tự: 湖還劍, meaning \"Lake of the Returned Sword\" or \"Lake of the Restored Sword\"), also known as Sword Lake (Hồ Gươm) or Tả Vọng Lake (Hồ Tả Vọng), is a fresh water lake, measuring some 12 ha in the historical center of Hanoi, the capital city of Vietnam."@en ;
-        rdfs:label            "Hoàn Kiếm Lake"@en ;
+dbr:Tuyền_Lâm_Lake  rdfs:comment  "Tuyền Lâm Lake (hồ Tuyền Lâm) is a man-made lake in Đà Lạt city, in Lâm Đồng Province, Vietnam. It is one of 21 National Tourism Areas. Trúc Lâm Temple can be reached by cable car."@en ;
+        rdfs:label            "Tuyền Lâm Lake"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
+
+dbr:Trúc_Bạch_Lake  rdfs:comment  "Trúc Bạch Lake (Vietnamese: Hồ Trúc Bạch) is one of the many lakes in the city of Hanoi, the capital of Vietnam. It is known outside Vietnam as the site where future United States politician John McCain landed during the Vietnam War after being shot down."@en ;
+        rdfs:label            "Trúc Bạch Lake"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
 
 dbr:Yên_Lập_Lake  rdfs:comment  "Yên Lập Lake (Vietnamese: Hồ Yên Lập) is a large artificial freshwater lake in Hoành Bồ District, Quảng Ninh Province, Vietnam. Work began creating the dam on and in 1978. It has a capacity of 128 million cubic metres. \n* v \n* t \n* e"@en ;
         rdfs:label            "Yên Lập Lake"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
 
-dbr:Tuyền_Lâm_Lake  rdfs:comment  "Tuyền Lâm Lake (hồ Tuyền Lâm) is a man-made lake in Đà Lạt city, in Lâm Đồng Province, Vietnam. It is one of 21 National Tourism Areas. Trúc Lâm Temple can be reached by cable car."@en ;
-        rdfs:label            "Tuyền Lâm Lake"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
-
 dbr:Turtle_Tower  rdfs:comment  "Turtle Tower (Vietnamese: Tháp Rùa / 塔𪛇), also called Tortoise Tower is a small tower in the middle of Hoan Kiem Lake (Sword Lake) in central Hanoi, Vietnam."@en ;
         rdfs:label            "Turtle Tower"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
+
+dbr:Búng_Bình_Thiên  rdfs:comment  "Búng Bình Thiên, or God lake, is one of the largest fresh water lake in Mekong Delta in Vietnam. Located in An Phu District, province of An Giang, linking three communes, namely Khánh Bình, Nhơn Hội and Quốc Thái, and adjoining Bình Di River and Hậu River, the natural lake is becoming known as an eco-tourist area."@en ;
+        rdfs:label            "Búng Bình Thiên"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
+
+dbr:Định_Bình_Lake  rdfs:comment  "Định Bình Lake (Vietnamese: Hồ Định Bình) is a large artificial freshwater lake in Vĩnh Thạnh District, Bình Định Province, Vietnam. Work began creating the dam on Côn River in May 2003. It has a capacity of 226 million cubic metres. The lake and dam are expected to provide irrigation for some 12,545 hectares (over 48 square miles). \n* v \n* t \n* e"@en ;
+        rdfs:label            "Định Bình Lake"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
 
 dbr:Cấm_Sơn_Lake  rdfs:comment  "Cấm Sơn Lake (Vietnamese: Hồ Cấm Sơn) is a lake in Lục Ngạn District, Bắc Giang Province, Vietnam, near the border with Lạng Sơn Province. The lake lies off Highway 279, northeast of the city of Bắc Giang. The lake has an area of some 2,600 hectares (6,400 acres), but during the rainy season when flooding is common, the lake can expand to some 3,000 hectares (7,400 acres). The length of the lake is about 30 kilometres (19 mi). Its widest point is about 7 kilometres (4.3 mi) and narrowest point is about 200 metres (660 ft). \n* v \n* t \n* e"@en ;
         rdfs:label            "Cấm Sơn Lake"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
 
-dbr:Búng_Bình_Thiên  rdfs:comment  "Búng Bình Thiên, or God lake, is a fresh water lake in the Mekong Delta in Vietnam. Located in An Giang province within An Phu District, Búng Bình Thiên links three communes, namely Khánh Bình, Nhơn Hội and Quốc Thái, as well as the adjoining Bình Di River and Hậu River. The natural lake is becoming known as an eco-tourist area."@en ;
-        rdfs:label            "Búng Bình Thiên"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
-
-dbr:Định_Bình_Lake  rdfs:comment  "Định Bình Lake (Vietnamese: Hồ Định Bình) is a large artificial freshwater lake in Vĩnh Thạnh District, Bình Định Province, Vietnam. Work began creating the dam on Côn River in May 2003. It has a capacity of 226 million cubic metres. The lake and dam are expected to provide irrigation for some 12,545 hectares (over 48 square miles)."@en ;
-        rdfs:label            "Định Bình Lake"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
-
-dbr:Trúc_Bạch_Lake  rdfs:comment  "Trúc Bạch Lake (Vietnamese: Hồ Trúc Bạch) is one of the many lakes in the city of Hanoi, the capital of Vietnam. It is known outside Vietnam as the site where future United States politician John McCain landed during the Vietnam War after being shot down."@en ;
-        rdfs:label            "Trúc Bạch Lake"@en ;
+dbr:Hoàn_Kiếm_Lake  rdfs:comment  "Hoan Kiem Lake (Vietnamese: Hồ Hoàn Kiếm, Hán tự: 湖還劍, meaning \"Lake of the Returned Sword\" or \"Lake of the Restored Sword\"), also known as Gươm Lake (Hồ Gươm (Sword Lake)) or Tả Vọng Lake ( Hồ Tả Vọng), is a fresh water lake, measuring some 12 ha in the historical center of Hanoi, the capital city of Vietnam."@en ;
+        rdfs:label            "Hoàn Kiếm Lake"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
 
 dbr:Bàu_Tró  rdfs:comment     "Bàu Tró (Bàu in Vietnamese dialect means pond) is a lake in Đồng Hới city, Quảng Bình Province, Vietnam. This lake is an important fresh water supply for more than 130,000 inhabitants of Đồng Hới. Bàu Tró is better known for archaeological findings by French archaeologists during French Indochina periods. The artefacts found here dated back as far as 5,000 years ago, displaying important proof of human settlements in this area. \n* v \n* t \n* e"@en ;
@@ -69,6 +69,6 @@ dbr:Ayun_Hạ_Lake  rdfs:comment  "Ayun Ha Lake (Vietnamese: Hồ Ayun Hạ) is 
         dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .
 
 <http://dbpedia.org/resource/West_Lake_(Hanoi)>
-        rdfs:comment          "West Lake (Vietnamese: Hồ Tây) is the biggest freshwater lake of Hanoi, Vietnam, located northwest of the city center. With a shore length of 17 km (about 10.6 miles) and 500 hectare (about 5 km2) in area, this is the largest lake of the capital and a popular place for recreation with many surrounding gardens, hotels and villas. A small part of West Lake is divided by to form Trúc Bạch Lake. Most of the lake is located within Tây Hồ District, named after the lake."@en ;
+        rdfs:comment          "West Lake (Vietnamese: Hồ Tây) is the biggest freshwater lake of Hanoi, Vietnam, located northwest of the city center. With a shore length of 17 km (about 10.6 miles) and 500 hectare (about 5 km2) in area, this is the largest lake of the capital and a popular place for recreation with many surrounding gardens, hotels and villas. A small part of West Lake is divided by to form Trúc Bạch Lake. One district of Hanoi is named after the lake, Tây Hồ District."@en ;
         rdfs:label            "West Lake (Hanoi)"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Lakes_of_Vietnam .

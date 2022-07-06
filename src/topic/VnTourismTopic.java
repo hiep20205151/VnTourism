@@ -20,6 +20,9 @@ public class VnTourismTopic implements Topic{
 	private String input;
 	private String output;
 	private String fileRequest;
+	private String resultsFolder = "results";
+	private String topic = this.getClass().getSimpleName();
+	
 	public String getFileRequest() {
 		return fileRequest;
 	}
@@ -28,8 +31,6 @@ public class VnTourismTopic implements Topic{
 		this.fileRequest = fileRequest;
 	}
 
-	private String folder = "results";
-	private String topic;
 	
 	public String getTopic() {
 		return topic;
@@ -39,12 +40,12 @@ public class VnTourismTopic implements Topic{
 		this.topic = topic;
 	}
 
-	public String getFolder() {
-		return folder;
+	public String getResultsFolder() {
+		return resultsFolder;
 	}
 
-	public void setFolder(String folder) {
-		this.folder = folder;
+	public void setResultsFolder(String folder) {
+		this.resultsFolder = folder;
 	}
 	
 	public String getInput() {

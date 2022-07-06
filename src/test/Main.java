@@ -1,16 +1,18 @@
 package test;
+import java.util.ArrayList;
+
 import topic.VnTourismTopic;
 import topic.subtopic.*;
 
-import java.util.ArrayList;
-
 public class Main {
 	public static void main(String[] args) {
+//			Files.createDirectories(Paths.get("requests"));
+
 		ArrayList<VnTourismTopic> topics = new ArrayList<VnTourismTopic>();
 		
-		VnTourismTopic amusementpark = new AmusementPark();
+		VnTourismTopic amusementpark = new AmusementPark();	//polymorphism
 		topics.add(amusementpark);
-		VnTourismTopic beach = new Beach();		//polymorphism
+		VnTourismTopic beach = new Beach();
 		topics.add(beach);
 		VnTourismTopic botanicalgarden = new BotanicalGarden();
 		topics.add(botanicalgarden);
@@ -55,10 +57,15 @@ public class Main {
 		VnTourismTopic zoo = new Zoo();
 		topics.add(zoo);
 		
-		for(VnTourismTopic topic : topics) {
+//		for(VnTourismTopic topic : topics) {
+//			topic.query(topic.getInput(), topic.getOutput());
+//			topic.printNotification();
+//		}
+		
+		topics.forEach(topic -> {
 			topic.query(topic.getInput(), topic.getOutput());
 			topic.printNotification();
-		}
+		}); 
 		System.out.println("Done!");
 	}
 }
