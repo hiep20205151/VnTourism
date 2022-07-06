@@ -1,6 +1,7 @@
 package test;
 import java.util.ArrayList;
 
+import time.MyTime;
 import topic.VnTourismTopic;
 import topic.subtopic.*;
 
@@ -9,7 +10,6 @@ public class Main {
 //			Files.createDirectories(Paths.get("requests"));
 
 		ArrayList<VnTourismTopic> topics = new ArrayList<VnTourismTopic>();
-		
 		VnTourismTopic amusementpark = new AmusementPark();	//polymorphism
 		topics.add(amusementpark);
 		VnTourismTopic beach = new Beach();
@@ -66,6 +66,9 @@ public class Main {
 			topic.query(topic.getInput(), topic.getOutput());
 			topic.printNotification();
 		}); 
+		
+		MyTime dateQuery = new MyTime();
+		dateQuery.print();
 		System.out.println("Done!");
 	}
 }
