@@ -1,61 +1,61 @@
 package test;
-import topic.Topic;
+import topic.VnTourismTopic;
 import topic.subtopic.*;
 
 import java.util.ArrayList;
 
 public class Main {
 	public static void main(String[] args) {
-		ArrayList<Topic> topics = new ArrayList<Topic>();
-		Topic lake = new Lake();		//polymorphism
-		topics.add(lake);
-		Topic beach = new Beach();
-		topics.add(beach);
-		Topic amusementpark = new AmusementPark();
+		ArrayList<VnTourismTopic> topics = new ArrayList<VnTourismTopic>();
+		
+		VnTourismTopic amusementpark = new AmusementPark();
 		topics.add(amusementpark);
-		Topic botanicalgarden = new BotanicalGarden();
+		VnTourismTopic beach = new Beach();		//polymorphism
+		topics.add(beach);
+		VnTourismTopic botanicalgarden = new BotanicalGarden();
 		topics.add(botanicalgarden);
-		Topic buddhisttemple = new BuddhistTemple();
+		VnTourismTopic buddhisttemple = new BuddhistTemple();
 		topics.add(buddhisttemple);
-		Topic clocktower = new ClockTower();
+		VnTourismTopic clocktower = new ClockTower();
 		topics.add(clocktower);
-		Topic defunctprison = new DefunctPrison();
+		VnTourismTopic defunctprison = new DefunctPrison();
 		topics.add(defunctprison);
-		Topic festival = new Festival();
+		VnTourismTopic festival = new Festival();
 		topics.add(festival);
-		Topic historicalsite = new HistoricalSite();
+		VnTourismTopic historicalsite = new HistoricalSite();
 		topics.add(historicalsite);
-		Topic hotel = new Hotel();
+		VnTourismTopic hotel = new Hotel();
 		topics.add(hotel);
-		Topic island = new Island();
+		VnTourismTopic island = new Island();
 		topics.add(island);
-		Topic mausoleum = new Mausoleum();
+		VnTourismTopic lake = new Lake();
+		topics.add(lake);
+		VnTourismTopic mausoleum = new Mausoleum();
 		topics.add(mausoleum);
-		Topic militarywarmuseum = new MilitaryWarMuseum();
+		VnTourismTopic militarywarmuseum = new MilitaryWarMuseum();
 		topics.add(militarywarmuseum);
-		Topic mountainrange = new MountainRange();
+		VnTourismTopic mountainrange = new MountainRange();
 		topics.add(mountainrange);
-		Topic museum = new Museum();
+		VnTourismTopic museum = new Museum();
 		topics.add(museum);
-		Topic nationalpark = new NationalPark();
+		VnTourismTopic nationalpark = new NationalPark();
 		topics.add(nationalpark);
-		Topic operahouse = new OperaHouse();
+		VnTourismTopic operahouse = new OperaHouse();
 		topics.add(operahouse);
-		Topic river = new River();
+		VnTourismTopic river = new River();
 		topics.add(river);
-		Topic roadbridge = new RoadBridge();
+		VnTourismTopic roadbridge = new RoadBridge();
 		topics.add(roadbridge);
-		Topic vietnamesedish = new VietnameseDish();
+		VnTourismTopic vietnamesedish = new VietnameseDish();
 		topics.add(vietnamesedish);
-		Topic waterfall = new WaterFall();
+		VnTourismTopic waterfall = new WaterFall();
 		topics.add(waterfall);
-		Topic worldheritagesite = new WorldHeritageSite();
+		VnTourismTopic worldheritagesite = new WorldHeritageSite();
 		topics.add(worldheritagesite);
-		Topic zoo = new Zoo();
+		VnTourismTopic zoo = new Zoo();
 		topics.add(zoo);
 		
-		
-		for(Topic topic : topics) {
+		for(VnTourismTopic topic : topics) {
 			topic.query(topic.getInput(), topic.getOutput());
 			topic.printNotification();
 		}

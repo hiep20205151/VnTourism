@@ -16,7 +16,7 @@ import org.apache.jena.query.QueryExecution;
 import org.apache.jena.rdf.model.Model;
 
 
-public class VnTourismTopic implements Topic2{
+public class VnTourismTopic implements Topic{
 	private String input;
 	private String output;
 	private String fileRequest;

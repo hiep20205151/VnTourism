@@ -2,7 +2,7 @@
 @prefix dbr:  <http://dbpedia.org/resource/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-dbr:Phú_Quý  rdfs:comment     "Phú Quý is a small island located about 100 km south-east of the city of Phan Thiết, Vietnam. The island contains three communes, with a population of 20,698 people. The island is home to Phu Quy Lighthouse (Hải đăng Phú Quý) situated in the north-west of the island and an abandoned military bunker on the eastern coast. During the French Indochina era, the official name of the island was Poulo-Cécir-de-Mer(sometimes written as Pulau Cecir de Mer)."@en ;
+dbr:Phú_Quý  rdfs:comment     "Phú Quý is a small island located about 100 km south-east of the city of Phan Thiết, Vietnam. The island contains three communes, with a population of 20,698 people. The island is home to Phu Quy Lighthouse (Hải đăng Phú Quý) situated in the north-west of the island and a abandoned military bunker on the eastern coast. During the French Indochina era, the official name of the island was Poulo-Cécir-de-Mer(sometimes written as Pulau Cecir de Mer)."@en ;
         rdfs:label            "Phú Quý"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
 
@@ -30,7 +30,7 @@ dbr:Vietnam  rdfs:comment     "Vietnam (Vietnamese: Việt Nam, [vîət nāːm])
         dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
 
 dbr:Outline_of_Vietnam
-        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 98 million, Vietnam is the 15th most populous country in the world."@en ;
+        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 86 million, Vietnam is the 13th most populous country in the world."@en ;
         rdfs:label            "Outline of Vietnam"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
 
