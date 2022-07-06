@@ -13,4 +13,7 @@ public class Lake extends Topic{
 		this.setInput(fileContent);
 		this.setOutput(getFolder() +"\\" + topic + ".ttl");
 	}
+	public void printNotification() {
+		System.out.println("Output file creaed: " + topic + ".ttl");
+	}
 }

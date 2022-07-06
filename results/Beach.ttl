@@ -7,6 +7,11 @@
         rdfs:label            "Bãi Cháy"@en ;
         dbo:wikiPageWikiLink  dbc:Beaches_of_Vietnam .
 
+<http://dbpedia.org/resource/Đồ_Sơn_District>
+        rdfs:comment          "Đồ Sơn is an urban district (quận) of Haiphong, the third largest city of Vietnam. The district is located on the bank of the Gulf of Tonkin, 22 km away from Haiphong. As of 2007, the district had a population of 51,417. It covers an area of 42.37 km². The district is subdivided into 7 wards: Bàng La, Hợp Đức, Minh Đức, Ngọc Hải, Ngọc Xuyên, Vạn Hương and Vạn Sơn. Đồ Sơn was formerly a resort town of Haiphong. It was built as a summer resort by the French in the 19th century, after they established themselves in the city. The resort received 850,000 tourists in 2002."@en ;
+        rdfs:label            "Đồ Sơn District"@en ;
+        dbo:wikiPageWikiLink  dbc:Beaches_of_Vietnam .
+
 <http://dbpedia.org/resource/Hồ_Cốc>
         rdfs:comment          "Hồ Cốc is a small beach community located in Vietnam's Bà Rịa–Vũng Tàu province, in Xuyên Mộc District. It is situated about 125 kilometers southeast of Hồ Chí Minh City (HCMC). The trip to Hồ Cốc takes only about 2 hours from HCMC by car or 90 minutes via the ferry from HCMC to Vũng Tàu. Hồ Cốc is expected to follow the development of Hồ Tràm beach as well as the ACDL MGM Hồ Tràm casino project located nearby and become a major resort destination in southern Vietnam. Also notable in the area are hot springs and an 11,000-hectare rain forest that was designated as a nature reserve in 1975."@en ;
         rdfs:label            "Hồ Cốc"@en ;
@@ -15,11 +20,6 @@
 <http://dbpedia.org/resource/Nhật_Lệ_Beach>
         rdfs:comment          "Nhật Lệ Beach is a beach in Đồng Hới city, the capital of Quảng Bình Province, home to World Heritage Site Phong Nha-Kẻ Bàng National Park. The beach is located on the mouth of the Nhật Lệ River emptying into the South China Sea."@en ;
         rdfs:label            "Nhật Lệ Beach"@en ;
-        dbo:wikiPageWikiLink  dbc:Beaches_of_Vietnam .
-
-<http://dbpedia.org/resource/Đồ_Sơn_district>
-        rdfs:comment          "Đồ Sơn is an urban district (quận) of Haiphong, the third largest city of Vietnam. The district is located on the bank of the Gulf of Tonkin, 22 km away from Haiphong. As of 2007, the district had a population of 51,417. It covers an area of 42.37 km². The district is subdivided into 7 wards: Bàng La, Hợp Đức, Minh Đức, Ngọc Hải, Ngọc Xuyên, Vạn Hương and Vạn Sơn. Đồ Sơn was formerly a resort town of Haiphong. It was built as a summer resort by the French in the 19th century, after they established themselves in the city. The resort received 850,000 tourists in 2002."@en ;
-        rdfs:label            "Đồ Sơn district"@en ;
         dbo:wikiPageWikiLink  dbc:Beaches_of_Vietnam .
 
 <http://dbpedia.org/resource/Đá_Nhảy_Beach>

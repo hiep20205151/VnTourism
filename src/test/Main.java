@@ -1,28 +1,6 @@
 package test;
-import topic.*;
-import topic.subtopic.AmusementPark;
-import topic.subtopic.Beach;
-import topic.subtopic.BotanicalGarden;
-import topic.subtopic.BuddhistTemple;
-import topic.subtopic.ClockTower;
-import topic.subtopic.DefunctPrison;
-import topic.subtopic.Festival;
-import topic.subtopic.HistoricalSite;
-import topic.subtopic.Hotel;
-import topic.subtopic.Island;
-import topic.subtopic.Lake;
-import topic.subtopic.Mausoleum;
-import topic.subtopic.MilitaryWarMuseum;
-import topic.subtopic.MountainRange;
-import topic.subtopic.Museum;
-import topic.subtopic.NationalPark;
-import topic.subtopic.OperaHouse;
-import topic.subtopic.River;
-import topic.subtopic.RoadBridge;
-import topic.subtopic.VietnameseDish;
-import topic.subtopic.WaterFall;
-import topic.subtopic.WorldHeritageSite;
-import topic.subtopic.Zoo;
+import topic.Topic;
+import topic.subtopic.*;
 
 import java.util.ArrayList;
 
@@ -79,6 +57,7 @@ public class Main {
 		
 		for(Topic topic : topics) {
 			topic.query(topic.getInput(), topic.getOutput());
+			topic.printNotification();
 		}
 		System.out.println("Done!");
 	}

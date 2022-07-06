@@ -15,10 +15,29 @@ import org.apache.jena.query.ParameterizedSparqlString;
 import org.apache.jena.query.QueryExecution;
 import org.apache.jena.rdf.model.Model;
 
-public abstract class Topic {
+
+public class VnTourismTopic implements Topic2{
 	private String input;
 	private String output;
+	private String fileRequest;
+	public String getFileRequest() {
+		return fileRequest;
+	}
+
+	public void setFileRequest(String fileRequest) {
+		this.fileRequest = fileRequest;
+	}
+
 	private String folder = "results";
+	private String topic;
+	
+	public String getTopic() {
+		return topic;
+	}
+
+	public void setTopic(String topic) {
+		this.topic = topic;
+	}
 
 	public String getFolder() {
 		return folder;
@@ -43,7 +62,12 @@ public abstract class Topic {
 	public void setOutput(String output) {
 		this.output = output;
 	}
-
+	
+	@Override
+	public void printNotification() {
+		System.out.println("Output file created: " + output);
+	}
+	@Override
 	public String readInput(String inputFile) {
 		FileReader file = null;
 		try {
@@ -72,7 +96,7 @@ public abstract class Topic {
 		}
 		return sb.toString();
 	}
-	
+	@Override
 	public void query(String input, String output) {
 		ParameterizedSparqlString qs = new ParameterizedSparqlString(input);
 
@@ -87,7 +111,7 @@ public abstract class Topic {
 			e.printStackTrace();
 		}
 	}
-
+	
 	public static String insert(String filePath, String topic){
 		Scanner sc;
 		try {
@@ -129,5 +153,5 @@ public abstract class Topic {
 		}
 		return dest.toString();
 	}
-	public abstract void printNotification();
+	
 }
