@@ -15,12 +15,12 @@ dbr:Bạch_Đằng_River  rdfs:comment  "The Bạch Đằng River (Vietnamese: S
         rdfs:label            "Bạch Đằng River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Kiến_Giang_River  rdfs:comment  "The Kiến Giang River (Vietnamese: Sông Kiến Giang) is a river in Lệ Thủy District, Quảng Bình Province, North Central Coast, Vietnam. The length of the river is 58 km. It is a tributary of the Nhật Lệ River. The Kiến Giang River originates in the Annamite Range (Truong Son Range) where various streams add water to it. The upper part of this river is sloping, therefore rain water from Annamite Range flows violently to the lower part in rainy seasons (in autumn), causing floods in it basin. Thanks to An Ma Dam, this situation has been stopped. Unlike other rivers in Vietnam which flow southeast, the Kiến Giang River flows northeast, and creates a narrow delta in Lệ Thủy District. Like all of the rivers in Central Vietnam, this river water is clear, which means that it carries little alluvium"@en ;
-        rdfs:label            "Kiến Giang River"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
-
 dbr:La_Ngà_River  rdfs:comment  "The La Ngà River (Vietnamese: Sông La Ngà) is a river of southern Vietnam. It originates in Lâm Đồng Province and flows through Bình Thuận Province and Đồng Nai Province for 272 kilometres (169 mi). The river has a catchment area of 4,710 km2 (1,820 sq mi). It is a major tributary of the Đồng Nai River, which it joins at Trị An Lake, and therefore part of one of the largest river systems in Vietnam. One of its tributaries in Bình Thuận Province supports a hydro-power plant: the Hàm Thuận – Đa Mi Hydroelectric Power Complex."@en ;
         rdfs:label            "La Ngà River"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
+
+dbr:Kiến_Giang_River  rdfs:comment  "The Kiến Giang River (Vietnamese: Sông Kiến Giang) is a river in Lệ Thủy District, Quảng Bình Province, North Central Coast, Vietnam. The length of the river is 58 km. It is a tributary of the Nhật Lệ River. The Kiến Giang River originates in the Annamite Range (Truong Son Range) where various streams add water to it. The upper part of this river is sloping, therefore rain water from Annamite Range flows violently to the lower part in rainy seasons (in autumn), causing floods in it basin. Thanks to An Ma Dam, this situation has been stopped. Unlike other rivers in Vietnam which flow southeast, the Kiến Giang River flows northeast, and creates a narrow delta in Lệ Thủy District. Like all of the rivers in Central Vietnam, this river water is clear, which means that it carries little alluvium"@en ;
+        rdfs:label            "Kiến Giang River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Mã_River  rdfs:comment    "The Ma River (Vietnamese: Sông Mã, Lao: ນ້ຳມ້າ / Nam Ma) is a river in Asia, originating in northwestern Vietnam. It runs for 400 km through Vietnam, Laos, and then back through Vietnam, meeting the sea at the Gulf of Tonkin. The largest tributaries of the Ma River are the Chu River (or the Nam Sam River as it is called in Laos), the Bưởi River, and the Cầu Chày River. All of them join the Ma River in Thanh Hóa Province in North Central Vietnam. The Ma River creates the Ma River Delta (also called the Thanh Hóa Delta), the third largest in Vietnam."@en ;
@@ -75,13 +75,13 @@ dbr:Thu_Bồn_River  rdfs:comment  "The Thu Bồn River (Vietnamese: Sông Thu B
         rdfs:label            "Thu Bồn River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Đồng_Nai_river  rdfs:comment  "The Đồng Nai River (Vietnamese: sông Đồng Nai ) is a river in Vietnam that originates in the Central Highlands region of the southern portion of the country. It is approximately 586 km in length, making it the longest river to be entirely located in Vietnam. It gives its name to Đồng Nai Province. The original Vietnamese name translated from Khmer language was Nông-nại, meaning shallow salt-marsh."@en ;
-        rdfs:label            "Đồng Nai river"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
-
 <http://dbpedia.org/resource/Dinh_River_(Bà_Rịa–Vũng_Tàu)>
         rdfs:comment          "The Dinh River (Vietnamese: Sông Dinh) is a river of Vietnam. It flows for 40 kilometres through Bà Rịa–Vũng Tàu province."@en ;
         rdfs:label            "Dinh River (Bà Rịa–Vũng Tàu)"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
+
+dbr:Đồng_Nai_river  rdfs:comment  "The Đồng Nai River (Vietnamese: sông Đồng Nai ) is a river in Vietnam that originates in the Central Highlands region of the southern portion of the country. It is approximately 586 km in length, making it the longest river to be entirely located in Vietnam. It gives its name to Đồng Nai Province. The original Vietnamese name translated from Khmer language was Nông-nại, meaning shallow salt-marsh."@en ;
+        rdfs:label            "Đồng Nai river"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Krông_Nô_River  rdfs:comment  "The Krông Nô River (Vietnamese: Sông Krông Nô) is a river of Vietnam. It flows through Đắk Lắk Province for 156 kilometres and has a basin area of 3920 km²."@en ;
@@ -147,12 +147,12 @@ dbr:Bé_River  rdfs:comment    "The Bé River (Vietnamese: Sông Bé) is a river
         rdfs:label            "Bé River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Đáy_River  rdfs:comment   "The Day River (Vietnamese: Sông Đáy) is a river in Vietnam. It was formerly known as Hát River (Sông Hát or Hát Giang) or Gián Khẩu River (Sông Gián Khẩu). The river is a distributary of the Red River, draining into the Gulf of Tonkin. The river has a length of 240 km and has a drainage basin of more than 7,500 km2, flowing through Hanoi, and the provinces of Hòa Bình, Hà Nam, Ninh Bình and Nam Định."@en ;
-        rdfs:label            "Đáy River"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
-
 dbr:Vàm_Cỏ  rdfs:comment      "The Vàm Cỏ River (sông Vàm Cỏ) is a river in Vietnam, south of Ho Chi Minh City. It joins the Soài Rạp in the Cần Giờ Mangrove Forest and is fed by two shallow tributaries, the Vàm Cỏ Tây (west) and Vàm Cỏ Đông (east) forming a V."@en ;
         rdfs:label            "Vàm Cỏ"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
+
+dbr:Đáy_River  rdfs:comment   "The Day River (Vietnamese: Sông Đáy) is a river in Vietnam. It was formerly known as Hát River (Sông Hát or Hát Giang) or Gián Khẩu River (Sông Gián Khẩu). The river is a distributary of the Red River, draining into the Gulf of Tonkin. The river has a length of 240 km and has a drainage basin of more than 7,500 km2, flowing through Hanoi, and the provinces of Hòa Bình, Hà Nam, Ninh Bình and Nam Định."@en ;
+        rdfs:label            "Đáy River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 <http://dbpedia.org/resource/Black_River_(Asia)>
@@ -169,12 +169,16 @@ dbr:Cu_Đê_River  rdfs:comment  "The Cu Đê River (Vietnamese: Sông Cu Đê),
         rdfs:label            "Nanxi River (Yunnan)"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Luộc_River  rdfs:comment  "The river Luộc (Vietnamese: sông Luộc) also known by the formal Sino-Vietnamese name sông Phú Nông, is a tributary river to the Hồng River and Thái Bình River. Nguyễn Du wrote about the sông Luộc in his chữ Nho poem Feeling on Crossing the Phú Nông giang (渡富農江感作)."@en ;
-        rdfs:label            "Luộc River"@en ;
+dbr:Ông_Đốc_River  rdfs:comment  "The Ông Đốc River (Vietnamese: Sông Ông Đốc) is a river of Vietnam. It flows through Cà Mau Province for 58 kilometres and empties into the Gulf of Thailand. \n* v \n* t \n* e \n* v \n* t \n* e"@en ;
+        rdfs:label            "Ông Đốc River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Kong_River  rdfs:comment  "The Kong River, also known as the Xe Kong or the Se Kong (Lao: ເຊກອງ Se Kong, (Khmer:សេកុង(official) or ស្រែគង្គ(Khmerization)), Vietnamese: sông Sê Kông) is a river in Southeast Asia. The river originates in Thừa Thiên–Huế Province in Central Vietnam and flows 480 kilometres (300 mi) through southern Laos and eastern Cambodia. It joins the Mekong River near Stung Treng town of Cambodia. Part of its course forms the international boundary between Laos and Cambodia."@en ;
         rdfs:label            "Kong River"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
+
+dbr:Yên_River  rdfs:comment   "The Yên River (Vietnamese: Sông Yên) is a river of Quảng Nam Province and Da Nang, Vietnam. It flows for 30 kilometres."@en ;
+        rdfs:label            "Yên River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Kinh_Môn_River  rdfs:comment  "The Kinh Môn River (Vietnamese: Sông Kinh Môn) is a river of Vietnam. It flows through Hải Dương Province and Hai Phong for 45 kilometres."@en ;
@@ -185,20 +189,16 @@ dbr:Cả_River  rdfs:comment    "The Cả River (Laotian: Nam Khan, Vietnamese: 
         rdfs:label            "Cả River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Yên_River  rdfs:comment   "The Yên River (Vietnamese: Sông Yên) is a river of Quảng Nam Province and Da Nang, Vietnam. It flows for 30 kilometres."@en ;
-        rdfs:label            "Yên River"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
-
 dbr:Thị_Vải_River  rdfs:comment  "The Thị Vải River (Vietnamese: Sông Thị Vải) is a river of Vietnam. It flows for 76 kilometres through Bà Rịa–Vũng Tàu province and Đồng Nai province."@en ;
         rdfs:label            "Thị Vải River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Ông_Đốc_River  rdfs:comment  "The Ông Đốc River (Vietnamese: Sông Ông Đốc) is a river of Vietnam. It flows through Cà Mau Province for 58 kilometres and empties into the Gulf of Thailand. \n* v \n* t \n* e \n* v \n* t \n* e"@en ;
-        rdfs:label            "Ông Đốc River"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
-
 dbr:Soài_Rạp  rdfs:comment    "The Soài Rạp (Vietnamese: Sông Soài Rạp) is a river in Nhà Bè district, south of Ho Chi Minh City, Vietnam."@en ;
         rdfs:label            "Soài Rạp"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
+
+dbr:Luộc_River  rdfs:comment  "The river Luộc (Vietnamese: sông Luộc) also known by the formal Sino-Vietnamese name sông Phú Nông, is a tributary river to the Hồng River and Thái Bình River. Nguyễn Du wrote about the sông Luộc in his chữ Nho poem Feeling on Crossing the Phú Nông giang (渡富農江感作)."@en ;
+        rdfs:label            "Luộc River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Đuống_River  rdfs:comment  "The Đuống River (Vietnamese: Sông Đuống), also known as the Thiên Đức River, is a river of Vietnam. It flows for 68 kilometres (42 mi) through Bắc Ninh Province and Hanoi. The river features in the poem \"On the Other Side of the Đuống River\" by Hoàng Cầm."@en ;
@@ -210,16 +210,16 @@ dbr:Ray_River  rdfs:comment   "The Ray River (Vietnamese: Sông Ray) is a river 
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 <http://dbpedia.org/resource/Red_River_(Asia)>
-        rdfs:comment          "The Red River, also known as the Hong River (traditional Chinese: 紅河; simplified Chinese: 红河; pinyin: Hóng Hé; Vietnamese: Sông Hồng), the Hồng Hà and Sông Cái (lit. \"Mother River\") in Vietnamese, and the Yuan River (元江, Yuán Jiāng Nguyên Giang) in Chinese, is a 1,149-kilometer (714 mi)-long river that flows from Yunnan in Southwest China through northern Vietnam to the Gulf of Tonkin. According to C. Michael Hogan, the associated Red River Fault was instrumental in forming the entire South China Sea at least as early as 37 million years before present."@en ;
+        rdfs:comment          "The Red River, also known as the Hong River (traditional Chinese: 紅河; simplified Chinese: 红河; pinyin: Hóng Hé; Vietnamese: Sông Hồng; Chữ Nôm: 瀧紅; Chữ Hán: 紅河), the Hồng Hà and Sông Cái (lit. \"Mother River\") in Vietnamese, and the Yuan River (元江, Yuán Jiāng Nguyên Giang) in Chinese, is a 1,149-kilometer (714 mi)-long river that flows from Yunnan in Southwest China through northern Vietnam to the Gulf of Tonkin. According to C. Michael Hogan, the associated Red River Fault was instrumental in forming the entire South China Sea at least as early as 37 million years before present. The name red and southern position in China are associated in traditional cardinal directions."@en ;
         rdfs:label            "Red River (Asia)"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
-
-dbr:Trà_Bồng_River  rdfs:comment  "The Trà Bồng River (Vietnamese: Sông Trà Bồng) is a river of Vietnam. It flows through Quảng Ngãi Province for 70 kilometres."@en ;
-        rdfs:label            "Trà Bồng River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Bôi_River  rdfs:comment   "The Bôi River (Vietnamese: Sông Bôi) is a river of Vietnam. It flows through Hòa Bình Province and Ninh Bình Province for 125 kilometres. The river has a basin area of 1550 km2."@en ;
         rdfs:label            "Bôi River"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
+
+dbr:Trà_Bồng_River  rdfs:comment  "The Trà Bồng River (Vietnamese: Sông Trà Bồng) is a river of Vietnam. It flows through Quảng Ngãi Province for 70 kilometres."@en ;
+        rdfs:label            "Trà Bồng River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Bến_Tre_River  rdfs:comment  "The Bến Tre River (Vietnamese: Sông Bến Tre) is a river of Vietnam. It flows for 30 kilometres through Bến Tre Province."@en ;
@@ -307,12 +307,12 @@ dbr:Hà_Thanh_River  rdfs:comment  "The Hà Thanh River (Vietnamese: Sông Hà T
         rdfs:label            "Hà Thanh River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Ba_Lai_River  rdfs:comment  "The Ba Lai River (Vietnamese: Sông Ba Lai) is a river in the Mekong Delta region, Vietnam, in Ben Tre Province, flowing between An Hoa Island and Bao Island. It is a direct tributary of the Tien River at the boundary of Phu Duc and Tan Phu Communes. At the beginning of the 20th century, the flow from Tien River began to diminish. The water source of the Ba Lai River now comes mainly from the My Tho River. The Ba Lai River has also begun to diminish and the Ba Lai estuary is now filling with sediment and becoming blocked. In 2002, an irrigation dam was built across the River to stop the infiltration of salt water and preserve fresh water for 100,000 hectares of farmland in Bến Tre."@en ;
-        rdfs:label            "Ba Lai River"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
-
 dbr:Gianh_River  rdfs:comment  "The Gianh River (Vietnamese: Sông Gianh) is a river in the Quảng Bình Province of Vietnam's North Central Coast (Bắc Trung Bộ). The river is 268 kilometres (167 mi) in length. It was the border between ruling families during the partition of Vietnam following the Trịnh–Nguyễn War of the 17th century, serving to effectively divide the country between northern and southern regions. The 17th parallel used as the border between North Vietnam and South Vietnam from 1954 to 1975 was located just to the south, at the Bến Hải River in Quảng Trị Province."@en ;
         rdfs:label            "Gianh River"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
+
+dbr:Ba_Lai_River  rdfs:comment  "The Ba Lai River (Vietnamese: Sông Ba Lai) is a river in the Mekong Delta region, Vietnam, in Ben Tre Province, flowing between An Hoa Island and Bao Island. It is a direct tributary of the Tien River at the boundary of Phu Duc and Tan Phu Communes. At the beginning of the 20th century, the flow from Tien River began to diminish. The water source of the Ba Lai River now comes mainly from the My Tho River. The Ba Lai River has also begun to diminish and the Ba Lai estuary is now filling with sediment and becoming blocked. In 2002, an irrigation dam was built across the River to stop the infiltration of salt water and preserve fresh water for 100,000 hectares of farmland in Bến Tre."@en ;
+        rdfs:label            "Ba Lai River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Thạch_Hãn_River  rdfs:comment  "The Thạch Hãn River is a river in n Quang Tri province, Vietnam. It rises in the Annamite Mountains, and enters the South China Sea east of Dong Ha. It is approximately 170 miles long, with two main tributaries and with several branches to the sea."@en ;
@@ -327,12 +327,12 @@ dbr:Trẹm_River  rdfs:comment  "The Trẹm River (Vietnamese: Sông Trẹm) is 
         rdfs:label            "Trẹm River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Beilun_River  rdfs:comment  "Beilun River (Chinese: 北仑河; pinyin: Běilún hé), or Ka Long River (Vietnamese: sông Ka Long), Bắc Luân River (sông Bắc Luân) is a river of Guangxi Zhuang Autonomous Region in southwest China and Quảng Ninh Province in northeast Vietnam. It runs roughly along the last stretch of the land border of the China-Vietnam border. \n* v \n* t \n* e \n* v \n* t \n* e \n* v \n* t \n* e \n* v \n* t \n* e"@en ;
-        rdfs:label            "Beilun River"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
-
 dbr:Bến_Nghé_River  rdfs:comment  "The Bến Nghé River, also Ben Nghe Canal(Vietnamese: Sông Bến Nghé) is a river of Vietnam. It flows through Ho Chi Minh City for 80 kilometres. Very much an urban river, the banks are said to be lined with \"many grocery stores, rice processing factories, sawmills, oriental drugstores, and warehouses, all owned by the Chinese. They hatch[ed] eggs, salted fish and eggs, dried fruit ...\""@en ;
         rdfs:label            "Bến Nghé River"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
+
+dbr:Beilun_River  rdfs:comment  "Beilun River (Chinese: 北仑河; pinyin: Běilún hé), or Ka Long River (Vietnamese: sông Ka Long), Bắc Luân River (sông Bắc Luân) is a river of Guangxi Zhuang Autonomous Region in southwest China and Quảng Ninh Province in northeast Vietnam. It runs roughly along the last stretch of the land border of the China-Vietnam border. \n* v \n* t \n* e \n* v \n* t \n* e \n* v \n* t \n* e \n* v \n* t \n* e"@en ;
+        rdfs:label            "Beilun River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Vàm_Cỏ_Đông_River
@@ -390,19 +390,19 @@ dbr:Long_Đại_River  rdfs:comment  "The Long Đại River (Vietnamese: Sông L
         rdfs:label            "Long Đại River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Bến_Hải_River  rdfs:comment  "The Bến Hải River (Vietnamese: Sông Bến Hải) is a river in central Vietnam which became an important landmark in the partition of the country into a northern and a southern zone along the 17th parallel by the Geneva Accords of 1954 then ended in 1976. The demilitarized zone (DMZ) separating the two parts extended about 5 kilometers (3.1 mi) from either side of the river."@en ;
-        rdfs:label            "Bến Hải River"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
-
 dbr:Quây_Sơn_River  rdfs:comment  "The Quây Sơn River (Vietnamese: Sông Quây Sơn, Sông Quế Sơn) or Guichun River Quy Xuân Hà (Chinese: 归春河) is a river of Cao Bằng Province, Vietnam and of Guangxi province, China. The river originates in China at Jingxi County (靖西县 Tĩnh Tây County) in the Range (Chóngshān jùnlǐng Sùng Sơn Tuấn Linh 崇山峻岭). For part of its length it runs along the Chinese–Vietnamese border, including the scenic Ban Gioc–Detian Falls."@en ;
         rdfs:label            "Quây Sơn River"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
+
+dbr:Bến_Hải_River  rdfs:comment  "The Bến Hải River (Vietnamese: Sông Bến Hải) is a river in central Vietnam which became an important landmark in the partition of the country into a northern and a southern zone along the 17th parallel by the Geneva Accords of 1954 then ended in 1976. The demilitarized zone (DMZ) separating the two parts extended about 5 kilometers (3.1 mi) from either side of the river."@en ;
+        rdfs:label            "Bến Hải River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
 dbr:Ba_Thín_River  rdfs:comment  "Ba Thín (Vietnamese: Sông Ba Thín) is a tributary of the Kỳ Cùng River. It originates in the high mountains of Guangxi, China, and joins the Kỳ Cùng River in commune in Lộc Bình District of Lạng Sơn Province in northeastern Vietnam. The river is 52 kilometres (32 mi) long and has a catchment area of 320 square kilometres (120 sq mi)."@en ;
         rdfs:label            "Ba Thín River"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 
-dbr:Mekong  rdfs:comment      "The Mekong or Mekong River is a trans-boundary river in East Asia and Southeast Asia. It is the world's twelfth longest river and the sixth longest in Asia. Its estimated length is 4,909 km (3,050 mi), and it drains an area of 795,000 km2 (307,000 sq mi), discharging 475 km3 (114 cu mi) of water annually.From the Tibetan Plateau the river runs through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam. The extreme seasonal variations in flow and the presence of rapids and waterfalls in the Mekong make navigation difficult. Even so, the river is a major trade route between western China and Southeast Asia."@en ;
+dbr:Mekong  rdfs:comment      "The Mekong or Mekong River is a trans-boundary river in East Asia and Southeast Asia. It is the world's twelfth longest river and the third longest in Asia. Its estimated length is 4,909 km (3,050 mi), and it drains an area of 795,000 km2 (307,000 sq mi), discharging 475 km3 (114 cu mi) of water annually.From the Tibetan Plateau the river runs through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam. The extreme seasonal variations in flow and the presence of rapids and waterfalls in the Mekong make navigation difficult. Even so, the river is a major trade route between western China and Southeast Asia."@en ;
         rdfs:label            "Mekong"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Rivers_of_Vietnam .
 

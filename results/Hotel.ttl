@@ -33,6 +33,6 @@ dbr:Heritage_hotels_in_Vietnam
         dbo:wikiPageWikiLink  dbr:Category:Hotels_in_Vietnam .
 
 dbr:Dalat_Palace_Hotel
-        rdfs:comment          "The Dalat Palace (Vietnamese: Khách sạn Dalat Palace) is a historic luxury hotel in Da Lat, Vietnam. It was frequented by the colonial French as a popular get-away. The hotel is located at 12 Tran Phu Street."@en ;
+        rdfs:comment          "The Dalat Palace (Vietnamese: Khách sạn Dalat Palace, French: Hôtel Dalat Palace) is a historic luxury hotel in Da Lat, Vietnam. It was frequented by the colonial French as a popular get-away. The hotel is located at 12 Tran Phu Street."@en ;
         rdfs:label            "Dalat Palace Hotel"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Hotels_in_Vietnam .

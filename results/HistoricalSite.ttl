@@ -3,14 +3,14 @@
 @prefix dbr:  <http://dbpedia.org/resource/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<http://dbpedia.org/resource/Temple_of_Literature,_Hanoi>
-        rdfs:comment          "Văn Miếu (Vietnamese: Văn Miếu, Hán tự: 文廟) is a temple dedicated to Confucius in Hanoi, northern Vietnam. The temple also hosts the Imperial Academy (Quốc Tử Giám, 國子監), Vietnam's first national university. The temple was built in 1070 at the time of Emperor Lý Thánh Tông. It is one of several temples in Vietnam which is dedicated to Confucius, sages and scholars. The temple is located to the south of the Imperial Citadel of Thăng Long. The various pavilions, halls, statues and stelae of doctors are places where offering ceremonies, study sessions and the strict exams of the Đại Việt took place. The temple is featured on the back of the 100,000 Vietnamese đồng banknote. Just before the Vietnamese New Year celebration Tết, calligraphists will assemble outside the temple and write wishes in"@en ;
-        rdfs:label            "Temple of Literature, Hanoi"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
-
 dbr:Presidential_Palace_Historical_Site
         rdfs:comment          "Presidential Palace Historical Site (Vietnamese: Khu di tích Phủ Chủ tịch), which is located in Hanoi, Vietnam, is the place where Ho Chi Minh lived and worked in most of his revolutionary life (from December 19, 1954, to September 2, 1969). This site was listed by the Ministry of Culture and Information of Vietnam in 1975."@en ;
         rdfs:label            "Presidential Palace Historical Site"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
+
+<http://dbpedia.org/resource/Temple_of_Literature,_Hanoi>
+        rdfs:comment          "Văn Miếu (Vietnamese: Văn Miếu, Hán tự: 文廟) is a temple dedicated to Confucius in Hanoi, northern Vietnam. The temple also hosts the Imperial Academy (Quốc Tử Giám, 國子監), Vietnam's first national university. The temple was built in 1070 at the time of Emperor Lý Thánh Tông. It is one of several temples in Vietnam which is dedicated to Confucius, sages and scholars. The temple is located to the south of the Imperial Citadel of Thăng Long. The various pavilions, halls, statues and stelae of doctors are places where offering ceremonies, study sessions and the strict exams of the Đại Việt took place. The temple is featured on the back of the 100,000 Vietnamese đồng banknote. Just before the Vietnamese New Year celebration Tết, calligraphists will assemble outside the temple and write wishes in"@en ;
+        rdfs:label            "Temple of Literature, Hanoi"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
 
 dbr:Cổ_Loa_Citadel  rdfs:comment  "Cổ Loa Citadel (Vietnamese: Cổ Loa thành) is an important fortified settlement and archaeological site in present-day Hanoi's Dong Anh district, roughly 17 kilometers north of present-day Hanoi, in the upper plain north of the Hong River. Various relics of the Bronze Age Phung Nguyen culture and Dong Son culture have been found in Cổ Loa, although it was later established as the capital of Âu Lạc Kingdom during the 3rd century BCE (about 257 BCE). It might be the first political center of the Vietnamese civilization. The settlement’s concentric walls resemble a snail’s shell; it had an outer embankment covering 600 hectares."@en ;
@@ -42,7 +42,7 @@ dbr:Flag_Tower_of_Hanoi
         rdfs:label            "Presidential Palace, Hanoi"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
 
-dbr:Láng_Pagoda  rdfs:comment  "Láng Pagoda (Vietnamese: Chùa Láng, Chữ Hán: 昭禪寺) is a Buddhist temple in Láng village, Đống Đa District, Hanoi, Vietnam. It is known in French as Pagode des Dames (Pagoda of the Ladies). It worships Buddhist monk Từ Đạo Hạnh and was built by king Lý Anh Tông."@en ;
+dbr:Láng_Pagoda  rdfs:comment  "Láng Pagoda (Vietnamese: Chùa Láng, Chinese: 昭禪寺) is a Buddhist temple in Láng village, Đống Đa District, Hanoi, Vietnam. It is known in French as Pagode des Dames (Pagoda of the Ladies). It worships Buddhist monk Từ Đạo Hạnh and was built by king Lý Anh Tông."@en ;
         rdfs:label            "Láng Pagoda"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Historical_sites_in_Hanoi .
 
