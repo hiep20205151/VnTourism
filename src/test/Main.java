@@ -26,7 +26,7 @@ import topic.subtopic.WaterFall;
 import topic.subtopic.WorldHeritageSite;
 import topic.subtopic.Zoo;
 
-public class Main {
+public class Main{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -81,4 +81,5 @@ public class Main {
 		rq.printTime();
 		rq.printNumData();
 	}
+
 }

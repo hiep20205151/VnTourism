@@ -20,20 +20,13 @@ import time.MyTime;
 import topic.VnTourismTopic;
 
 public class QueryData implements Query {
-	private int numData;
-	private ArrayList<VnTourismTopic> topics = new ArrayList<VnTourismTopic>();
-	
-	public int getNumData() {
-		return numData;
-	}
 
-	public void setNumData(int numData) {
-		this.numData = numData;
-	}
+	private ArrayList<VnTourismTopic> topics = new ArrayList<VnTourismTopic>();
 
 	public void printTopic() {
-		for (VnTourismTopic topic : topics)
+		for (VnTourismTopic topic : topics) {
 			System.out.println(topic.getTopic());
+		}
 	}
 
 	public String readInput(String inputFile) {
@@ -103,7 +96,6 @@ public class QueryData implements Query {
 		try {
 			Files.copy(source.toPath(), dest.toPath());
 		} catch (IOException e) {
-			e.printStackTrace();
 		}
 		return dest.toString();
 	}
@@ -115,10 +107,12 @@ public class QueryData implements Query {
 	public void processQuery() {
 		for (VnTourismTopic topic : topics) {
 			ParameterizedSparqlString qs = new ParameterizedSparqlString(topic.getInput());
+
 			QueryExecution exec = QueryExecution.service("http://dbpedia.org/sparql", qs.asQuery());
 			Model m = exec.execConstruct();
 			OutputStream outStream;
 			try {
+
 				outStream = new FileOutputStream(topic.getOutput(), false);
 				m.write(outStream, "Turtle");
 				System.out.println("Output file created: " + topic.getOutput());
@@ -133,6 +127,16 @@ public class QueryData implements Query {
 	public void printTime() {
 		MyTime timeQuery = new MyTime();
 		timeQuery.print();
+	}
+
+	private int numData;
+
+	public int getNumData() {
+		return numData;
+	}
+
+	public void setNumData(int numData) {
+		this.numData = numData;
 	}
 
 	public void printNumData() {
