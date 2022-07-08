@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.nio.file.Files;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 import org.apache.jena.query.ParameterizedSparqlString;
@@ -20,9 +21,17 @@ import time.MyTime;
 import topic.VnTourismTopic;
 
 public class QueryData implements Query {
-
+	private int numData;
 	private ArrayList<VnTourismTopic> topics = new ArrayList<VnTourismTopic>();
 
+	public int getNumData() {
+		return numData;
+	}
+
+	public void setNumData(int numData) {
+		this.numData = numData;
+	}
+	
 	public void printTopic() {
 		for (VnTourismTopic topic : topics) {
 			System.out.println(topic.getTopic());
@@ -58,10 +67,19 @@ public class QueryData implements Query {
 		return sb.toString();
 	}
 
-	public static String insert(String filePath, String topic) {
+	public static String createRequestFile(String filePath, String topic) {
 		Scanner sc;
+		File source = new File("request.rq");
+		File folder = new File("requests");
+		File file = new File(folder.toString() + "\\" + filePath);
+		Arrays.stream(folder.listFiles()).filter(f -> f.getName().endsWith(".rq")).forEach(File::delete);
 		try {
-			sc = new Scanner(new File(filePath));
+			Files.copy(source.toPath(), file.toPath());
+		} catch (IOException e) {
+			System.out.println("An error occured");
+		}
+		try {
+			sc = new Scanner(new File(file.toString()));
 		} catch (FileNotFoundException e) {
 			return "";
 		}
@@ -81,7 +99,7 @@ public class QueryData implements Query {
 		// instantiating the FileWriter class
 		FileWriter writer;
 		try {
-			writer = new FileWriter(filePath);
+			writer = new FileWriter(file);
 			writer.append(fileContents);
 			writer.flush();
 			writer.close();
@@ -92,30 +110,21 @@ public class QueryData implements Query {
 		return "";
 	}
 
-	public static String copyFile(File source, File dest) {
-		try {
-			Files.copy(source.toPath(), dest.toPath());
-		} catch (IOException e) {
-		}
-		return dest.toString();
-	}
-
 	public void add(VnTourismTopic topic) {
 		topics.add(topic);
 	}
 
 	public void processQuery() {
+		System.out.println("Loading....");
 		for (VnTourismTopic topic : topics) {
-			ParameterizedSparqlString qs = new ParameterizedSparqlString(topic.getInput());
-
+			ParameterizedSparqlString qs = new ParameterizedSparqlString(topic.getInputFile());
 			QueryExecution exec = QueryExecution.service("http://dbpedia.org/sparql", qs.asQuery());
 			Model m = exec.execConstruct();
 			OutputStream outStream;
 			try {
-
-				outStream = new FileOutputStream(topic.getOutput(), false);
+				outStream = new FileOutputStream(topic.getOutputFile(), false);
 				m.write(outStream, "Turtle");
-				System.out.println("Output file created: " + topic.getOutput());
+				System.out.println("Output file created: " + topic.getOutputFile());
 			} catch (FileNotFoundException e) {
 				System.out.println("An error occurred.");
 				e.printStackTrace();
@@ -129,20 +138,10 @@ public class QueryData implements Query {
 		timeQuery.print();
 	}
 
-	private int numData;
-
-	public int getNumData() {
-		return numData;
-	}
-
-	public void setNumData(int numData) {
-		this.numData = numData;
-	}
-
 	public void printNumData() {
 		int totalData = 0;
 		for (VnTourismTopic topic : topics) {
-			this.setNumData(readInput(topic.getOutput()).split("\n\n").length - 1);
+			this.setNumData(readInput(topic.getOutputFile()).split("\n\n").length - 1);
 			System.out.println("Number of datas in " + topic.getTopic() + ": " + this.getNumData());
 			totalData += this.getNumData();
 		}

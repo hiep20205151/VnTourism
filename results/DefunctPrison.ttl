@@ -8,7 +8,7 @@
         dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
 
 <http://dbpedia.org/resource/Hỏa_Lò_Prison>
-        rdfs:comment          "Hỏa Lò Prison (Vietnamese: [hwa᷉ː lɔ̂]) was a prison used by the French colonists in French Indochina for political prisoners, and later by North Vietnam for U.S. prisoners of war during the Vietnam War. During this later period it was known to American POWs as the \"Hanoi Hilton\". The prison was demolished during the 1990s, although the gatehouse remains as a museum."@en ;
+        rdfs:comment          "Hỏa Lò Prison (Vietnamese: [hwa᷉ː lɔ̂]) was a prison used by the French colonists in French Indochina for political prisoners, and later by North Vietnam for U.S. prisoners of war during the Vietnam War (which in Vietnam is called the American War). During this later period it was known to American POWs as the \"Hanoi Hilton\". The prison was demolished during the 1990s, although the gatehouse remains as a museum."@en ;
         rdfs:label            "Hỏa Lò Prison"@en ;
         dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
 
@@ -18,7 +18,7 @@
         dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
 
 <http://dbpedia.org/resource/Côn_Đảo_Prison>
-        rdfs:comment          "Côn Đảo Prison (Vietnamese: Nhà tù Côn Đảo), also Côn Sơn Prison, is a prison on Côn Sơn Island (also known as Côn Lôn) the largest island of the Côn Đảo archipelago in southern Vietnam (today it is in Bà Rịa–Vũng Tàu province. The prison was built in 1861 by the French colonists to jail those considered especially dangerous to the colonial government. Many of the high-ranking leaders of Vietnam were detained here. It is ranked a special historical relic of national importance by the government of Vietnam. The most famous site in this prison are the \"tiger cages\" (chuồng cọp). The French tiger cages cover an area of 5.475 m2, within which each cell occupies 1.408 m2, solariums occupy 1.873 m2, and other spaces occupy 2.194 m2. The prison includes 120 cells.The prison was closed after the e"@en ;
+        rdfs:comment          "Côn Đảo Prison (Vietnamese: Nhà tù Côn Đảo), also Côn Sơn Prison, is a prison on Côn Sơn Island (also known as Côn Lôn) the largest island of the Côn Đảo archipelago in southern Vietnam (today it is in Bà Rịa–Vũng Tàu province. The prison was built in 1861 by the French colonists to jail those considered especially dangerous to the colonial government. Many of the high-ranking leaders of Vietnam were detained here. It is ranked a special historical relic of national importance by the government of Vietnam. The most famous site in this prison are the \"tiger cages\" (vi:\"chuồng cọp\"). The French tiger cages cover an area of 5.475 m2, within which each cell occupies 1.408 m2, solariums occupy 1.873 m2, and other spaces occupy 2.194 m2. The prison includes 120 cells.The prison was closed after "@en ;
         rdfs:label            "Côn Đảo Prison"@en ;
         dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
 

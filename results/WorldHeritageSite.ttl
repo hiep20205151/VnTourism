@@ -22,13 +22,13 @@ dbr:The_Road_of_Heritage_Sites_in_Central_Vietnam
         rdfs:label            "The Road of Heritage Sites in Central Vietnam"@en ;
         dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
 
-dbr:Huế  rdfs:comment         "Huế (Vietnamese: [hwě]) is the capital of Thừa Thiên Huế Province in central Vietnam and was the capital of Đàng Trong from 1738 to 1775 and of Vietnam during the Nguyễn Dynasty from 1802 to 1945. The city served as the administrative capital for the Nguyễn dynasty, and later functioned as the administrative capital of the protectorate of Annam during the French Indochina period."@en ;
-        rdfs:label            "Huế"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
-
 dbr:Tràng_An_Scenic_Landscape_Complex
         rdfs:comment          "Tràng An is a scenic area near Ninh Bình, Vietnam renowned for its boat cave tours.On 23 June 2014, at the 38th session of the World Heritage Committee in Doha, the Trang An Scenic Landscape Complex was inscribed as a UNESCO World Heritage Site. The Trang An Scenic Landscape Complex includes Hoa Lư, Tam Cốc/Bích Động, and Bai Dinh Temple."@en ;
         rdfs:label            "Tràng An Scenic Landscape Complex"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
+
+dbr:Huế  rdfs:comment         "Huế (Vietnamese: [hwě]) is the capital of Thừa Thiên Huế Province in central Vietnam and was the capital of Đàng Trong from 1738 to 1775 and of the Nguyễn Dynasty from 1802 to 1945. The city served as the administrative capital for the Nguyễn dynasty, and later functioned as the administrative capital of the protectorate of Annam during the French Indochina period."@en ;
+        rdfs:label            "Huế"@en ;
         dbo:wikiPageWikiLink  dbr:Category:World_Heritage_Sites_in_Vietnam .
 
 dbr:Citadel_of_the_Hồ_Dynasty

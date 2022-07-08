@@ -23,5 +23,6 @@ WHERE{
         #####
     }
     ?name dbo:wikiPageWikiLink ?o.
+    #OPTIONAL
 }
 ORDER BY ?name

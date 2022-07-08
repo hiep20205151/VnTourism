@@ -1,0 +1,55 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Cổ_Loa_Citadel  rdfs:comment  "Cổ Loa Citadel (Vietnamese: Cổ Loa thành) is an important fortified settlement and archaeological site in present-day Hanoi's Dong Anh district, roughly 17 kilometers north of present-day Hanoi, in the upper plain north of the Hong River. Various relics of the Bronze Age Phung Nguyen culture and Dong Son culture have been found in Cổ Loa, although it was later established as the capital of Âu Lạc Kingdom during the 3rd century BCE (about 257 BCE). It might be the first political center of the Vietnamese civilization. The settlement’s concentric walls resemble a snail’s shell; it had an outer embankment covering 600 hectares."@en ;
+        rdfs:label            "Cổ Loa Citadel"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:Long_Biên  rdfs:comment   "Long Biên (Vietnamese), also known as Longbian (龙编; 龍編; Lóngbiān; Lung-pien < Eastern Han Chinese: *lioŋ-pian/pen; lit. \"Dragons Interweaving\") was the capital of the Chinese Jiao Province and Jiaozhi Commandery during the Han dynasty. It was located on the Red River in modern-day Bac Ninh. After Ly Bi's successful revolt in AD 544, it served as the capital of Van Xuan. When the Sui dynasty of China retook the territory in 603, the Sui general moved the capital to nearby Tống Bình. Long Biên flourished as a trading port in the late 8th and early 9th centuries. Thăng Long was founded in 1010 at the site of earlier Chinese fortresses nearby. This grew into modern Hanoi, which incorporated Long Biên as one of its districts."@en ;
+        rdfs:label            "Long Biên"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:Timeline_of_Hanoi
+        rdfs:comment          "The following is a timeline of the history of Hanoi, the capital city of Vietnam:(This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.)\n"@en ;
+        rdfs:label            "Timeline of Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:Ho_Chi_Minh_City  rdfs:comment  "Ho Chi Minh City (Vietnamese: Thành phố Hồ Chí Minh; [tʰàjŋ̟ fǒ hò cǐ mīŋ̟] or [tʰàn fǒ hò cǐ mɨ̄n]), formerly (and still commonly) known as Saigon (Vietnamese: Sài Gòn; [sàj ɣɔ̀n] or [ʂàj ɣɔ̀ŋ]), is the largest city in Vietnam, situated in the south. In the southeastern region, the city surrounds the Saigon River and covers about 2,061 km2 (796 sq mi)."@en ;
+        rdfs:label            "Ho Chi Minh City"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:Luy_Lâu  rdfs:comment     "Luy Lâu (Vietnamese) or Leilou (Chinese: Traditional 羸婁, Simplified 羸娄, Pinyin Léilóu) (< Middle Chinese ZS *liuᴇ-ləu < Eastern Han Chinese *lyai-lo) was the first capital of the Han commandery of Jiaozhi (Giao Chỉ) from 111 BC following China's conquest of Nanyue/Nam Viet till 106 BC. It was also the headquarters of the larger province of Jiaozhou (Giao Châu) and the center of China's maritime trade on the Gulf of Tonkin and South China Sea. The old citadel is at Xã Thanh Khương in Thuận Thành in the province of Bắc Ninh."@en ;
+        rdfs:label            "Luy Lâu"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:Hanoi  rdfs:comment       "Hanoi (UK: /(ˌ)hæ-, həˈnɔɪ/ ha-, hə-NOY or US: /hɑː-/ hah-NOY; Vietnamese: Hà Nội [hàː nôjˀ]) is the capital city of Vietnam. It covers an area of 3,358.6 km2 (1,296.8 sq mi). The second largest city in Vietnam, it consists of 12 urban districts, 1 district-leveled town and 17 rural districts. Located within the Red River Delta, Hanoi is the cultural and political centre of Vietnam."@en ;
+        rdfs:label            "Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:Huế  rdfs:comment         "Huế (Vietnamese: [hwě]) is the capital of Thừa Thiên Huế Province in central Vietnam and was the capital of Đàng Trong from 1738 to 1775 and of Vietnam during the Nguyễn Dynasty from 1802 to 1945. The city served as the administrative capital for the Nguyễn dynasty, and later functioned as the administrative capital of the protectorate of Annam during the French Indochina period."@en ;
+        rdfs:label            "Huế"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:List_of_Vietnamese_dynasties
+        rdfs:comment          "Prior to the abdication of Bảo Đại on 30 August 1945 in the aftermath of the August Revolution, Vietnam was ruled by a series of dynasties of either local or Chinese origin. The following is a list of major dynasties in the history of Vietnam."@en ;
+        rdfs:label            "List of Vietnamese dynasties"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+<http://dbpedia.org/resource/Ning_(surname)>
+        rdfs:comment          "Ning is the romanisation of the Chinese surnames 寧 Níng and its variant 甯 Nìng. After the introduction of simplified characters, both names were written as 宁 in Mainland China until 2000, when the character 甯 was restored as an accepted variant for people whose family had originally used that character. However, usage of 甯 remains rare, with most continuing to use 宁."@en ;
+        rdfs:label            "Ning (surname)"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:Phong_Châu  rdfs:comment  "Phong Châu (峯州) was the capital city of Văn Lang (now Viet Nam) for the most part of the Hồng Bàng period, from the Third Dynasty to the of Hùng kings."@en ;
+        rdfs:label            "Phong Châu"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:Hoa_Lư_district  rdfs:comment  "Hoa Lư is a district of Ninh Bình province in the Red River Delta region of Vietnam. Before 1010, Hoa Lư served as the capital of Đại Cồ Việt. The ancient capital of Hoa Lư is located in Trường Yên Commune (vi). It comprises 10 communes and one township: Trường Yên, Ninh Hòa, Ninh Giang, Ninh Mỹ, Ninh Khang, Ninh Xuân, Ninh Vân, Ninh Hải, Ninh An, Ninh Thắng and Thiên Tôn Township. As of 2003 the district had a population of 66,932. The district covers an area of 103 km². The district capital lies at ."@en ;
+        rdfs:label            "Hoa Lư district"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
+dbr:Outline_of_Vietnam
+        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 98 million, Vietnam is the 15th most populous country in the world."@en ;
+        rdfs:label            "Outline of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .

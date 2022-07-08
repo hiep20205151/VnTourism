@@ -23,5 +23,6 @@ WHERE{
         dbc:Zoos_in_Vietnam
     }
     ?name dbo:wikiPageWikiLink ?o.
+    #OPTIONAL
 }
 ORDER BY ?name

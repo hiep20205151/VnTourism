@@ -2,49 +2,35 @@ package test;
 
 import query.QueryData;
 import topic.VnTourismTopic;
-import topic.subtopic.AmusementPark;
-import topic.subtopic.Beach;
-import topic.subtopic.BotanicalGarden;
-import topic.subtopic.BuddhistTemple;
-import topic.subtopic.ClockTower;
-import topic.subtopic.DefunctPrison;
-import topic.subtopic.Festival;
-import topic.subtopic.HistoricalSite;
-import topic.subtopic.Hotel;
-import topic.subtopic.Island;
-import topic.subtopic.Lake;
-import topic.subtopic.Mausoleum;
-import topic.subtopic.MilitaryWarMuseum;
-import topic.subtopic.MountainRange;
-import topic.subtopic.Museum;
-import topic.subtopic.NationalPark;
-import topic.subtopic.OperaHouse;
-import topic.subtopic.River;
-import topic.subtopic.RoadBridge;
-import topic.subtopic.VietnameseDish;
-import topic.subtopic.WaterFall;
-import topic.subtopic.WorldHeritageSite;
-import topic.subtopic.Zoo;
+import topic.subtopic.*;
 
 public class Main{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		QueryData rq = new QueryData();
-		VnTourismTopic amusementpark = new AmusementPark();	//polymorphism
+		VnTourismTopic amusementpark = new AmusementPark();
 		rq.add(amusementpark);
+		VnTourismTopic aquaria = new Aquaria();
+		rq.add(aquaria);
+		VnTourismTopic archaeologicalsite = new ArchaeologicalSite();
+		rq.add(archaeologicalsite);
 		VnTourismTopic beach = new Beach();
 		rq.add(beach);
 		VnTourismTopic botanicalgarden = new BotanicalGarden();
 		rq.add(botanicalgarden);
 		VnTourismTopic buddhisttemple = new BuddhistTemple();
 		rq.add(buddhisttemple);
+		VnTourismTopic cave = new Cave();
+		rq.add(cave);
 		VnTourismTopic clocktower = new ClockTower();
 		rq.add(clocktower);
 		VnTourismTopic defunctprison = new DefunctPrison();
 		rq.add(defunctprison);
 		VnTourismTopic festival = new Festival();
 		rq.add(festival);
+		VnTourismTopic capital = new HistoricalCapital();
+		rq.add(capital);
 		VnTourismTopic historicalsite = new HistoricalSite();
 		rq.add(historicalsite);
 		VnTourismTopic hotel = new Hotel();
@@ -53,10 +39,14 @@ public class Main{
 		rq.add(island);
 		VnTourismTopic lake = new Lake();
 		rq.add(lake);
+		VnTourismTopic landform = new Landform();
+		rq.add(landform);
 		VnTourismTopic mausoleum = new Mausoleum();
 		rq.add(mausoleum);
 		VnTourismTopic militarywarmuseum = new MilitaryWarMuseum();
 		rq.add(militarywarmuseum);
+		VnTourismTopic monarch = new Monarch();
+		rq.add(monarch);
 		VnTourismTopic mountainrange = new MountainRange();
 		rq.add(mountainrange);
 		VnTourismTopic museum = new Museum();
@@ -69,8 +59,12 @@ public class Main{
 		rq.add(river);
 		VnTourismTopic roadbridge = new RoadBridge();
 		rq.add(roadbridge);
+		VnTourismTopic tomb = new Tomb();
+		rq.add(tomb);
 		VnTourismTopic vietnamesedish = new VietnameseDish();
 		rq.add(vietnamesedish);
+		VnTourismTopic volcano = new Volcano();
+		rq.add(volcano);
 		VnTourismTopic waterfall = new WaterFall();
 		rq.add(waterfall);
 		VnTourismTopic worldheritagesite = new WorldHeritageSite();

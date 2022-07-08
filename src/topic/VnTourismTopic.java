@@ -1,14 +1,19 @@
 package topic;
 
 public class VnTourismTopic {
-	private String input;
-	private String output;
-	private String requestsFolder = "requests";
-	private String resultsFolder = "results";
-	private String topic = this.getClass().getSimpleName();
 
-	public String getRequestsFolder() {
-		return requestsFolder;
+	private String topic = this.getClass().getSimpleName();
+	private String inputFolder = "requests";
+	private String outputFolder = "results";
+	private String outputFile = outputFolder + "\\" + topic + ".ttl";
+	private String inputFile;
+
+	public String getInputFolder() {
+		return inputFolder;
+	}
+
+	public void setInputFolder(String inputFolder) {
+		this.inputFolder = inputFolder;
 	}
 
 	public String getTopic() {
@@ -19,27 +24,27 @@ public class VnTourismTopic {
 		this.topic = topic;
 	}
 
-	public String getResultsFolder() {
-		return resultsFolder;
+	public String getOutputFolder() {
+		return outputFolder;
 	}
 
-	public void setResultsFolder(String folder) {
-		this.resultsFolder = folder;
+	public void setOutputFolder(String folder) {
+		this.outputFolder = folder;
 	}
 
-	public String getInput() {
-		return input;
+	public String getInputFile() {
+		return inputFile;
 	}
 
-	public void setInput(String input) {
-		this.input = input;
+	public void setInputFile(String input) {
+		this.inputFile = input;
 	}
 
-	public String getOutput() {
-		return output;
+	public String getOutputFile() {
+		return outputFile;
 	}
 
-	public void setOutput(String output) {
-		this.output = output;
+	public void setOutputFile(String output) {
+		this.outputFile = output;
 	}
 }

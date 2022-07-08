@@ -1,0 +1,34 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:List_of_islands_of_Vietnam
+        rdfs:comment          "The following is a list of islands of Vietnam: From the north Vietnam to the south Vietnam."@en ;
+        rdfs:label            "List of islands of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .
+
+dbr:List_of_lakes_of_Vietnam
+        rdfs:comment          "The following is a list of Lakes in Vietnam. \n* \n* Ba Bể Lake \n* \n* \n* \n* (Các hồ tại Hà Nội): \n* Hoàn Kiếm Lake \n* Núi Cốc Lake \n* Phú Ninh Lake \n* Thiền Quang Lake \n* Trúc Bach Lake \n* West Lake \n* \n* Định Bình Lake"@en ;
+        rdfs:label            "List of lakes of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .
+
+dbr:List_of_caves_in_Vietnam
+        rdfs:comment          "This is an incomplete List of caves in Vietnam."@en ;
+        rdfs:label            "List of caves in Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .
+
+dbr:List_of_volcanoes_in_Vietnam
+        rdfs:comment          "This is a list of active and extinct volcanoes in Vietnam."@en ;
+        rdfs:label            "List of volcanoes in Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .
+
+dbr:List_of_rivers_of_Vietnam
+        rdfs:comment          "This is a list of streams and rivers in Vietnam:"@en ;
+        rdfs:label            "List of rivers of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .
+
+dbr:List_of_extreme_points_of_Vietnam
+        rdfs:comment          "The extreme points of Vietnam include the coordinates that are further north, south, west and east than any other location in Vietnam's territory; and the highest and the lowest altitudes in Vietnam. Because Vietnam location eastern Indochina peninsula, the north point and west point lying on the land, and two south point and two east point location along and inside East Sea. Vietnam's territory stretching along the coast of East Sea, from the north to the south distant between the north point and the south point more than 1.650 km. Most extreme points are not in dispute with any other countries, all administered by Vietnam. Only one extreme points is disputed by China, Taiwan, Philippines, this is a part of Spratly Islands dispute, but Tennent Reef now administered by Vietnam."@en ;
+        rdfs:label            "List of extreme points of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .

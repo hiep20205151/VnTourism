@@ -1,0 +1,30 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Tomb_of_Gia_Long  rdfs:comment  "Tomb of Gia Long (Vietnamese: Lăng Gia Long), officially Thien Tho Mausoleum (Thiên Thọ Lăng, Hán tự: 天授陵), is a royal tomb of the Nguyễn Dynasty which is located in the Hương Thọ commune of Hương Trà district, some 20 kilometres (12 mi) south of the city of Huế."@en ;
+        rdfs:label            "Tomb of Gia Long"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Tombs_in_Vietnam .
+
+dbr:Wind_tomb  rdfs:comment   "A wind tomb (or seance grave, wind grave; Vietnamese \"Mộ gió\") is an empty tomb that does not contain a person's corpse. As with wind graves, which are \"tumuli\" or rounded mounds of earth, wind tombs are typically made by families or loved ones to commemorate a person whose body cannot be found, such as those lost at sea or who have died in combat."@en ;
+        rdfs:label            "Wind tomb"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Tombs_in_Vietnam .
+
+dbr:Tomb_of_Khải_Định
+        rdfs:comment          "The Tomb of Khải Định (Vietnamese: Lăng Khải Định), officially Ứng Mausoleum (Ứng lăng, Hán tự: 應陵), is located in Chau Chu mountain near Huế in Vietnam. It was built for Khải Định, the twelfth Emperor of the Nguyễn dynasty. It was built from 1920 to 1931 taking 11 years to complete. The tomb is a blend of Western and Eastern architecture. It is located on a steep hill outside of the capital city of Huế."@en ;
+        rdfs:label            "Tomb of Khải Định"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Tombs_in_Vietnam .
+
+dbr:Tomb_of_Lê_Văn_Duyệt
+        rdfs:comment          "Tomb of Lê Văn Duyệt (Vietnamese: Lăng Tả quân Lê Văn Duyệt), also known as Tomb of the Marshal in Ba Chieu (Lăng Ông Bà Chiểu) is a Vietnamese tomb located in Bình Thạnh District, Ho Chi Minh City, Vietnam. The tomb was originally built for Marshal Lê Văn Duyệt and his wife but later became some other Nguyễn Dynasty's mandarins worship house."@en ;
+        rdfs:label            "Tomb of Lê Văn Duyệt"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Tombs_in_Vietnam .
+
+dbr:Tomb_of_Tự_Đức  rdfs:comment  "Tomb of Tự Đức (Vietnamese: Lăng Tự Đức), officially Khiêm Mausoleum (Khiêm Lăng, Hán tự: 謙陵), is located in Huế, Vietnam. It is built for the Nguyễn Emperor Tự Đức and took three years to build from 1864–1867. It is divided into a Temple Area and a Tomb Area."@en ;
+        rdfs:label            "Tomb of Tự Đức"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Tombs_in_Vietnam .
+
+dbr:Tomb_of_Dục_Đức  rdfs:comment  "The Tomb of Emperor Dục Đức (Vietnamese: Lăng Dục Đức), officially the An Mausoleum (An Lăng, Hán tự: 安陵) is a tomb complex in Huế in which are buried Dục Đức and his wife, his son Thành Thái, and his grandson the child-emperor Duy Tân, and several other members of Vietnam's last dynasty, the Nguyễn dynasty such as the queen mother Nguyễn Thị Định (mother of Duy Tân). Duy Tân was buried in the tomb compound in 1987. The mausoleum has two sections - the tomb itself and Long An shrine."@en ;
+        rdfs:label            "Tomb of Dục Đức"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Tombs_in_Vietnam .
