@@ -9,8 +9,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.nio.file.Files;
+import java.nio.file.StandardCopyOption;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 import org.apache.jena.query.ParameterizedSparqlString;
@@ -75,7 +75,7 @@ public class QueryData implements Query {
 //		Arrays.stream(folder.listFiles()).filter(f -> f.getName().endsWith(".rq")).forEach(File::delete);
 		try {
 			
-			Files.copy(source.toPath(), file.toPath());
+			Files.copy(source.toPath(), file.toPath(),StandardCopyOption.REPLACE_EXISTING);
 		} catch (IOException e) {
 			System.out.println("An error occured");
 		}
