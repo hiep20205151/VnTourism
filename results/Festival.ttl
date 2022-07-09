@@ -22,17 +22,12 @@ dbr:Songkran  rdfs:comment    "Songkran is a term derived from the Sanskrit word
         dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .
 
 <http://dbpedia.org/resource/Chinese_New_Year's_Eve>
-        rdfs:comment          "Chinese New Year's Eve is the day before the Chinese New Year. Celebrating Chinese New Year’s Eve has always been a family matter in China, it is the reunion day for every Chinese family. It has evolved over a long period of time. The origin of Chinese New Year’s Eve can be traced back to 3500 years ago."@en ;
+        rdfs:comment          "Chinese New Year's Eve or Lunar New Year's Eve is the day before the Chinese New Year. Celebrating Chinese New Year’s Eve has always been a family matter in China, it is the reunion day for every Chinese family. It has evolved over a long period of time. The origin of Chinese New Year’s Eve can be traced back to 3500 years ago."@en ;
         rdfs:label            "Chinese New Year's Eve"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .
 
-dbr:Tết  rdfs:comment         "Tết ([tet˧˥]), short for Tết Nguyên Đán (Hán Nôm: 節元旦), Spring Festival, Lunar New Year, or Vietnamese Lunar New Year is one of the most important celebrations in Vietnamese culture. The colloquial term \"Tết\" is a shortened form of Tết Nguyên Đán, with Old Vietnamese origins meaning \"Festival of the First Morning of the First Day\". Tết celebrates the arrival of spring based on the Vietnamese calendar, which usually has the date on January or February in the Gregorian calendar."@en ;
+dbr:Tết  rdfs:comment         "Tết ([tet˧˥]), short for Tết Nguyên Đán (Hán-Nôm: 節元旦), Spring Festival, Lunar New Year, or Vietnamese Lunar New Year is the most important celebration in Vietnamese culture. The colloquial term \"Tết\" is a shortened form of Tết Nguyên Đán, with Sino-Vietnamese origins meaning \"Festival of the First Morning of the First Day\". Tết celebrates the arrival of spring based on the Vietnamese calendar, which usually has the date falling in January or February in the Gregorian calendar."@en ;
         rdfs:label            "Tết"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .
-
-dbr:Mid-Autumn_Festival
-        rdfs:comment          "The Mid-Autumn Festival, also known as the Moon Festival or Mooncake Festival, is a traditional festival celebrated in mainland China, Taiwan, Hong Kong, Macau, and Vietnam, as well as by overseas Chinese and Vietnamese communities. Similar holidays are celebrated in Japan (Tsukimi), Korea (Chuseok), and throughout Southeast Asia."@en ;
-        rdfs:label            "Mid-Autumn Festival"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .
 
 dbr:Dalat_Flower_Festival
@@ -40,15 +35,20 @@ dbr:Dalat_Flower_Festival
         rdfs:label            "Dalat Flower Festival"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .
 
+dbr:Mid-Autumn_Festival
+        rdfs:comment          "The Mid-Autumn Festival, also known as the Moon Festival or Mooncake Festival, is a traditional festival celebrated in mainland China, Taiwan, Hong Kong, Macau, and Vietnam, as well as by overseas Chinese and Vietnamese communities. Similar holidays are celebrated in Japan (Tsukimi), Korea (Chuseok), and throughout Southeast Asia."@en ;
+        rdfs:label            "Mid-Autumn Festival"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .
+
 dbr:Tết_Đoan_Ngọ  rdfs:comment  "Tết Đoan Ngọ is the Vietnamese version of Chinese Duanwu festival (literally: Tết: festival, Đoan: the start/straight/middle/righteousness/just, Ngọ: at noon (from 11 am to 1 pm). Đoan Ngọ is the moment that the sun is the most near the earth and this day often is \"The middle day of summer\" (Hạ chí). In Vietnam, this day is also the death anniversary of National Mother Âu Cơ. Tết Đoan Ngọ marks the start of farming season in Vietnam. In the past, people start getting rid of insects, worms that harm their crops on this day. In historical times, Vietnamese also ate alcoholic fermented glutinous rice and other sweet treats on this day with hope that these foods will \"kill\" the bad \"worms\" inside the bodies to be healthy, hence the name, why Tết Đoan Ngọ is also called \"Worm Killing Festival\"."@en ;
         rdfs:label            "Tết Đoan Ngọ"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .
+
+dbr:Dongzhi_Festival  rdfs:comment  "The Dōngzhì Festival or Winter Solstice Festival (Chinese: 冬至; pinyin: Dōngzhì; lit. 'winter's extreme') is one of the most important Chinese festivals celebrated by the Chinese, Taiwanese, Japanese, Koreans, and Vietnamese during the Dongzhi solar term (winter solstice), some day between December 21 to December 23."@en ;
+        rdfs:label            "Dongzhi Festival"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .
 
 dbr:Coca-Cola_SoundFest
         rdfs:comment          "Coca-Cola and Samsung Galaxy Y SoundFest (referred as Coca-Cola SoundFest on the official website or SoundFest Vietnam on the official Facebook) is a music festival first held in Ho Chi Minh City, Vietnam on April 14, 2012. SoundFest has been the largest music festival in Vietnam in terms of the line-up artists as well as the duration time. The 2012 event was sponsored by Coca-Cola and Samsung."@en ;
         rdfs:label            "Coca-Cola SoundFest"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .
-
-dbr:Dongzhi_Festival  rdfs:comment  "The Dōngzhì Festival or Winter Solstice Festival (Chinese: 冬至; pinyin: Dōngzhì; lit. 'winter's extreme') is one of the most important Chinese festivals celebrated by the Mainland Chinese, Taiwanese, Hong Kong Chinese, Overseas Chinese, Japanese, Koreans, Vietnamese and other East Asian-related people during the Dongzhi solar term (winter solstice), some day between December 21 to December 23."@en ;
-        rdfs:label            "Dongzhi Festival"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Festivals_in_Vietnam .

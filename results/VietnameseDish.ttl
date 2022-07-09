@@ -42,7 +42,7 @@ dbr:Gà_nướng_sả  rdfs:comment  "In Vietnamese cuisine, Gà nướng sả i
         rdfs:label            "Gà nướng sả"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
 
-dbr:Pho  rdfs:comment         "Phở or pho (UK: /fɜː/, US: /fʌ/, Canada: /fɑː/; Vietnamese: [fəː˧˩˧]) is a Vietnamese soup dish consisting of broth, rice noodles (bánh phở), herbs, and meat (usually beef) (phở bò), sometimes chicken (phở gà). Pho is a popular food in Vietnam where it is served in households, street stalls and restaurants countrywide. Pho is considered Vietnam's national dish."@en ;
+dbr:Pho  rdfs:comment         "Phở or pho (UK: /fɜː/, US: /fʌ/, Canada: /fɑː/; Vietnamese: [fəː˧˩˧]) is a Vietnamese soup dish consisting of broth, rice noodles (bánh phở), herbs, and meat (usually beef Beef (phở bò), sometimes chicken (phở gà)). Pho is a popular food in Vietnam where it is served in households, street stalls and restaurants countrywide. Pho is considered Vietnam's national dish."@en ;
         rdfs:label            "Pho"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
 

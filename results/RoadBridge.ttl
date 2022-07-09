@@ -19,14 +19,14 @@ dbr:Mỹ_Thuận_Bridge  rdfs:comment  "The Mỹ Thuận Bridge (Vietnamese: C�
         rdfs:label            "Mỹ Thuận Bridge"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
 
-<http://dbpedia.org/resource/Dragon_Bridge_(Da_Nang)>
-        rdfs:comment          "The Dragon Bridge (Vietnamese: Cầu Rồng) is a bridge over the River Hàn at Da Nang, Vietnam. Construction of the bridge began on 19 July 2009 (the same day as the inauguration of the nearby Thuận Phước Bridge) when the former Prime Minister of Vietnam Nguyen Tan Dung and many high-ranking government officials attended the groundbreaking ceremony. Main span was completed on October 26, 2012. The bridge was opened to traffic on March 29, 2013, the 38th anniversary of the liberation of Da Nang City."@en ;
-        rdfs:label            "Dragon Bridge (Da Nang)"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
-
 dbr:Ben_Thuy_Bridge_1
         rdfs:comment          "Ben Thuy Bridge 1 (Vietnamese: Cầu Bến Thủy) is a road bridge in the North Central Coast of Vietnam and is part of the National Route 1A"@en ;
         rdfs:label            "Ben Thuy Bridge 1"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
+
+<http://dbpedia.org/resource/Dragon_Bridge_(Da_Nang)>
+        rdfs:comment          "The Dragon Bridge (Vietnamese: Cầu Rồng) is a bridge over the River Hàn at Da Nang, Vietnam. Construction of the bridge began on 19 July 2009 (the same day as the inauguration of the nearby Thuận Phước Bridge) when the former Prime Minister of Vietnam Nguyen Tan Dung and many high-ranking government officials attended the groundbreaking ceremony. Main span was completed on October 26, 2012. The bridge was opened to traffic on March 29, 2013, the 38th anniversary of the liberation of Da Nang City."@en ;
+        rdfs:label            "Dragon Bridge (Da Nang)"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
 
 dbr:Thủ_Thiêm_Bridge  rdfs:comment  "Thủ Thiêm Bridge is a 6-lane bridge in Ho Chi Minh City, the largest city of Vietnam, opened in 2008. The bridge links District 2 with Bình Thạnh District, near downtown District 1. This bridge is an important link between existing downtown of Ho Chi Minh City with Thu Thiem New Urban Area. The cost estimate for construction of the bridge was US$60 million, implemented by a consortium of Vietnamese contractors. The progress was delayed due to delay in land compensation – a big problem in project management faced by many investors in Vietnam."@en ;
@@ -34,7 +34,7 @@ dbr:Thủ_Thiêm_Bridge  rdfs:comment  "Thủ Thiêm Bridge is a 6-lane bridge i
         dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
 
 dbr:Trần_Thị_Lý_Bridge
-        rdfs:comment          "The Nguyễn Văn Trỗi–Trần Thị Lý Bridge (Vietnamese: Cầu Nguyễn Văn Trỗi–Trần Thị Lý) is a bridge spanning the Hàn River in the city of Đà Nẵng, Vietnam. The new bridge replaces two older bridges named after Nguyễn Văn Trỗi and Trần Thị Lý."@en ;
+        rdfs:comment          "The Nguyễn Văn Trỗi–Trần Thị Lý Bridge (Vietnamese: Cầu Nguyễn Văn Trỗi–Trần Thị Lý) is a cable-stayed bridge crossing the Hàn River connects Hai Chau district, Son Tra district, Ngu Hanh Son district in the city of Đà Nẵng, Vietnam. The new bridge replaces two older bridges named after Nguyễn Văn Trỗi and Trần Thị Lý. This is a cable-stayed bridge with a total length is 731 metres, total height is 145 metres."@en ;
         rdfs:label            "Trần Thị Lý Bridge"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
 
@@ -118,12 +118,12 @@ dbr:Tiên_Sơn_Bridge  rdfs:comment  "Tuyên Sơn Bridge (Vietnamese: cầu Tuy�
         rdfs:label            "Tiên Sơn Bridge"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
 
-dbr:Thanh_Hóa_Bridge  rdfs:comment  "The Thanh Hóa Bridge (Vietnamese: Cầu Hàm Rồng, Hàm Rồng Bridge), spanning the Song Ma river, is situated 3 miles (4.8 km) northeast of Thanh Hóa, the capital of Thanh Hóa Province in Vietnam. The Vietnamese gave it the nickname Hàm Rồng (Dragon's Jaw). In 1965 during the Vietnam War, it was the objective of many attacks by US Air Force and US Navy aircraft which would fail to destroy the bridge until 1972, even after hundreds of attacks. The bridge was restored in 1973. As of 2016, the bridge still stands."@en ;
-        rdfs:label            "Thanh Hóa Bridge"@en ;
-        dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
-
 dbr:Non_Nước_Bridge  rdfs:comment  "Non Nước Bridge is a concrete bridge on (vi), built in 1995 over the River Đáy between Ninh Bình town, capital of Ninh Bình Province, and Ý Yên District, Nam Định Province. There was also a railway bridge."@en ;
         rdfs:label            "Non Nước Bridge"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
+
+dbr:Thanh_Hóa_Bridge  rdfs:comment  "The Thanh Hóa Bridge (Vietnamese: Cầu Hàm Rồng, Hàm Rồng Bridge), spanning the Song Ma river, is situated 3 miles (4.8 km) northeast of Thanh Hóa, the capital of Thanh Hóa Province in Vietnam. The Vietnamese gave it the nickname Hàm Rồng (Dragon's Jaw). In 1965 during the Vietnam War, it was the objective of many attacks by US Air Force and US Navy aircraft which would fail to destroy the bridge until 1972, even after hundreds of attacks. The bridge was restored in 1973. As of 2016, the bridge still stands."@en ;
+        rdfs:label            "Thanh Hóa Bridge"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Road_bridges_in_Vietnam .
 
 dbr:Ben_Thuy_Bridge_2

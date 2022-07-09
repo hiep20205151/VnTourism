@@ -37,7 +37,7 @@ dbr:Vietnam  rdfs:comment     "Vietnam (Vietnamese: Việt Nam, [vîət nāːm])
         dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
 
 dbr:Outline_of_Vietnam
-        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 86 million, Vietnam is the 13th most populous country in the world."@en ;
+        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 98 million, Vietnam is the 15th most populous country in the world."@en ;
         rdfs:label            "Outline of Vietnam"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
 

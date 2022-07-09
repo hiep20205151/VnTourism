@@ -38,7 +38,7 @@ dbr:Ngườm  rdfs:comment       "Ngườm is an archaeological site in Thái Ng
         dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
 
 <http://dbpedia.org/resource/Indrapura_(Champa)>
-        rdfs:comment          "Indrapura was the capital city of the kingdom of Champa from 875 CE until 982, for several decades, under the reign of Indravarman I (877-890) and some of his followers belonging to the 6th dynasty in Dong Duong. The word Indrapura means \"City of Indra\" in Sanskrit, Indra being the Hindu God of Storm and War, and King of the Gods in the Rig Veda."@en ;
+        rdfs:comment          "Indrapura was the capital city of the ancient kingdom of Champa from 875 CE until 982, for several decades, under the reign of Indravarman I (877-890) and some of his followers belonging to the 6th dynasty in Dong Duong. The word Indrapura means \"City of Indra\" in Sanskrit, Indra being the Hindu God of Storm and War, and King of the Gods in the Rig Veda."@en ;
         rdfs:label            "Indrapura (Champa)"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
 
@@ -46,7 +46,7 @@ dbr:Phong_Châu  rdfs:comment  "Phong Châu (峯州) was the capital city of Vă
         rdfs:label            "Phong Châu"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
 
-dbr:Óc_Eo  rdfs:comment       "Óc Eo (Vietnamese), transcription of the Khmer, អូរកែវ ʼou kaew 'glass stream, crystal stream' - the district was part of Cambodia until 1802 and many of the inhabitants are Khmer Krom) is an archaeological site in modern-day Óc Eo commune of Thoại Sơn District in An Giang Province of southern Vietnam. Located in the Mekong River Delta, Óc Eo was a busy port of the kingdom of Funan between the 2nd century BC and 12th century AD and it may have been the port known to the Romans as Cattigara."@en ;
+dbr:Óc_Eo  rdfs:comment       "Óc Eo (Vietnamese) is an archaeological site in Thoại Sơn District in southern An Giang Province, Vietnam, in the Mekong River Delta. Óc Eo may have been a busy port of the kingdom of Funan between the 2nd century BC and 12th century AD. Scholars use the term \"Óc Eo Culture\" to refer to the archaeological culture of the Mekong Delta region that is typified by the artifacts recovered at Óc Eo through archeological investigation. Óc Eo is also one of the modern day communes of Vietnam."@en ;
         rdfs:label            "Óc Eo"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
 

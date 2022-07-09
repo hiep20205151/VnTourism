@@ -31,7 +31,7 @@ public class QueryData implements Query {
 	public void setNumData(int numData) {
 		this.numData = numData;
 	}
-	
+
 	public void printTopic() {
 		for (VnTourismTopic topic : topics) {
 			System.out.println(topic.getTopic());
@@ -72,8 +72,9 @@ public class QueryData implements Query {
 		File source = new File("request.rq");
 		File folder = new File("requests");
 		File file = new File(folder.toString() + "\\" + filePath);
-		Arrays.stream(folder.listFiles()).filter(f -> f.getName().endsWith(".rq")).forEach(File::delete);
+//		Arrays.stream(folder.listFiles()).filter(f -> f.getName().endsWith(".rq")).forEach(File::delete);
 		try {
+			
 			Files.copy(source.toPath(), file.toPath());
 		} catch (IOException e) {
 			System.out.println("An error occured");
@@ -147,4 +148,5 @@ public class QueryData implements Query {
 		}
 		System.out.println("Total number of datas: " + totalData);
 	}
+
 }
