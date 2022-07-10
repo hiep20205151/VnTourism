@@ -107,8 +107,8 @@ public class QueryData implements Query {
 			return fileContents;
 		} catch (IOException e) {
 			e.printStackTrace();
+			return "";
 		}
-		return "";
 	}
 
 	public void add(VnTourismTopic topic) {
@@ -124,10 +124,10 @@ public class QueryData implements Query {
 			OutputStream outStream;
 			try {
 				outStream = new FileOutputStream(topic.getOutputFile(), false);
-				m.write(outStream, "Turtle");
+				m.write(outStream, "RDF/XML-ABBREV");
 				System.out.println("Output file created: " + topic.getOutputFile());
 			} catch (FileNotFoundException e) {
-				System.out.println("An error occurred.");
+				System.err.println("File not found.");
 				e.printStackTrace();
 			}
 		}

@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dbc="http://dbpedia.org/resource/Category:"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:dbr="http://dbpedia.org/resource/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saigon_Zoo_and_Botanical_Gardens">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Botanical_gardens_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">The Saigon Zoo and Botanical Gardens, established in 1865, is Vietnam's largest zoo and botanical garden. Located on Nguyen Binh Khiem Street in District 1, T.P. in Ho Chi Minh City, it is home to over a hundred species of mammals, reptiles and birds, as well as many rare orchids and ornamental plants. Also within the grounds is the Museum of Vietnamese History, housing some 25,000 artifacts of history, culture and ethnography of South Vietnam. The grounds also include a temple to the Hung Kings (formerly a monument to Indochinese soldiers who died for France during World War I). Other parts of the zoo are divided into animal and plant conservation areas, an orchid garden, and an amusement park.</rdfs:comment>
+    <rdfs:label xml:lang="en">Saigon Zoo and Botanical Gardens</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_botanical_gardens_in_Vietnam">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Botanical_gardens_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Botanical gardens in Vietnam have collections consisting entirely of Vietnam native and endemic species; most have a collection that include plants from around the world. There are botanical gardens and arboreta in all states and territories of Vietnam, most are administered by local governments, some are privately owned. 
+* Saigon Zoo and Botanical Gardens 
+* Da lat botanical garden 
+* Bach Thao Park or Hanoi Botanical Garden</rdfs:comment>
+    <rdfs:label xml:lang="en">List of botanical gardens in Vietnam</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,76 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Cát_Tiên_archaeological_site
+        rdfs:comment          "Cát Tiên archaeological site or Cát Tiên Sanctuary (Vietnamese: Thánh địa Cát Tiên) is an archaeological site located between the two sectors of Cát Tiên National Park, Cát Tiên District, Lâm Đồng Province, southern Central Highlands. Accidentally discovered in 1985, the site has been subjected to debate among historians about its origin. The highly Indianized civilization which developed this site inhabited it between the 4th century and 9th centuries AD. The hill temple 1A of Cát Tiên features the largest stone lingam ever found in Southeast Asia."@en ;
+        rdfs:label            "Cát Tiên archaeological site"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Cổ_Loa_Citadel  rdfs:comment  "Cổ Loa Citadel (Vietnamese: Cổ Loa thành) is an important fortified settlement and archaeological site in present-day Hanoi's Dong Anh district, roughly 17 kilometers north of present-day Hanoi, in the upper plain north of the Hong River. Various relics of the Bronze Age Phung Nguyen culture and Dong Son culture have been found in Cổ Loa, although it was later established as the capital of Âu Lạc Kingdom during the 3rd century BCE (about 257 BCE). It might be the first political center of the Vietnamese civilization. The settlement’s concentric walls resemble a snail’s shell; it had an outer embankment covering 600 hectares."@en ;
+        rdfs:label            "Cổ Loa Citadel"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Châu_Can  rdfs:comment    "Châu Can (Hà Tây) is an archaeological site in the Red River Delta in northern Vietnam. It was located in province when it was excavated in 1974, but in 1975 was reorganized into Hà Tây province. Excavations there yielded a number of coffins containing relics of the Bronze Age Đông Sơn culture (literally \"East Mountain\" culture)."@en ;
+        rdfs:label            "Châu Can"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Con_Moong_Cave  rdfs:comment  "The Con Moong cave (Vietnamese: Hang Con Moong, \"beast\" cave) is located in the Cúc Phương National Park, just south of Mọ village, in the Thanh Hóa Province, northern Vietnam. The Department of Culture has issued a certificate that declares Con Moong prehistoric site and its surroundings as National Relics and is managed by the Cúc Phương National Park administration, along with a refuge for rare animals. Among these locations, the archaeological site of Con Moong cave is of central importance for the study of the Mesolithic Hoabinhian culture. In April and May 1976, Vietnamese archaeologists excavated the site."@en ;
+        rdfs:label            "Con Moong Cave"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Mỹ_Sơn  rdfs:comment      "Mỹ Sơn (Vietnamese pronunciation: [mǐˀ səːn]) is a cluster of abandoned and partially ruined Hindu temples in central Vietnam, constructed between the 4th and the 14th century by the Kings of Champa, an Indianized kingdom of the Cham people. The temples are dedicated to the worship of the god Shiva, known under various local names, the most important of which is Bhadreshvara. Mỹ Sơn is perhaps the longest inhabited archaeological site in Indochina, but a large majority of its architecture was destroyed by US bombing during a single week of the Vietnam War."@en ;
+        rdfs:label            "Mỹ Sơn"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Lung_Leng  rdfs:comment   "Lung Leng is an archaeological site located in Sa Binh commune, Sa Thầy District, Kon Tum Province of the Central Highlands region of Vietnam. The site was discovered in 1999 during the construction of a hydroelectric power plant. Excavated in 1999 and 2001, the site covers an area of around 11,500 square meters or roughly 123,784.97 square feet. Archaeologists have recovered over 14,000 stone, pottery and metal artifacts from Lung Leng. The excavation of Lung Leng is recognized as one of the largest archaeological excavations to be conducted by the Vietnamese. The artifacts found here are intended to be displayed at the HCM City Historical Museum and are the first signs of the Son Vi culture in the Central Highlands in Vietnam. This culture dates back to the paleolithic age."@en ;
+        rdfs:label            "Lung Leng"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Long_Wall_of_Quảng_Ngãi
+        rdfs:comment          "The Long Wall of Quang Ngai (Vietnamese: Trường lũy Quảng Ngãi), Truong luy, or the Great Wall of Vietnam is a 127.4-kilometre (79.2 mi) rampart extending from Vietnam's Quảng Ngãi Province in the north to Binh Dinh Province in the south. The defensive wall was built by the Nguyen Dynasty as a demarcation line against the Đá Vách (H're people). It is the longest monument in Southeast Asia."@en ;
+        rdfs:label            "Long Wall of Quảng Ngãi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Ngườm  rdfs:comment       "Ngườm is an archaeological site in Thái Nguyên Province, northern Vietnam. It is a rock shelter in a limestone cliff near the that was excavated in 1981 by archaeologists from the Vietnam Institute of Archaeology. Flaked stone artefacts have been found in deposits containing shells with radiocarbon ages of 23,000 years ago. The site is important because of its unusually high proportion of retouched flakes in the stone artefact assemblage, relative to other sites in Southeast Asia."@en ;
+        rdfs:label            "Ngườm"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+<http://dbpedia.org/resource/Indrapura_(Champa)>
+        rdfs:comment          "Indrapura was the capital city of the kingdom of Champa from 875 CE until 982, for several decades, under the reign of Indravarman I (877-890) and some of his followers belonging to the 6th dynasty in Dong Duong. The word Indrapura means \"City of Indra\" in Sanskrit, Indra being the Hindu God of Storm and War, and King of the Gods in the Rig Veda."@en ;
+        rdfs:label            "Indrapura (Champa)"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Phong_Châu  rdfs:comment  "Phong Châu (峯州) was the capital city of Văn Lang (now Viet Nam) for the most part of the Hồng Bàng period, from the Third Dynasty to the of Hùng kings."@en ;
+        rdfs:label            "Phong Châu"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Óc_Eo  rdfs:comment       "Óc Eo (Vietnamese), transcription of the Khmer, អូរកែវ ʼou kaew 'glass stream, crystal stream' - the district was part of Cambodia until 1802 and many of the inhabitants are Khmer Krom) is an archaeological site in modern-day Óc Eo commune of Thoại Sơn District in An Giang Province of southern Vietnam. Located in the Mekong River Delta, Óc Eo was a busy port of the kingdom of Funan between the 2nd century BC and 12th century AD and it may have been the port known to the Romans as Cattigara."@en ;
+        rdfs:label            "Óc Eo"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Mán_Bạc  rdfs:comment     "Mán Bạc is a Neolithic archaeological site located in Yên Mô District, Ninh Bình Province, Vietnam, dated from around 1,850–1,650 BC. Mán Bạc is associated with the Phùng Nguyên culture. With 95 burials found at the site, Mán Bạc is the largest and most intact site associated with the Phùng Nguyên culture, surpassing the site at Lung Hoa."@en ;
+        rdfs:label            "Mán Bạc"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Làng_Cả  rdfs:comment     "Làng Cả (Việt Trì) is an archaeological site in the Red River Delta in northern Vietnam. Excavations there yielded a number of coffins containing relics of the Bronze Age Dong Son culture. The site is located just upstream from the merging of the Red River and the Black River near Việt Trì. A single radiocarbon dating sample from coffin wood that was exhumed from the site suggested that the artefacts were from the second phase of the Dong Son culture, estimated to be between 382 BCE and 195 BCE."@en ;
+        rdfs:label            "Làng Cả"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Làng_Vạc  rdfs:comment    "Làng Vạc is an archaeological site in the in . Excavations there yielded a number of coffins containing relics of the Bronze Age Dong Son culture. Excavations by Vietnamese researchers at Lang Vac have uncovered over 100 graves with a wide range of Dong Son culture objects. An official public excavation report and map reports for the burial site has yet to be published, but it is known that an area of more than 600 square meter has been dug up prior to a second round of digging by a Japanese archaeology group started in 1990. A publication by Ngo Si Hoang in 1983 reported a wide variety of bronze objects in the area. The tools and weaponry included a variety of socketed axes, including several in unusual styles, often decorated with geometric patterns and colourful sides. Fishhooks, hoes "@en ;
+        rdfs:label            "Làng Vạc"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+<http://dbpedia.org/resource/Xuân_La,_Hanoi>
+        rdfs:comment          "Xuân La is an archaeological site in Tây Hồ District of Hanoi, near ancient Hà Đông in the Red River Delta in northern Vietnam. Excavations there yielded a number of coffins containing relics of the Bronze Age Đông Sơn culture. Xuan La is located only a short distance of 10 km from Châu Can, both formerly in Hà Tây Province. The seven coffins excavated at the site were uncovered in 1982 and show a basic level of similarity to those at Chau Can, but with some difficulties, according to a report by Vietnamese archaeologists Pham Quoc Quan and Trinh Can."@en ;
+        rdfs:label            "Xuân La, Hanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Dong_Son_village  rdfs:comment  "Đông Sơn village (Vietnamese: Đông Sơn) is a small village on the banks of the Ma River in ward, Thanh Hóa city, Thanh Hóa Province. The village is best known for the discovery in 1924 of artifacts of what was later named Đông Sơn culture."@en ;
+        rdfs:label            "Dong Son village"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .
+
+dbr:Việt_Khê  rdfs:comment    "Việt Khê is an archaeological site in the Red River Delta in northern Vietnam. Excavations there yielded a number of coffins containing relics of the Dong Son culture in Bronze Age. The Việt Khê construction site is located on the southern base of a hill which overlooks the Hàn River near Thủy Nguyên District, Haiphong. Five wooden coffins were excavated in 1961, each of which were aligned in the east-west direction, with at least two pairs of coffins being configured in a linear manner."@en ;
+        rdfs:label            "Việt Khê"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Archaeological_sites_in_Vietnam .

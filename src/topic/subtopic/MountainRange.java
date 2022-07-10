@@ -1,7 +1,5 @@
 package topic.subtopic;
 
-import java.io.File;
-
 import query.QueryData;
 import topic.VnTourismTopic;
 

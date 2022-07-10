@@ -23,6 +23,11 @@ WHERE{
         dbc:Historical_sites_in_Hanoi
     }
     ?name dbo:wikiPageWikiLink ?o.
-    #OPTIONAL
+    OPTIONAL{
+    	?name dbp:owner ?owner.
+    }
+    OPTIONAL{
+    	?name dbp:openingDate ?openingdate.
+    }
 }
 ORDER BY ?name

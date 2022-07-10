@@ -5,7 +5,7 @@ public class VnTourismTopic {
 	private String topic = this.getClass().getSimpleName();
 	private String inputFolder = "requests";
 	private String outputFolder = "results";
-	private String outputFile = outputFolder + "\\" + topic + ".ttl";
+	private String outputFile = outputFolder + "\\" + topic + ".txt";
 	private String inputFile;
 
 	public String getInputFolder() {

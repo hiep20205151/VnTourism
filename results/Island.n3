@@ -1,0 +1,44 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Phú_Quý  rdfs:comment     "Phú Quý is a small island located about 100 km south-east of the city of Phan Thiết, Vietnam. The island contains three communes, with a population of 20,698 people. The island is home to Phu Quy Lighthouse (Hải đăng Phú Quý) situated in the north-west of the island and an abandoned military bunker on the eastern coast. During the French Indochina era, the official name of the island was Poulo-Cécir-de-Mer(sometimes written as Pulau Cecir de Mer)."@en ;
+        rdfs:label            "Phú Quý"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
+
+dbr:List_of_islands_in_the_Pacific_Ocean
+        rdfs:comment          "This is a list of islands in the Pacific Ocean, collectively called the Pacific Islands. Three major groups of islands in the Pacific Ocean are Melanesia, Micronesia and Polynesia. Depending on the context, Pacific Islands may refer to countries and islands with common Austronesian origins, islands once or currently colonized, or Oceania. The indigenous inhabitants of the Pacific Islands are referred to as Pacific Islanders. This list is organized by archipelago or political unit. In order to keep this list of moderate size, links are given to more complete lists for countries with large numbers of small or uninhabited islands."@en ;
+        rdfs:label            "List of islands in the Pacific Ocean"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
+
+dbr:Geography_of_Vietnam
+        rdfs:comment          "Vietnam is located on the eastern margin of the Indochinese peninsula and occupies about 331,211.6 square kilometers, of which about 25% was under cultivation in 1987. It borders the Gulf of Tonkin, Gulf of Thailand, and Pacific Ocean, along with China, Laos, and Cambodia. The elongated roughly S shaped country has a north-to-south distance of 1,650 km (1,030 mi) and is about 50 km (31 mi) wide at the narrowest point. With a coastline of 3,260 km (2,030 mi), excluding islands, Vietnam claims 12 nautical miles (22.2 km; 13.8 mi) as the limit of its territorial waters, an additional 12 nautical miles (22.2 km; 13.8 mi) as a contiguous customs and security zone. It has an exclusive economic zone of 417,663 km2 (161,261 sq mi) with 200 nautical miles (370.4 km; 230.2 mi)."@en ;
+        rdfs:label            "Geography of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
+
+dbr:Thổ_Chu_Islands  rdfs:comment  "Thổ Chu Islands (Vietnamese: quần đảo Thổ Chu) is an archipelago in the Gulf of Thailand. It constitutes Tho Chau Commune of Phú Quốc District, Kiên Giang Province, Vietnam."@en ;
+        rdfs:label            "Thổ Chu Islands"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
+
+dbr:South_China_Sea_Islands
+        rdfs:comment          "The South China Sea Islands consist of over 250 islands, atolls, cays, shoals, reefs and seamounts in the South China Sea. The islands are mostly low and small, and have few inhabitants. The islands and surrounding seas are subject to overlapping territorial claims by the countries bordering the South China Sea. The South China Sea Islands constitute a distinct tropical moist broadleaf forest terrestrial ecoregion, and the South China Sea Oceanic Islands marine ecoregion."@en ;
+        rdfs:label            "South China Sea Islands"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
+
+dbr:Vietnam  rdfs:comment     "Vietnam (Vietnamese: Việt Nam, [vîət nāːm]), officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."@en ;
+        rdfs:label            "Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
+
+dbr:Outline_of_Vietnam
+        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 98 million, Vietnam is the 15th most populous country in the world."@en ;
+        rdfs:label            "Outline of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
+
+dbr:Exclusive_economic_zone_of_Vietnam
+        rdfs:comment          "Vietnam claims an exclusive economic zone (EEZ) of 1,395,096 km2 (538,650 sq mi) with 200 nautical miles (370.4 km; 230.2 mi) from its shores. Excluding all disputed waters, Vietnam has an undisputed exclusive economic zone of 417,663 km2 (161,261 sq mi). This figure does not include the EEZ areas of the Paracel Islands and the Spratly Islands. Vietnam has disputes mainly with the People's Republic of China due to the nine-dash line."@en ;
+        rdfs:label            "Exclusive economic zone of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .
+
+dbr:Lists_of_islands  rdfs:comment  "This is a list of the lists of islands in the world grouped by country, by continent, by body of water, and by other classifications. For rank-order lists, see the below."@en ;
+        rdfs:label            "Lists of islands"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_islands_of_Vietnam .

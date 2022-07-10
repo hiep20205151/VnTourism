@@ -1,0 +1,38 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Novotel_Nha_Trang
+        rdfs:comment          "Novotel Nha Trang is a hotel located in Nha Trang, Khánh Hòa Province, Vietnam. It is located in the heart of the city of Nha Trang, a coastal resort. Nha Trang is about 450 km north Ho Chi Minh City and 1200 km south of Hanoi. The hotel has 154 guestrooms including 2 suites, and 16 floors with one basement and a car park."@en ;
+        rdfs:label            "Novotel Nha Trang"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Hotels_in_Vietnam .
+
+dbr:InterContinental_Nha_Trang
+        rdfs:comment          "The InterContinental Nha Trang is a beachfront hotel in Nha Trang, located between the Sheraton Nha Trang and the Havana hotel Nha Trang. Originally designed as a Crowne Plaza, the hotel underwent re-branding in 2013 and is now upgraded to an InterContinental hotel. The hotel is opened on March 17, 2014."@en ;
+        rdfs:label            "InterContinental Nha Trang"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Hotels_in_Vietnam .
+
+dbr:Amanoi  rdfs:comment      "Amanoi is a five star franchise hotel belonging to the international group of Aman Resorts, located in Ninh Thuận Province, Vietnam. It opened in September 2013, and was Aman's 26th property to open around the world and the first in Vietnam."@en ;
+        rdfs:label            "Amanoi"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Hotels_in_Vietnam .
+
+dbr:InterContinental_Danang_Sun_Peninsula_Resort
+        rdfs:comment          "InterContinental Danang Sun Peninsula Resort is a resort & spa in Da Nang, Vietnam. It is one of the resorts under the management of InterContinental Hotels Group in Vietnam. The resort opened on June 1, 2012."@en ;
+        rdfs:label            "InterContinental Danang Sun Peninsula Resort"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Hotels_in_Vietnam .
+
+dbr:Hằng_Nga_Guesthouse
+        rdfs:comment          "Hằng Nga guesthouse (Vietnamese: Biệt thự Hằng Nga), popularly known as the “Crazy House” (Vietnamese: Ngôi nhà quái dị), is an unconventional building designed and constructed by Vietnamese architect Đặng Việt Nga in Đà Lạt, Vietnam."@en ;
+        rdfs:label            "Hằng Nga Guesthouse"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Hotels_in_Vietnam .
+
+dbr:Heritage_hotels_in_Vietnam
+        rdfs:comment          "The first hotels in Vietnam catered to the colonial French society, not so much to tourists but to administrators and families. The Continental opened in Saigon in the 1880s and long reigned as the city's prime hotel. In Hanoi, the Sofitel Legend Metropole Hanoi opened in 1901 as le Metropole and endures today as the country's foremost address in hospitality."@en ;
+        rdfs:label            "Heritage hotels in Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Hotels_in_Vietnam .
+
+dbr:Dalat_Palace_Hotel
+        rdfs:comment          "The Dalat Palace (Vietnamese: Khách sạn Dalat Palace, French: Hôtel Dalat Palace) is a historic luxury hotel in Da Lat, Vietnam. It was frequented by the colonial French as a popular get-away. The hotel is located at 12 Tran Phu Street."@en ;
+        rdfs:label            "Dalat Palace Hotel"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Hotels_in_Vietnam .

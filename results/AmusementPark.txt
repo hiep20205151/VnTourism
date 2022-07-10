@@ -1,0 +1,27 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dbc="http://dbpedia.org/resource/Category:"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:dbr="http://dbpedia.org/resource/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Đầm_Sen_Park">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Amusement_parks_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Dam Sen Cultural Park (Vietnamese: Công viên Văn hóa Đầm Sen) is an amusement park located in District 11, Ho Chi Minh City, Vietnam. The park has an area of 50 hectares, of which 20% comprises lakes and 60% trees and gardens.</rdfs:comment>
+    <rdfs:label xml:lang="en">Đầm Sen Park</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suối_Tiên_Amusement_Park">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Amusement_parks_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Suối Tiên Amusement Park is an amusement park in District 9, Thu Duc City, Hồ Chí Minh City, Vietnam. The park includes several entertainment areas. The landscaping and attractions in the park illustrate Vietnam's history and legends, such as Âu Cơ and Lạc Long Quân as well as the Battle of Son Tinh and Thuy Tinh (The Mountain God and The River God). An artificial seawater pool is located in the park for sea-bathers. There is also a dinosaur garden and a roller coaster called "Roller Coaster".</rdfs:comment>
+    <rdfs:label xml:lang="en">Suối Tiên Amusement Park</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dragon_Park_Ha_Long">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Amusement_parks_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Dragon Park is the largest theme park in Southeast Asia located in Ha Long, Quang Ninh, Vietnam. It opened on January 25, 2017. The amusement park is part of a large resort complex known as Sun World Halong Complex that includes an aerial tramway called the Queen Cable Car, Sun Wheel — a large observation wheel, as well as gardens, restaurants, a shopping district and a family entertainment center with arcade games. The Typhoon water park opened in April 2017 The park was designed in 2015 by International Theme Park Services, Inc. (Cincinnati, Ohio) in collaboration with Wyatt Design Group and Hetzel Design, both based in California.</rdfs:comment>
+    <rdfs:label xml:lang="en">Dragon Park Ha Long</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Đại_Nam_Văn_Hiến">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Amusement_parks_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Đại Nam Văn Hiến is a tourism complex in Bình Dương Province, Vietnam. Open on September 11, 2008, Dai Nam Tourist - Cultural - Historical Zone includes the first safari in Vietnam and the largest artificial sea in Southeast Asia and is expected to be the biggest park and tourist destination in the country by 2010. Dai Nam Park encompasses a shopping center, hotel, movie theater, theme park, campground, water park, zoo, rides and numerous temples. Its cost for building Dai Nam about VND 3,000 billion. The 12.5 ha open zoo is part of 450ha Lac Canh Van Hien.</rdfs:comment>
+    <rdfs:label xml:lang="en">Đại Nam Văn Hiến</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

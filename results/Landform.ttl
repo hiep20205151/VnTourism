@@ -14,7 +14,7 @@ dbr:List_of_lakes_of_Vietnam
         dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .
 
 dbr:List_of_caves_in_Vietnam
-        rdfs:comment          "This is a list of notable caves and cave systems in Vietnam."@en ;
+        rdfs:comment          "This is an incomplete List of caves in Vietnam."@en ;
         rdfs:label            "List of caves in Vietnam"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .
 
@@ -29,6 +29,6 @@ dbr:List_of_rivers_of_Vietnam
         dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .
 
 dbr:List_of_extreme_points_of_Vietnam
-        rdfs:comment          "The extreme points of Vietnam include the northernmost, southernmost, easternmost, and westernmost locations in Vietnam's territory, as well as the highest and the lowest altitudes in Vietnam. Because Vietnam is located in the eastern Indochinese Peninsula, the northernmost point and the westernmost point both lie on the land, and there are two southernmost points and two easternmost points along and inside the South China Sea. Vietnam stretches along the coast of the South China Sea, with the northernmost point being more than 1,650 km from the southernmost. Most extreme points are not in dispute with any other countries; only one extreme point, , is disputed by China, Taiwan, and the Philippines as a part of the Spratly Islands dispute (though Tennent Reef is currently administered by Vi"@en ;
+        rdfs:comment          "The extreme points of Vietnam include the coordinates that are further north, south, west and east than any other location in Vietnam's territory; and the highest and the lowest altitudes in Vietnam. Because Vietnam location eastern Indochina peninsula, the north point and west point lying on the land, and two south point and two east point location along and inside East Sea. Vietnam's territory stretching along the coast of East Sea, from the north to the south distant between the north point and the south point more than 1.650 km. Most extreme points are not in dispute with any other countries, all administered by Vietnam. Only one extreme points is disputed by China, Taiwan, Philippines, this is a part of Spratly Islands dispute, but Tennent Reef now administered by Vietnam."@en ;
         rdfs:label            "List of extreme points of Vietnam"@en ;
         dbo:wikiPageWikiLink  dbr:Category:Lists_of_landforms_of_Vietnam .

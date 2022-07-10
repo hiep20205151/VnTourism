@@ -1,0 +1,51 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Vietnamese_cuisine
+        rdfs:comment          "Vietnamese cuisine encompasses the foods and beverages of Vietnam, and features a combination of five fundamental tastes (Vietnamese: ngũ vị) in overall meals. Each Vietnamese dish has a distinctive flavor which reflects one or more of these elements."@en ;
+        rdfs:label            "Vietnamese cuisine"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:List_of_Vietnamese_ingredients
+        rdfs:comment          "This is a list of ingredients found in Vietnamese cuisine."@en ;
+        rdfs:label            "List of Vietnamese ingredients"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:Bì_cuốn  rdfs:comment     "In Vietnamese cuisine, bì cuốn are pork and rice rolls. They are made from thinly shredded pork and skin, with rice, and ingredients often added are garlic sauce, lemon, sugar, chilli, pickles, and white radish and carrots."@en ;
+        rdfs:label            "Bì cuốn"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:Mì  rdfs:comment          "Mì or mi is a Vietnamese term for yellow wheat noodles. It can also refer to egg noodles. They were brought over to Vietnam as wonton noodles by Chinese immigrants. The Vietnamese version of wonton noodles is mì hoành thánh. The noodles can be either thin or wide and are commonly used in súp mì (noodle soup) and mì khô (dry noodles)."@en ;
+        rdfs:label            "Mì"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:Sườn_nướng  rdfs:comment  "Sườn nướng (lit. 'grilled ribs') is Vietnamese marinated charcoal-grilled pork chop."@en ;
+        rdfs:label            "Sườn nướng"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:Vietnamese_noodles
+        rdfs:comment          "Vietnamese cuisine includes many types of noodles. These are often served in soup but are also served directly."@en ;
+        rdfs:label            "Vietnamese noodles"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:List_of_Vietnamese_culinary_specialities
+        rdfs:comment          "This is a list of culinary specialities in Vietnamese cuisine by provinces."@en ;
+        rdfs:label            "List of Vietnamese culinary specialities"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:Cơm_tấm  rdfs:comment     "Cơm tấm or com tam (US: /kʌm təm/; Vietnamese: [kəːm tə̌m]) is a Vietnamese dish made from rice with fractured rice grains. Tấm refers to the broken rice grains, while cơm refers to cooked rice. Although there are varied names like cơm tấm Sài Gòn (Saigon-style broken rice), particularly for Saigon, the main ingredients remain the same for most cases."@en ;
+        rdfs:label            "Cơm tấm"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:Gà_nướng_sả  rdfs:comment  "In Vietnamese cuisine, Gà nướng sả is grilled chicken with lemon grass (sả). Common ingredients include garlic, onion, honey, sugar or pepper. Grilled beef and other meats are also popular variations."@en ;
+        rdfs:label            "Gà nướng sả"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:Pho  rdfs:comment         "Phở or pho (UK: /fɜː/, US: /fʌ/, Canada: /fɑː/; Vietnamese: [fəː˧˩˧]) is a Vietnamese soup dish consisting of broth, rice noodles (bánh phở), herbs, and meat (usually beef Beef (phở bò), sometimes chicken (phở gà)). Pho is a popular food in Vietnam where it is served in households, street stalls and restaurants countrywide. Pho is considered Vietnam's national dish."@en ;
+        rdfs:label            "Pho"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .
+
+dbr:Nem_nướng  rdfs:comment   "Nem nướng (literally \"grilled sausage\"), is Vietnamese grilled pork sausage or grilled meatball, and a popular Vietnamese food item, sometimes served as an individual appetizer or snack, or served with rice noodles or rice as a main course. Nem nướng is a specialty of Khánh Hòa Province (Nha Trang)."@en ;
+        rdfs:label            "Nem nướng"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_Vietnamese_dishes .

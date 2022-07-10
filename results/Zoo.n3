@@ -1,0 +1,9 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Saigon_Zoo_and_Botanical_Gardens
+        rdfs:comment          "The Saigon Zoo and Botanical Gardens, established in 1865, is Vietnam's largest zoo and botanical garden. Located on Nguyen Binh Khiem Street in District 1, T.P. in Ho Chi Minh City, it is home to over a hundred species of mammals, reptiles and birds, as well as many rare orchids and ornamental plants. Also within the grounds is the Museum of Vietnamese History, housing some 25,000 artifacts of history, culture and ethnography of South Vietnam. The grounds also include a temple to the Hung Kings (formerly a monument to Indochinese soldiers who died for France during World War I). Other parts of the zoo are divided into animal and plant conservation areas, an orchid garden, and an amusement park."@en ;
+        rdfs:label            "Saigon Zoo and Botanical Gardens"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Zoos_in_Vietnam .

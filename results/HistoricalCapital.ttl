@@ -15,7 +15,7 @@ dbr:Timeline_of_Hanoi
         rdfs:label            "Timeline of Hanoi"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
 
-dbr:Ho_Chi_Minh_City  rdfs:comment  "Ho Chi Minh City (Vietnamese: Thành phố Hồ Chí Minh; [tʰàjŋ̟ fǒ hò cǐ mīŋ̟] or [tʰàn fǒ hò cǐ mɨ̄n]), commonly and formerly officially known as Saigon (Vietnamese: Sài Gòn; [sàj ɣɔ̀n] or [ʂàj ɣɔ̀ŋ]), is the largest city in Vietnam, situated in the south. In the southeastern region, the city surrounds the Saigon River and covers about 2,061 square kilometres (796 square miles)."@en ;
+dbr:Ho_Chi_Minh_City  rdfs:comment  "Ho Chi Minh City (Vietnamese: Thành phố Hồ Chí Minh; [tʰàjŋ̟ fǒ hò cǐ mīŋ̟] or [tʰàn fǒ hò cǐ mɨ̄n]), formerly (and still commonly) known as Saigon (Vietnamese: Sài Gòn; [sàj ɣɔ̀n] or [ʂàj ɣɔ̀ŋ]), is the largest city in Vietnam, situated in the south. In the southeastern region, the city surrounds the Saigon River and covers about 2,061 km2 (796 sq mi)."@en ;
         rdfs:label            "Ho Chi Minh City"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
 
@@ -23,15 +23,11 @@ dbr:Luy_Lâu  rdfs:comment     "Luy Lâu (Vietnamese) or Leilou (Chinese: Tradit
         rdfs:label            "Luy Lâu"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
 
-dbr:Hoa_Lư_District  rdfs:comment  "Hoa Lư is a district of Ninh Bình Province in the Red River Delta region of Vietnam. Before 1010, Hoa Lư served as the capital of Đại Cồ Việt. The ancient capital of Hoa Lư is located in Trường Yên Commune (vi). It comprises 10 communes and one township: Trường Yên, Ninh Hòa, Ninh Giang, Ninh Mỹ, Ninh Khang, Ninh Xuân, Ninh Vân, Ninh Hải, Ninh An, Ninh Thắng and Thiên Tôn Township. As of 2003 the district had a population of 66,932. The district covers an area of 103 km². The district capital lies at ."@en ;
-        rdfs:label            "Hoa Lư District"@en ;
-        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
-
 dbr:Hanoi  rdfs:comment       "Hanoi (UK: /(ˌ)hæ-, həˈnɔɪ/ ha-, hə-NOY or US: /hɑː-/ hah-NOY; Vietnamese: Hà Nội [hàː nôjˀ]) is the capital city of Vietnam. It covers an area of 3,358.6 km2 (1,296.8 sq mi). The second largest city in Vietnam, it consists of 12 urban districts, 1 district-leveled town and 17 rural districts. Located within the Red River Delta, Hanoi is the cultural and political centre of Vietnam."@en ;
         rdfs:label            "Hanoi"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
 
-dbr:Huế  rdfs:comment         "Huế (Vietnamese: [hwě]) is the capital of Thừa Thiên Huế Province in central Vietnam and was the capital of Đàng Trong from 1738 to 1775 and of the Nguyễn Dynasty from 1802 to 1945. The city served as the administrative capital for the Nguyễn dynasty, and later functioned as the administrative capital of the protectorate of Annam during the French Indochina period."@en ;
+dbr:Huế  rdfs:comment         "Huế (Vietnamese: [hwě]) is the capital of Thừa Thiên Huế Province in central Vietnam and was the capital of Đàng Trong from 1738 to 1775 and of Vietnam during the Nguyễn Dynasty from 1802 to 1945. The city served as the administrative capital for the Nguyễn dynasty, and later functioned as the administrative capital of the protectorate of Annam during the French Indochina period."@en ;
         rdfs:label            "Huế"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
 
@@ -49,7 +45,11 @@ dbr:Phong_Châu  rdfs:comment  "Phong Châu (峯州) was the capital city of Vă
         rdfs:label            "Phong Châu"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
 
+dbr:Hoa_Lư_district  rdfs:comment  "Hoa Lư is a district of Ninh Bình province in the Red River Delta region of Vietnam. Before 1010, Hoa Lư served as the capital of Đại Cồ Việt. The ancient capital of Hoa Lư is located in Trường Yên Commune (vi). It comprises 10 communes and one township: Trường Yên, Ninh Hòa, Ninh Giang, Ninh Mỹ, Ninh Khang, Ninh Xuân, Ninh Vân, Ninh Hải, Ninh An, Ninh Thắng and Thiên Tôn Township. As of 2003 the district had a population of 66,932. The district covers an area of 103 km². The district capital lies at ."@en ;
+        rdfs:label            "Hoa Lư district"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
+
 dbr:Outline_of_Vietnam
-        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 86 million, Vietnam is the 13th most populous country in the world."@en ;
+        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 98 million, Vietnam is the 15th most populous country in the world."@en ;
         rdfs:label            "Outline of Vietnam"@en ;
         dbo:wikiPageWikiLink  dbr:List_of_historical_capitals_of_Vietnam .
