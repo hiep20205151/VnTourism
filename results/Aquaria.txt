@@ -1,0 +1,11 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dbc="http://dbpedia.org/resource/Category:"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tuần_Châu_Aquarium">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Aquaria_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Tuan Chau Aquarium is an aquarium located on Tuan Chau Island in Ha Long Bay, Vietnam. The structure itself reflects a very modern style of architecture.</rdfs:comment>
+    <rdfs:label xml:lang="en">Tuần Châu Aquarium</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

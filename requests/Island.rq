@@ -23,5 +23,11 @@ WHERE{
         dbr:List_of_islands_of_Vietnam
     }
     ?name dbo:wikiPageWikiLink ?o.
+    OPTIONAL{
+    	?name dbp:owner ?owner.
+    }
+    OPTIONAL{
+    	?name dbp:openingDate ?openingdate.
+    }
 }
 ORDER BY ?name

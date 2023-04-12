@@ -1,0 +1,183 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dbc="http://dbpedia.org/resource/Category:"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:dbr="http://dbpedia.org/resource/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buddhist_temples_in_Huế">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Buddhist temples in Huế have long been an important part of the city's consciousness. The city was founded during the Nam tiến southward expansion of Vietnam in the 16th century and Buddhism was introduced to the lands of the former territory of Champa, which was Hindu. The ruling Nguyễn lords were noted for their patronization of Buddhist temples in the city, something that continued during the Nguyễn Dynasty that unified modern Vietnam. Huế was long regarded as a centre of Buddhist scholarship and consciousness in Vietnam, and in 1963, the temples of the city were at the centre of international attention when they were at the heart of the beginning of the Buddhist crisis, a series of protests against President Ngô Đình Diệm's religious discrimination. The temples were the base of Buddhis</rdfs:comment>
+    <rdfs:label xml:lang="en">Buddhist temples in Huế</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diệu_Đế_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Diệu Đế Pagoda (Vietnamese: Chùa Diệu Đế) is a Buddhist temple in the central city of Huế in Vietnam. It is named for the Four Noble Truths of Buddhism, which are called Tứ Diệu Đế in Vietnamese. During the 19th century Nguyễn dynasty, Emperor Thiệu Trị declared it to be one of the national pagodas of Vietnam. Outside of Vietnam, the temple is best known as a site of activism during the 1960s, as well as against the Vietnam War. On the night of 21 August 1963, it was the site of a bloody battle between the government forces of President Ngô Đình Diệm and rioting pro-Buddhist civilians who were attempting to stop the troops from raiding the pagoda to arrest dissident monks who were calling for religious equality during the Buddhist crisis.</rdfs:comment>
+    <rdfs:label xml:lang="en">Diệu Đế Pagoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phước_Sơn_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Phước Sơn Temple (Chùa Phước Sơn, Vietnamese: Chùa Thập Tháp Di-Đà or Thập Tháp Di-Đà Tự) is a historic 19th-century temple in Phú Yên Province in south central Vietnam. It was initially built in 1802.</rdfs:comment>
+    <rdfs:label xml:lang="en">Phước Sơn Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bút_Tháp_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Bút Tháp Temple (Vietnamese: Chùa Bút Tháp, hán tự: 寧福寺, Ninh Phúc tự) is a Buddhist temple located near the dyke of the Đuống River, Thuận Thành District, Bắc Ninh Province, Vietnam. The temple is also popularly called Nhan Thap Temple. The temple was built in the 13th century. The temple houses the biggest Avalokiteśvara statue with one thousand eyes and a thousand arms. But Thap Temple is one of the most famous temples in Viet Nam. Inside, there are various valuable ancient objects and statues, which are considered to be Vietnamese masterpieces of 17th-century wood carving. During the same time the temple had become famous for the venerable abbot and Zen master Chuyet Chuyet ("thiền sư Thích Chuyết Chuyết") 1590 - 1644.</rdfs:comment>
+    <rdfs:label xml:lang="en">Bút Tháp Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoa_Lư">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Hoa Lư (華閭) was the capital of Vietnam from 968 to 1009. It lies in Trường Yên Thượng village, Hoa Lư District, Ninh Bình Province. The area is one of ricefields broken by limestone mountains, and is approximately 90 km south of Hanoi. Together with Phát Diệm Cathedral, Tam Cốc-Bích Động, Bái Đính Temple, Tràng An, and Cúc Phương, Hoa Lư is a tourist destinations in Ninh Bình Province.</rdfs:comment>
+    <rdfs:label xml:lang="en">Hoa Lư</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tịnh_Xá_Trung_Tâm">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Tịnh Xá Trung Tâm is a Buddhist temple in Ho Chi Minh City, the largest city in Vietnam. It was founded in 1965 and is the spiritual birthplace of the tradition of Vietnamese Buddhism that attempts to recreate the original tradition of the Buddhist sangha by walking barefoot and begging for alms. The temple is located at 7 Nguyễn Trung Trực Street, in Bình Thạnh District. It is known for its weekly Bát Quan Trai Giới (Eight Precept Ritual) retreat, which is staged more frequently than at other institutions in the city, and has a reputation among its followers for rigour and discipline. The attendees of the temple are typically over 40 years of age and are overwhelmingly female.</rdfs:comment>
+    <rdfs:label xml:lang="en">Tịnh Xá Trung Tâm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linh_Phuoc_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Linh Phuoc Pagoda (Vietnamese: Chùa Linh Phước, Chu Nom: 靈福寺, IPA: [t͡ɕûə̯ līŋ fwə̂kˀ]), also known as Ve Chai Pagoda, is located at No. 120 Tu Phuoc, , 8 km from Da Lat city center, on Highway 20. The 49-meter-long dragon temple is made of 12,000 bottles; the dragon's head is 7 metres high. Linh Phuoc Pagoda is considered a special architectural mosaic of Da Lat city.</rdfs:comment>
+    <rdfs:label xml:lang="en">Linh Phuoc Pagoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phật_Tích_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Phật Tích Temple (Vietnamese: Chùa Phật Tích, Chinese: 佛跡寺, literally the Temple of Buddhist Relics) is a Buddhist temple located in the south of Phat Tich mountain, Tiên Du District, Bac Ninh Province, Vietnam.This is an important listed cultural site of Vietnam. 
+* v 
+* t 
+* e 
+* v 
+* t 
+* e</rdfs:comment>
+    <rdfs:label xml:lang="en">Phật Tích Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thuyền_Tôn_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">The Thuyền Tôn Temple is a historic pagoda in the central Vietnamese city of Huế. The temple was founded by Zen Master Thích Liễu Quán, who arrived north from the southern Phú Yên Province at the end of the 17th century. Thích Liễu Quán opened the Thuyền Tôn Temple in approximately 1708. A stupa was built to inter his remains after his death. At the entrance of the stupa, the words “Đàm hoa lạc khứ hữu dư hương” are inscribed. Today, this is the only part of the original temple that remains.</rdfs:comment>
+    <rdfs:label xml:lang="en">Thuyền Tôn Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xá_Lợi_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">The Xá Lợi Pagoda (Vietnamese: Chùa Xá Lợi; chữ Hán: 舍利寺) is the largest pagoda in Hồ Chí Minh City, Vietnam. It was built in 1956 and was the headquarters of Buddhism in South Vietnam. The pagoda is located in District 3, Hồ Chí Minh City and lies on a plot of 2500 square metres. The name Xá Lợi is the Vietnamese translation for śarīra, a term used for relics of Buddhists.</rdfs:comment>
+    <rdfs:label xml:lang="en">Xá Lợi Pagoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kh&apos;Leang_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Kh'Leang Temple is a notable Theravada Buddhist temple in Sóc Trăng, a town in the Mekong Delta region of southern Vietnam. It is the most well-known temple in the town and is a Khmer temple; the town is close to the border with Cambodia and has a large ethnic Khmer population.</rdfs:comment>
+    <rdfs:label xml:lang="en">Kh'Leang Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long_Sơn_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Long Sơn Pagoda (Vietnamese: Chùa Long Sơn) is a Buddhist temple in the city of Nha Trang on South Central Coast of Vietnam. It is regarded as one of the main sites in the city, along with .</rdfs:comment>
+    <rdfs:label xml:lang="en">Long Sơn Pagoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thập_Tháp_Di-Đà_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Thập Tháp Di-Đà Temple (Vietnamese: Chùa Thập Tháp Di-Đà or Thập Tháp Di-Đà Tự) is historic 17th-century temple in Bình Định Province in south central Vietnam. Originally constructed in 1683, it has been heritage listed as being of national cultural significance.</rdfs:comment>
+    <rdfs:label xml:lang="en">Thập Tháp Di-Đà Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sắc_Tứ_Tam_Bảo_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Sắc Tứ Tam Bảo Temple is an historic Buddhist temple in Rạch Giá, a town in Kiên Giang Province in the Mekong Delta region of southern Vietnam. It is one of two famous temples of the same name in Kiên Giang, the other being in Ha Tien.</rdfs:comment>
+    <rdfs:label xml:lang="en">Sắc Tứ Tam Bảo Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trúc_Lâm_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Trúc Lâm Temple (Vietnamese: Thiền Viện Trúc Lâm Sino-Vietnamese: 禪院竹林) is a Zen Buddhist temple outside the resort town of Da Lat, in Vietnam.</rdfs:comment>
+    <rdfs:label xml:lang="en">Trúc Lâm Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quốc_Ân_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Quốc Ân Temple (Chùa Quốc Ân) is a Buddhist temple in the city of Huế, central Vietnam. In the main hall is a banner, containing a verse of praise of the temple and its founder, written by Nguyễn Phúc Chu, one of the Nguyễn lords who once ruled central and southern Vietnam and the city of Huế. The temple is situated on a small hill in the ward of Trường An in the city of Huế. It is located about 2 kilometres (1.2 mi) from the Phú Cam bridge that spans the Perfume River, which passes through Huế.</rdfs:comment>
+    <rdfs:label xml:lang="en">Quốc Ân Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vĩnh_Nghiêm_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Vĩnh Nghiêm Pagoda (Chùa Vĩnh Nghiêm; literally Ever Solemn) is a pagoda in an area of 6,000 square metres (65,000 sq ft) at 339, Nam Kỳ Khởi Nghĩa street, Ward 7, District 3 Ho Chi Minh City. This is the first pagoda in Vietnam to be built in Vietnamese traditional architecture style but with concrete. The highest structure in this pagoda is the 7-story, 40-metre-high (130 ft) tower. This pagoda houses and worship of one buddha and two bodhisattvas: Gautama Buddha, Manjusri, Samantabhadra.</rdfs:comment>
+    <rdfs:label xml:lang="en">Vĩnh Nghiêm Pagoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chuông_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Chuông Temple (Vietnamese: Chùa Chuông, Chinese: 金鐘寺, Sino-Vietnamese: Kim Chung Tự) is a Buddhist temple, located in Hưng Yên City, Vietnam. It is given the title "The most beautiful scenic spot of Pho Hien". The other names of the temple include Bell Temple (chuông is the Vietnamese word for bell) and Golden Bell Temple.</rdfs:comment>
+    <rdfs:label xml:lang="en">Chuông Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keo_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Keo Temple (Vietnamese: Chùa Keo, Official name: Thần Quang Tự (神光寺)) is a Buddhist temple in Vũ Thư District, Thái Bình Province, Vietnam. The temple was commenced in 1061 under the Lý Dynasty near the Red River. The pagoda was dedicated in the 1130s to the monk (vi:Lý Quốc Sư) by emperor Lý Thần Tông after the monk cured his leprosy.</rdfs:comment>
+    <rdfs:label xml:lang="en">Keo Pagoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tây_An_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Tây An Temple is a notable Buddhist temple in southern Vietnam, near the town of Châu Đốc in An Giang Province in the Mekong Delta, known for its historic and architectural features.</rdfs:comment>
+    <rdfs:label xml:lang="en">Tây An Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phổ_Minh_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Phổ Minh Temple (Vietnamese: Chùa Phổ Minh, Chinese: 普明寺) is a Buddhist temple in Tức Mặc village, 5 kilometres north of Nam Định city, Vietnam, the home town of the Trần Dynasty.</rdfs:comment>
+    <rdfs:label xml:lang="en">Phổ Minh Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vĩnh_Tràng_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Vĩnh Tràng Chùa is a Buddhist temple near Mỹ Tho in the Mekong Delta region of southern Vietnam. It is one of the best-known temples in the region. The temple stands on a 2-hectare (4.9-acre) block filled with fruit trees in the village of Mỹ Hóa in the town of Mỹ Phong, on the banks of the Bảo Định canal. The statues of 18 arahants are carved from wood and were made in 1907 by a group of southern craftsmen. Each statue is approximately 80 centimetres (31 in) tall and 58 centimetres (23 in) in width.</rdfs:comment>
+    <rdfs:label xml:lang="en">Vĩnh Tràng Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bửu_Phong_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Bửu Phong Temple (Chùa Bửu Phong) is a historic 17th century Buddhist temple in Đồng Nai Province in southern Vietnam, north of Ho Chi Minh City. The temple is located on Bửu Long mountain in Bình Điện, , about 4 km from the city of Biên Hòa. Due to its location, it is also known as Bình Điện Temple.</rdfs:comment>
+    <rdfs:label xml:lang="en">Bửu Phong Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bái_Đính_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Bái Đính Temple (Vietnamese: Chùa Bái Đính) or Bái Đính Temple Spiritual and Cultural Complex is a complex of Buddhist temples on Bai Dinh Mountain in Gia Viễn District, Ninh Bình Province, Vietnam. The compound consists of the original old temple and a newly created larger temple. It is considered the largest complex of Buddhist temples in Vietnam and has become a popular site for Buddhist pilgrimages from across Vietnam. Bai Đính Temple, along with Phát Diệm Cathedral, Hoa Lư Ancient Capital Tam Cốc-Bích Động, Trang An, Cúc Phương is a famous tourist attraction site of Ninh Bình Province.</rdfs:comment>
+    <rdfs:label xml:lang="en">Bái Đính Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Việt_Nam_Quốc_Tự">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">The Việt Nam Quốc Tự (lit. 'National pagoda of Vietnam') is located on February 3rd Blvd., District 10 of Ho Chi Minh City, Vietnam. The pagoda, seven stories tall, is full of colorful, oversized statues of religious figures. On the first and fifteenth of the month, the pagoda opens up its third and seventh floors to the public. On other days, the second floor is accessible; it features a shrine made up of miniature Buddhas floating against a cloudy sky mural. The pagoda was built in 1963.</rdfs:comment>
+    <rdfs:label xml:lang="en">Việt Nam Quốc Tự</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hội_Khánh_Temple">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Hoi Khanh Temple (Chùa Hội Khánh) is an historic Buddhist temple built in 1741 in the town of Thủ Dầu Một, Bình Dương Province in southern Vietnam. The temple was initially built on a prominent hill, but in 1861 it was destroyed in fighting as the French colonial army underwent the process of colonising southern Vietnam. The temple was rebuilt by Thích Chánh Đắc at the foot of the hill, around 100 m south of the original site. The temple currently is located at 35 Yersin Street, in Phú Cường ward, in the town of Thủ Đầu Một, north of Ho Chi Minh City.</rdfs:comment>
+    <rdfs:label xml:lang="en">Hội Khánh Temple</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thích_Ca_Phật_Đài">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Thích Ca Phật Đài (lit. 'Platform of Shakyamuni Buddha') is a notable Theravada Buddhist temple in the coastal city of Vung Tau in southern Vietnam. It lies to the northwest of the Lớn mountain and was built between 1961 and 1963 when it was opened. The main statue of Gautama Buddha sitting on a lotus seat stands 10.20 m. The white colour of the statue and the stupa contrast against the blue and green background of the surrounding sky and forest. The site has become a major tourist location in the city as well as a tourist lookout.</rdfs:comment>
+    <rdfs:label xml:lang="en">Thích Ca Phật Đài</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huyen_Khong_Son_Thuong_Monastery">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Huyen Khong Son Thuong Monastery [Pali. Abhisuññatāvanārama] is located in Cham hamlet, Huong Ho commune, Hương Trà District which is a famous monastery and a beautiful landscape of the ancient capital of Huế. This monastery belongs to Theravada Buddhism and was built by Ven. Sīlaguṇa in 1989. It is covered by an area of pine – forest which is verdant, contented during all year around. “Yen Ha Cac” is used for inviting guests and has the manner of flexible architecture. Its roof, columns, interior designs, etc. were all painted brown to create simpleness, warmness and so on.</rdfs:comment>
+    <rdfs:label xml:lang="en">Huyen Khong Son Thuong Monastery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Báo_Quốc_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Báo Quốc Pagoda (Vietnamese: Chùa Báo Quốc) is a Buddhist temple in the historic city of Huế in central Vietnam. It was one of the three national pagodas of the city during the time of the Nguyễn Dynasty. The temple is located on Báo Quốc Street, in the ward of Phường Đúc in Huế. It lies on the southern side of the Perfume River and is approximately one kilometre west of the city centre. The temple is located on a small hill called Hàm Long and a spring from the top of the hill flows down into the grounds of the temple.</rdfs:comment>
+    <rdfs:label xml:lang="en">Báo Quốc Pagoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dâu_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Dâu Pagoda (Vietnamese: chùa Dâu), also known under formal names: Diên Ứng (延應寺), Pháp Vân (法雲寺), and Cổ Châu, is a major Buddhist temple in Thanh Khương commune, huyện Thuận Thành, Bắc Ninh Province. Located some 30 km east of Hanoi, the temple historically marks the ancient settlement of Luy Lâu, once an important center of Buddhism in Vietnam. 500m farther away lies the Temple of Si Nhiêp, the remarkable Chinese Governor of Tonkin at that time.</rdfs:comment>
+    <rdfs:label xml:lang="en">Dâu Pagoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Buddhist_temples_in_Vietnam">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">This is a list of Buddhist temples, monasteries, stupas, and pagodas in Vietnam for which there are Wikipedia articles, sorted by location.</rdfs:comment>
+    <rdfs:label xml:lang="en">List of Buddhist temples in Vietnam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pagoda_of_the_Celestial_Lady">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">The Pagoda of the Celestial Lady (Vietnamese: Chùa Thiên Mụ; also called Linh Mụ Pagoda) is a historic temple in the city of Huế in Vietnam. Its iconic seven-story pagoda is regarded as the unofficial symbol of the city, and the temple has often been the subject of folk rhymes and ca dao about Huế. The pagoda sits on the Hà Khê hill, in the ward of Hương Long in Huế. It is around 5 kilometres (3.1 mi) from the Citadel of Huế constructed by the Nguyễn Dynasty and sits on the northern bank of the Perfume River.</rdfs:comment>
+    <rdfs:label xml:lang="en">Pagoda of the Celestial Lady</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoằng_Phúc_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Hoang Phuc Pagoda (Vietnamese: Chùa Hoằng Phúc, literally: Great Blessing, Hán tự: 弘福寺) is a pagoda located in Thuan Trach Village, Mỹ Thủy Commune, Lệ Thủy District, Quảng Bình Province, North Central Coast Region of Vietnam. The pagoda has a history of more than 700 years, one of the oldest temples in Central Vietnam.</rdfs:comment>
+    <rdfs:label xml:lang="en">Hoằng Phúc Pagoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linh_Sơn_Pagoda">
+    <dbo:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:Buddhist_temples_in_Vietnam"/>
+    <rdfs:comment xml:lang="en">Linh Sơn Pagoda (Chùa Linh Sơn) is a notable Buddhist temple in the resort town of Đà Lạt, Vietnam. Linh Son Pagoda is located on top of a small hill at 120 Nguyễn Văn Trỗi Street, in the second ward, approximately 700 m northwest of the centre of Da Lat. The temple was built starting in 1938 and it was completed and opened in 1940. The building was funded by the general public, but the largest financial donations were from two lay Buddhists by the names of Võ Đình Dung and Nguyễn Văn Tiến.</rdfs:comment>
+    <rdfs:label xml:lang="en">Linh Sơn Pagoda</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

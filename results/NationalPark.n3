@@ -1,0 +1,52 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:List_of_World_Heritage_Sites_in_Vietnam
+        rdfs:comment          "The United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Sites are places of importance to cultural or natural heritage as described in the UNESCO World Heritage Convention, established in 1972. Vietnam accepted the convention on 19 October 1987, making its natural and cultural sites eligible for inclusion on the list. As of 2021, there are eight World Heritage Sites in Vietnam, including five cultural sites, two natural sites, and one mixed. Vietnam holds the second-highest number of World Heritage Sites in Southeast Asia, after Indonesia with nine sites."@en ;
+        rdfs:label            "List of World Heritage Sites in Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
+
+dbr:Chư_Mom_Ray_National_Park
+        rdfs:comment          "Chư Mom Ray National Park (Vietnamese: Vườn quốc gia Chư Mom Ray ) is a national park of Vietnam in the province of Kon Tum, Central Highlands region. The national park was established according to the Decision number 103/2002/QĐ-TTg dated 30 July 2002 signed by the government of Vietnam. This decision turned the Nature Reserve into National Park. \n* v \n* t \n* e"@en ;
+        rdfs:label            "Chư Mom Ray National Park"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
+
+dbr:Xuân_Sơn_National_Park
+        rdfs:comment          "Xuân Sơn National Park (Vietnamese: Vườn quốc gia Xuân Sơn) is a national park of Tân Sơn District, Phú Thọ Province, Vietnam. It was established on August 9, 1986 as a nature reserve, and it covers an area of 150.48 square kilometres. The park lies at the extreme south-eastern extent of the , 45 kilometres south-west of the confluence of the Red River and Black Rivers."@en ;
+        rdfs:label            "Xuân Sơn National Park"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
+
+dbr:Tourism_in_Vietnam
+        rdfs:comment          "Tourism in Vietnam is a component of the modern Vietnamese economy. In 2019, Vietnam received 18 million international arrivals, up from 2.1 million in the year 2000. The Vietnam National Administration of Tourism is following a long-term plan to diversify the tourism industry, which brings foreign exchange into the country."@en ;
+        rdfs:label            "Tourism in Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
+
+dbr:Tràm_Chim_National_Park
+        rdfs:comment          "Tràm Chim National Park (Vietnamese: Vườn quốc gia Tràm Chim) is a national park in the Plain of Reeds in the Mekong Delta region of Vietnam. The park was created to restore a degraded wetland, in order to protect several rare birds, especially the sarus crane (Grus antigone sharpii)--a species listed on the IUCN Red List. It is also a designated wetland of international importance under the Ramsar Convention."@en ;
+        rdfs:label            "Tràm Chim National Park"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
+
+dbr:Protected_areas_of_Vietnam
+        rdfs:comment          "Many areas of Vietnam are under protection. While the national reserves cover small areas of scientific significance with restricted access, the national parks also cover wetlands of Ramsar designated areas and BirdLife International inscribed bird areas. The largest of the national parks initially covered were the Cúc Phương National Park, the Cát Tiên National Park, and the Côn Đảo National Park which to start with were forest areas cum reserves or prohibited areas. The objective for creating national parks was to allow access to the reserved areas as a part of ecotourism and cultural needs with full attention to the basic approach of conservation of natural environmental resources."@en ;
+        rdfs:label            "Protected areas of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
+
+dbr:Vietnam  rdfs:comment     "Vietnam (Vietnamese: Việt Nam, [vîət nāːm]), officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."@en ;
+        rdfs:label            "Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
+
+dbr:Outline_of_Vietnam
+        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 86 million, Vietnam is the 13th most populous country in the world."@en ;
+        rdfs:label            "Outline of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
+
+dbr:U_Minh_Hạ_National_Park
+        rdfs:comment          "U Minh Hạ National Park (Vietnamese: Vườn quốc gia U Minh Hạ) or National Park of Lower U Minh is a national park of Vietnam. The park is located in Cà Mau Province (communes Khánh Lâm, Khanh An of U Minh District and communes of Trần Hợi, Khánh Bình Tây Bắc of Trần Văn Thời District). The park has an area of 82.86 square kilometers and was established on 20 January 2006 to protect low wetland ecosystem in the region. Fauna and flora found here include mangrove, snake, turtle, bird, amphibian."@en ;
+        rdfs:label            "U Minh Hạ National Park"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .
+
+dbr:List_of_national_parks
+        rdfs:comment          "This is a list of the number of national parks per nation, as defined by the International Union for Conservation of Nature. Nearly 100 countries around the world have lands classified as a national park by this definition. Note that this article links to list articles of national parks by country on Wikipedia in the \"Country\" column in the tables."@en ;
+        rdfs:label            "List of national parks"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_national_parks_of_Vietnam .

@@ -1,0 +1,14 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Elephant_Waterfalls
+        rdfs:comment          "Elephant Waterfalls (Vietnamese: Thác Voi) is a waterfall in the Central Highlands of Vietnam. It is located about 25 km from Da Lat on the Cam Ly River. The falls are described as one of the most beautiful of the Central Highlands. A path with steps carved out into the slippery rocks leads to the foot of the falls. Bats roam around the area, where they inhabit a cave under the waterfalls."@en ;
+        rdfs:label            "Elephant Waterfalls"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Waterfalls_of_Vietnam .
+
+<http://dbpedia.org/resource/Ban_Gioc–Detian_Falls>
+        rdfs:comment          "Ban Gioc – Detian Falls or Ban Gioc Falls (Vietnamese: thác Bản Giốc Cặp thác Bản Giốc - Đức Thiên, Yue Chinese: 板約瀑布, 德天瀑布/dak1 tin1 baan2 joek3 daai6 buk6 bou6, Mandarin Chinese: Détiān pùbù, Bǎnyuē pùbù) is a collective name for two waterfalls on the Quây Sơn River (Chinese: 归春河, Guichun River,Quy Xuân Hà) that straddle the international border between China and Vietnam; more specifically located between the Karst hills of Daxin County, Guangxi, (Vietnamese: Đại Tân, Quảng Tây) and Trùng Khánh District, Cao Bằng Province. (重庆,高平) The waterfalls are located 272 km (169 mi) north of Hanoi."@en ;
+        rdfs:label            "Ban Gioc–Detian Falls"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Waterfalls_of_Vietnam .

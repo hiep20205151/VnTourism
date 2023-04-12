@@ -1,71 +1,79 @@
 package test;
-import java.util.ArrayList;
 
+import query.QueryData;
 import topic.VnTourismTopic;
 import topic.subtopic.*;
 
-public class Main {
-	public static void main(String[] args) {
-//			Files.createDirectories(Paths.get("requests"));
+public class Main{
 
-		ArrayList<VnTourismTopic> topics = new ArrayList<VnTourismTopic>();
-		
-		VnTourismTopic amusementpark = new AmusementPark();	//polymorphism
-		topics.add(amusementpark);
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		QueryData rq = new QueryData();
+		VnTourismTopic amusementpark = new AmusementPark();
+		rq.add(amusementpark);
+		VnTourismTopic aquaria = new Aquaria();
+		rq.add(aquaria);
+		VnTourismTopic archaeologicalsite = new ArchaeologicalSite();
+		rq.add(archaeologicalsite);
 		VnTourismTopic beach = new Beach();
-		topics.add(beach);
+		rq.add(beach);
 		VnTourismTopic botanicalgarden = new BotanicalGarden();
-		topics.add(botanicalgarden);
+		rq.add(botanicalgarden);
 		VnTourismTopic buddhisttemple = new BuddhistTemple();
-		topics.add(buddhisttemple);
+		rq.add(buddhisttemple);
+		VnTourismTopic cave = new Cave();
+		rq.add(cave);
 		VnTourismTopic clocktower = new ClockTower();
-		topics.add(clocktower);
+		rq.add(clocktower);
 		VnTourismTopic defunctprison = new DefunctPrison();
-		topics.add(defunctprison);
+		rq.add(defunctprison);
 		VnTourismTopic festival = new Festival();
-		topics.add(festival);
+		rq.add(festival);
+		VnTourismTopic capital = new HistoricalCapital();
+		rq.add(capital);
 		VnTourismTopic historicalsite = new HistoricalSite();
-		topics.add(historicalsite);
+		rq.add(historicalsite);
 		VnTourismTopic hotel = new Hotel();
-		topics.add(hotel);
+		rq.add(hotel);
 		VnTourismTopic island = new Island();
-		topics.add(island);
+		rq.add(island);
 		VnTourismTopic lake = new Lake();
-		topics.add(lake);
+		rq.add(lake);
+		VnTourismTopic landform = new Landform();
+		rq.add(landform);
 		VnTourismTopic mausoleum = new Mausoleum();
-		topics.add(mausoleum);
+		rq.add(mausoleum);
 		VnTourismTopic militarywarmuseum = new MilitaryWarMuseum();
-		topics.add(militarywarmuseum);
+		rq.add(militarywarmuseum);
+		VnTourismTopic monarch = new Monarch();
+		rq.add(monarch);
 		VnTourismTopic mountainrange = new MountainRange();
-		topics.add(mountainrange);
+		rq.add(mountainrange);
 		VnTourismTopic museum = new Museum();
-		topics.add(museum);
+		rq.add(museum);
 		VnTourismTopic nationalpark = new NationalPark();
-		topics.add(nationalpark);
+		rq.add(nationalpark);
 		VnTourismTopic operahouse = new OperaHouse();
-		topics.add(operahouse);
+		rq.add(operahouse);
 		VnTourismTopic river = new River();
-		topics.add(river);
+		rq.add(river);
 		VnTourismTopic roadbridge = new RoadBridge();
-		topics.add(roadbridge);
+		rq.add(roadbridge);
+		VnTourismTopic tomb = new Tomb();
+		rq.add(tomb);
 		VnTourismTopic vietnamesedish = new VietnameseDish();
-		topics.add(vietnamesedish);
+		rq.add(vietnamesedish);
+		VnTourismTopic volcano = new Volcano();
+		rq.add(volcano);
 		VnTourismTopic waterfall = new WaterFall();
-		topics.add(waterfall);
+		rq.add(waterfall);
 		VnTourismTopic worldheritagesite = new WorldHeritageSite();
-		topics.add(worldheritagesite);
+		rq.add(worldheritagesite);
 		VnTourismTopic zoo = new Zoo();
-		topics.add(zoo);
-		
-//		for(VnTourismTopic topic : topics) {
-//			topic.query(topic.getInput(), topic.getOutput());
-//			topic.printNotification();
-//		}
-		
-		topics.forEach(topic -> {
-			topic.query(topic.getInput(), topic.getOutput());
-			topic.printNotification();
-		}); 
-		System.out.println("Done!");
+		rq.add(zoo);
+		rq.processQuery();
+		rq.printTime();
+		rq.printNumData();
 	}
+
 }

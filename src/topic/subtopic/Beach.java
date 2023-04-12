@@ -1,13 +1,12 @@
 package topic.subtopic;
 
-import java.io.File;
-
+import query.QueryData;
 import topic.VnTourismTopic;
 
-public class Beach extends VnTourismTopic{
+public class Beach extends VnTourismTopic {
+
 	public Beach() {
 		super();
-		this.setInput(insert(copyFile(new File("request.rq"), new File("requests\\"+this.getTopic() +".rq")), "dbc:Beaches_of_Vietnam"));
-		this.setOutput(getResultsFolder() +"\\" + this.getTopic() + ".ttl");
+		this.setInputFile(QueryData.createRequestFile(this.getTopic() + ".rq", "dbc:Beaches_of_Vietnam"));
 	}
 }

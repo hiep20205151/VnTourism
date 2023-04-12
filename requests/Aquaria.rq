@@ -1,0 +1,33 @@
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX dbp: <https://dbpedia.org/property/>
+PREFIX dbc: <http://dbpedia.org/resource/Category:>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+CONSTRUCT {
+    ?name rdfs:label ?label.
+    ?name dbo:wikiPageWikiLink ?o.
+    ?name rdfs:comment ?comment.
+}
+
+WHERE{
+    ?name rdfs:comment ?comment.
+    FILTER(langMatches(lang(?comment), "en") )
+    ?name rdfs:label ?label.
+    FILTER(langMatches(lang(?label), "en"))
+    VALUES ?o{ 
+        dbc:Aquaria_in_Vietnam
+    }
+    ?name dbo:wikiPageWikiLink ?o.
+    OPTIONAL{
+    	?name dbp:owner ?owner.
+    }
+    OPTIONAL{
+    	?name dbp:openingDate ?openingdate.
+    }
+}
+ORDER BY ?name

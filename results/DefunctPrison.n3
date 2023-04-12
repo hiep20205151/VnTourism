@@ -1,0 +1,38 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/resource/Sơn_Tây_prison_camp>
+        rdfs:comment          "The Sơn Tây prison camp was a POW camp operated by North Vietnam near Sơn Tây and approximately 23 miles (37 km) west of Hanoi in the late 1960s through late 1970 and again in 1975. About 65 US prisoners of war were held there during the middle of the Vietnam War. It was later used to house foreigners captured in South Vietnam during the 1975 Spring Offensive."@en ;
+        rdfs:label            "Sơn Tây prison camp"@en ;
+        dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
+
+<http://dbpedia.org/resource/Hỏa_Lò_Prison>
+        rdfs:comment          "Hỏa Lò Prison (Vietnamese: [hwa᷉ː lɔ̂]) was a prison used by the French colonists in French Indochina for political prisoners, and later by North Vietnam for U.S. prisoners of war during the Vietnam War (which in Vietnam is called the American War). During this later period it was known to American POWs as the \"Hanoi Hilton\". The prison was demolished during the 1990s, although the gatehouse remains as a museum."@en ;
+        rdfs:label            "Hỏa Lò Prison"@en ;
+        dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
+
+<http://dbpedia.org/resource/Phú_Quốc_Prison>
+        rdfs:comment          "Phu Quoc Prison (Vietnamese: Nhà tù Phú Quốc) is a prison in Phú Quốc, southern Vietnam (today it is in Kiên Giang Province. The prison was built in 1949–1950 by French colonialists as a place to detain political dissidents. During the Vietnam War, it was used for detention of captured Viet Cong and North Vietnamese soldiers. Many of the high ranking leaders of Vietnam were detained here. It is ranked a special historical relic of national significance by the government of Vietnam. The prison covers an area of 40,000 square metres (0.015 sq mi). The prison was closed after the country united, but is currently open for visitors."@en ;
+        rdfs:label            "Phú Quốc Prison"@en ;
+        dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
+
+<http://dbpedia.org/resource/Côn_Đảo_Prison>
+        rdfs:comment          "Côn Đảo Prison (Vietnamese: Nhà tù Côn Đảo), also Côn Sơn Prison, is a prison on Côn Sơn Island (also known as Côn Lôn) the largest island of the Côn Đảo archipelago in southern Vietnam (today it is in Bà Rịa–Vũng Tàu province. The prison was built in 1861 by the French colonists to jail those considered especially dangerous to the colonial government. Many of the high-ranking leaders of Vietnam were detained here. It is ranked a special historical relic of national importance by the government of Vietnam. The most famous site in this prison are the \"tiger cages\" (vi:\"chuồng cọp\"). The French tiger cages cover an area of 5.475 m2, within which each cell occupies 1.408 m2, solariums occupy 1.873 m2, and other spaces occupy 2.194 m2. The prison includes 120 cells.The prison was closed after "@en ;
+        rdfs:label            "Côn Đảo Prison"@en ;
+        dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
+
+<http://dbpedia.org/resource/Côn_Sơn_Island>
+        rdfs:comment          "Côn Sơn, also known as Côn Lôn is the largest island of the Côn Đảo archipelago, off the coast of southern Vietnam."@en ;
+        rdfs:label            "Côn Sơn Island"@en ;
+        dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
+
+<http://dbpedia.org/resource/Re-education_camp_(Vietnam)>
+        rdfs:comment          "Re-education camps (Vietnamese: Trại cải tạo) were prison camps operated by the Communist government of Vietnam following the end of the Vietnam War. In these camps, the government imprisoned up to 300,000 former military officers, government workers and supporters of the former government of South Vietnam. Other estimates put the number of inmates who passed through \"re-education\" as high as 500,000 to 1 million. \"Re-education\" as it was implemented in Vietnam was seen as both a means of revenge and a sophisticated technique of repression and indoctrination, which developed following the 1975 Fall of Saigon. Thousands were tortured and abused. Prisoners were incarcerated for periods ranging from weeks to 18 years."@en ;
+        rdfs:label            "Re-education camp (Vietnam)"@en ;
+        dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .
+
+<http://dbpedia.org/resource/Long_Bình_Jail>
+        rdfs:comment          "Long Binh Jail (commonly called LBJ, the \"LBJ Ranch\", or Long Binh Stockade) was a U.S. military stockade located at Long Binh Post, in Đồng Nai Province, South Vietnam during the Vietnam War. 90% of the prisoners in the jail were African Americans. The Dignity and Pride handshake was created here."@en ;
+        rdfs:label            "Long Bình Jail"@en ;
+        dbo:wikiPageWikiLink  dbc:Defunct_prisons_in_Vietnam .

@@ -1,0 +1,33 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Volcanic_crater_lake
+        rdfs:comment          "A volcanic crater lake is a lake in a crater that was formed from explosive activity or collapse during a volcanic eruption."@en ;
+        rdfs:label            "Volcanic crater lake"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_volcanoes_in_Vietnam .
+
+dbr:Ile_des_Cendres  rdfs:comment  "Ile des Cendres (Vietnamese: Hòn Tro, also known as Veteran) is a group of submarine volcanoes located off the southeast coast of Vietnam, 100 kilometres (62 mi) southeast of Phan Thiết. 1–1.2 kilometres (0.62–0.75 mi) wide and 60–70 metres (200–230 ft) high volcanoes are characteristic for this volcanic group."@en ;
+        rdfs:label            "Ile des Cendres"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Volcanoes_of_Vietnam , dbr:List_of_volcanoes_in_Vietnam .
+
+dbr:Lists_of_volcanoes
+        rdfs:comment          "These lists cover volcanoes by type and by location."@en ;
+        rdfs:label            "Lists of volcanoes"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_volcanoes_in_Vietnam .
+
+dbr:List_of_volcanoes_in_Vietnam
+        rdfs:comment          "This is a list of active and extinct volcanoes in Vietnam."@en ;
+        rdfs:label            "List of volcanoes in Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Volcanoes_of_Vietnam .
+
+dbr:Cù_Lao_Ré_volcanic_islands
+        rdfs:comment          "Cù-Lao Ré is a volcanic field northeast of Quảng Ngãi, Vietnam. The field consists of 13 volcanic cones; four subaerial and nine submarine. Three of the subaerial cones formed the Cù-Lao Ré Island, while the fourth one formed the Cù-Lao Bai Island. The islands form the Lý Sơn District of Quảng Ngãi Province."@en ;
+        rdfs:label            "Cù Lao Ré volcanic islands"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Volcanoes_of_Vietnam , dbr:List_of_volcanoes_in_Vietnam .
+
+dbr:Outline_of_Vietnam
+        rdfs:comment          "The following outline is provided as an overview of and topical guide to Vietnam: Vietnam – sovereign country located on the eastern extent of the Indochinese Peninsula in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 98 million, Vietnam is the 15th most populous country in the world."@en ;
+        rdfs:label            "Outline of Vietnam"@en ;
+        dbo:wikiPageWikiLink  dbr:List_of_volcanoes_in_Vietnam .

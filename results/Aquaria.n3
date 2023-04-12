@@ -1,0 +1,8 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/resource/Tuần_Châu_Aquarium>
+        rdfs:comment          "Tuan Chau Aquarium is an aquarium located on Tuan Chau Island in Ha Long Bay, Vietnam. The structure itself reflects a very modern style of architecture."@en ;
+        rdfs:label            "Tuần Châu Aquarium"@en ;
+        dbo:wikiPageWikiLink  dbc:Aquaria_in_Vietnam .

@@ -1,0 +1,17 @@
+@prefix dbc:  <http://dbpedia.org/resource/Category:> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Bình_Tây_Market  rdfs:comment  "Binh Tay Market (Vietnamese: Chợ Bình Tây or Chợ Lớn or Chợ Lớn Mới) is the Central Market of Cho Lon in District 6, Ho Chi Minh City, Vietnam. Local Vietnamese refer to it as Chợ Lớn, while local Vietnamese-Chinese refer it as 堤岸 - 新街市 \"The New Market of Chợ Lớn\", and the Chinese other than those living in Vietnam known it only as 堤岸 (Dī'àn, or literally, \"embankment\")."@en ;
+        rdfs:label            "Bình Tây Market"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Clock_towers_in_Vietnam .
+
+dbr:Ho_Chi_Minh_City_Hall
+        rdfs:comment          "Ho Chi Minh City Hall, officially called the Ho Chi Minh City People's Committee Head Office (Trụ sở Ủy ban Nhân dân Thành phố Hồ Chí Minh) is the city hall of Ho Chi Minh City, Vietnam. The hall was built in 1902–1908 in a French colonial style by architect . Since 1975, the building has housed the Ho Chi Minh City People's Committee, Ho Chi Minh City People's Council and Ho Chi Minh City People's Court. Other buildings nearby: \n* Municipal Theatre, Ho Chi Minh City \n* \n* Rex Hotel, Ho Chi Minh City"@en ;
+        rdfs:label            "Ho Chi Minh City Hall"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Clock_towers_in_Vietnam .
+
+dbr:Bến_Thành_Market  rdfs:comment  "Bến Thành Market (Vietnamese: Chợ Bến Thành) is located in the center of Hồ Chí Minh City, Vietnam in District 1. The market is one of the earliest surviving structures in Saigon and an important symbol of the city. Ben Thanh Market is a famous destination for many local and foreign tourists from all around the world. The market operates all year round and opens at around 6am every day until the official closing time at 6pm. After 6pm, the day market transitions into a night market which runs until 10pm."@en ;
+        rdfs:label            "Bến Thành Market"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Clock_towers_in_Vietnam .

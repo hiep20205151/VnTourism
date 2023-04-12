@@ -23,5 +23,11 @@ WHERE{
         dbc:Hotels_in_Vietnam
     }
     ?name dbo:wikiPageWikiLink ?o.
+    OPTIONAL{
+    	?name dbp:owner ?owner.
+    }
+    OPTIONAL{
+    	?name dbp:openingDate ?openingdate.
+    }
 }
 ORDER BY ?name
